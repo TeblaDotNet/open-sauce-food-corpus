@@ -1,0 +1,6 @@
+node_modules/
+.integration/
+site-dist/
+hosting-work/
+work/
+*.log

@@ -1,0 +1,26 @@
+{
+  "name": "@open-sauce/corpus",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Source-preserving Open Sauce Food parser and human recipe renderers",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node integration.mjs test",
+    "check": "node integration.mjs check",
+    "build": "node integration.mjs build",
+    "corpus": "node integration.mjs corpus"
+  },
+  "dependencies": {
+    "yaml": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "marked": "18.1.0",
+    "typescript": "^5.9.0"
+  },
+  "packageManager": "pnpm@11.25.0",
+  "license": "SEE LICENSE IN LICENSE"
+}
