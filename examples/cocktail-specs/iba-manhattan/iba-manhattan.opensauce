@@ -1,0 +1,44 @@
+::recipe
+name: Manhattan
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/manhattan/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey
+
+# Stable spec ID: iba-manhattan. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(rye whiskey) 50 ml
+(vermouth; sweet red) 20 ml
+(bitters @ Angostura) 1 dash
+
+::equipment
+(mixing glass)
+(cocktail glass)
+
+::instructions
+<stir, all measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (cocktail glass)>
+<garnish, with cocktail cherry>
+
+::notes
+This is a source-specific formula, not a universal definition of the drink.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Manhattan
+URL: https://iba-world.com/iba-cocktail/manhattan/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+50 ml Rye Whiskey
+20 ml Sweet Red Vermouth
+1 dash Angostura Bitters
+Garnish facts: cocktail cherry
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

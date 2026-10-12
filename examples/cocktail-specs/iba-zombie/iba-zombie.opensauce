@@ -1,0 +1,58 @@
+::recipe
+name: Zombie
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/zombie/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, rum
+
+# Stable spec ID: iba-zombie. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(rum; Jamaican dark) 45 ml
+(rum; gold Puerto Rican) 45 ml
+(rum; Demerara) 30 ml
+(lime: juice, fresh) 20 ml
+(falernum) 15 ml
+(Donn’s Mix) 15 ml
+(grenadine syrup) 1 tsp
+(bitters @ Angostura) 1 dash
+(anise spirit @ Pernod) 6 drops
+(ice, cracked) 170g
+
+::equipment
+(blender)
+(tall tumbler)
+
+::instructions
+<add, the measured ingredients and 170g cracked ice to (blender)>
+<pulse, a few seconds>
+<pour, into (tall tumbler)>
+<garnish, with mint leaves>
+
+::notes
+Donn’s Mix is two parts yellow grapefruit juice to one part cinnamon syrup; it is a named preparation, not automatically a brand.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Zombie
+URL: https://iba-world.com/iba-cocktail/zombie/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml Jamaican dark rum
+45 ml Gold Puerto Rican rum
+30 ml Demerara Rum
+20 ml Fresh lime juice
+15 ml Falernum
+15 ml Donn’s Mix
+1 tsp Grenadine syrup
+1 dash Angostura bitters
+6 drops Pernod
+Garnish facts: mint leaves
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

@@ -1,0 +1,46 @@
+::recipe
+name: Espresso Martini
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/espresso-martini/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, vodka
+
+# Stable spec ID: iba-espresso-martini. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(vodka) 50 ml
+(coffee liqueur @ Kahlúa) 30 ml
+(simple syrup) 10 ml
+(coffee; espresso) 1 strong espresso
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, all measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+<garnish, with 3 coffee beans>
+
+::notes
+This is a source-specific formula, not a universal definition of the drink.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Espresso Martini
+URL: https://iba-world.com/iba-cocktail/espresso-martini/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+50 ml Vodka
+30 ml Kahlúa
+10 ml Sugar Syrup
+1 strong espresso Espresso
+Garnish facts: 3 coffee beans
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

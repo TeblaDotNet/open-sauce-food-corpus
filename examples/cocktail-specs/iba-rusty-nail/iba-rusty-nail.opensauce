@@ -1,0 +1,40 @@
+::recipe
+name: Rusty Nail
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/rusty-nail/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey
+
+# Stable spec ID: iba-rusty-nail. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(Scotch whisky) 45 ml
+(whisky liqueur @ Drambuie) 25 ml
+
+::equipment
+(old-fashioned glass)
+
+::instructions
+<combine, measured ingredients over ice in (old-fashioned glass)> <stir, gently>
+<garnish, with lemon zest>
+
+::notes
+This is a source-specific formula, not a universal definition of the drink.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Rusty Nail
+URL: https://iba-world.com/iba-cocktail/rusty-nail/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml Scotch Whisky
+25 ml Drambuie
+Garnish facts: lemon zest
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

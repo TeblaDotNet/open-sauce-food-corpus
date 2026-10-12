@@ -56,3 +56,7 @@ The unmodified texts are retained locally; the GPL “or later” option is gran
 ## Extraction scope
 
 This project was extracted from core commit 04c3d1c44f05686bb16729fb926acdde86f43047. The table preserves the original grants, not a new licensing determination. Original src/ and canonical knowledge now belong to the core sibling; presentation and fonts belong to the site sibling; full recipes and source evidence belong to the corpus sibling. Generated integration copies retain those terms. Historical archived documents use historical paths.
+
+## Cocktail Foundation v1
+
+`examples/cocktail-specs/` is separate from the public-domain import. Its source-specific formulas retain factual quantities and ingredient labels, not source articles or photographs. Methods and structural encodings are independently authored OSF text under the existing CC BY 4.0 scope. No licence to third-party prose or images is asserted. Per-spec provenance, retrieval dates and original factual formulas are in `source/cocktail-specs/provenance.json`. Reworked conversion status is distinct from human review: these encodings remain generated and unchecked.

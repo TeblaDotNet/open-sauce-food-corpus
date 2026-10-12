@@ -1,0 +1,48 @@
+::recipe
+name: Aviation
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/aviation/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, gin
+
+# Stable spec ID: iba-aviation. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(gin) 45 ml
+(maraschino liqueur @ Luxardo) 15 ml
+(lemon: juice, fresh) 15 ml
+(crème de violette) 1 bar spoon
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, all measured ingredients with cracked ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+Optional [
+    <garnish, with maraschino cherry>
+]
+
+::notes
+This is a source-specific formula, not a universal definition of the drink.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Aviation
+URL: https://iba-world.com/iba-cocktail/aviation/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml Gin
+15 ml Maraschino Luxardo
+15 ml Fresh Lemon Juice
+1 bar spoon Crème de Violette
+Garnish facts: maraschino cherry (optional)
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

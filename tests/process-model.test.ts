@@ -60,8 +60,8 @@ test('unknown actions and existing techniques keep their established behavior', 
   }
   assert.equal(vocabulary.resolve('reduce heat','process')[0].id,'reduce-heat');
   assert.equal(vocabulary.resolve('slash','process')[0].id,'slash');
-  assert.equal(vocabulary.resolve('barbecue','process').length,0);
-  assert.equal(vocabulary.resolve('bbq','process').length,0);
+  assert.equal(vocabulary.resolve('barbecue','process')[0].id,'barbecue');
+  assert.equal(vocabulary.resolve('bbq','process')[0].id,'barbecue');
 });
 
 test('410 corpus ASTs change only by the approved process resolution and eligibility fields', async () => {

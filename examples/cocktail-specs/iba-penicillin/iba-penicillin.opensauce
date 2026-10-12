@@ -1,0 +1,52 @@
+::recipe
+name: Penicillin
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/penicillin/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey
+
+# Stable spec ID: iba-penicillin. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(Scotch whisky; blended) 60 ml
+(Scotch whisky; single malt @ Lagavulin 16y) 7.5 ml
+(lemon: juice, fresh) 22.5 ml
+(honey syrup) 22.5 ml
+(ginger, fresh) 2-3 quarter-size slices
+
+::equipment
+(cocktail shaker)
+(fine strainer)
+(old-fashioned glass)
+
+::instructions
+(ginger, fresh) <muddle, in (cocktail shaker)>
+<add, all remaining measured ingredients except the (Scotch whisky; single malt @ Lagavulin 16y)>
+<fill, shaker with ice> <shake>
+<fine-strain, into a chilled (old-fashioned glass) with ice>
+(Scotch whisky; single malt @ Lagavulin 16y) <float, on top>
+<garnish, with candied ginger slices>
+
+::notes
+Source method has the typo “Fine train”; interpreted as fine-strain, recorded rather than silently altering original ingredient wording.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Penicillin
+URL: https://iba-world.com/iba-cocktail/penicillin/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+60 ml Blended scotch whisky
+7.5 ml Lagavulin 16y
+22.5 ml Fresh lemon juice
+22.5 ml Honey syrup
+2-3 quarter-size slices Fresh ginger
+Garnish facts: candied ginger slices
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

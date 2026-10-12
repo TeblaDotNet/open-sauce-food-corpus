@@ -1,0 +1,58 @@
+::recipe
+name: Amaretto Sour
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey
+
+# Stable spec ID: morgenthaler-amaretto-sour. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(amaretto) 45 ml
+(bourbon; cask-proof) 22.5 ml
+(lemon: juice) 30 ml
+(simple syrup, 2:1) 5 ml
+(egg: white, lightly beaten) 15 ml
+
+::equipment
+(cocktail shaker)
+(old-fashioned glass)
+(immersion blender)
+
+::instructions
+[
+    <shake, all measured ingredients without ice in (cocktail shaker)>
+]
+-OR-
+[
+    <blend, measured ingredients with (immersion blender) until combined and frothy>
+]
+<shake, with cracked ice>
+<strain, onto fresh ice in (old-fashioned glass)>
+Optional [
+    <garnish, with lemon peel and brandied cherries>
+]
+
+::notes
+The emphasis is cask-proof bourbon, not a specific brand; reader comments are excluded.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Amaretto Sour
+URL: https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml Amaretto
+22.5 ml Cask-proof bourbon
+30 ml Lemon juice
+5 ml Simple syrup (2:1)
+15 ml Egg white (lightly beaten)
+Garnish facts: lemon peel and brandied cherries (optional)
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

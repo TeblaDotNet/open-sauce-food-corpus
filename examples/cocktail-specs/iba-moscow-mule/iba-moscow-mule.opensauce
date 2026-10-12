@@ -1,0 +1,45 @@
+::recipe
+name: Moscow Mule
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/moscow-mule/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, vodka
+
+# Stable spec ID: iba-moscow-mule. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(vodka @ Smirnoff) 45 ml
+(ginger beer) 120 ml
+(lime: juice, fresh) 10 ml
+
+::equipment
+(mule cup)
+(rocks glass)
+(serving glass) = (mule cup) -OR- (rocks glass)
+
+::instructions
+(vodka) + (ginger beer) <combine, in the chosen (serving glass)>
+(lime: juice) <add> <stir, gently>
+<garnish, with lime slice>
+
+::notes
+No ice quantity or ice instruction is supplied in this source method; do not invent one in the conversion.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Moscow Mule
+URL: https://iba-world.com/iba-cocktail/moscow-mule/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml Smirnoff Vodka
+120 ml Ginger Beer
+10 ml Fresh lime juice
+Garnish facts: lime slice
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

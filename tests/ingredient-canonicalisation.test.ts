@@ -58,8 +58,8 @@ test('ingredient canonical index is complete and merged IDs do not leave duplica
   for (const entry of index.entries) assert.ok(files.includes(entry.file));
   // Historical seed files are intentionally excluded by the schema 0.3 index.
   for (const c of decisions.changes) assert.equal(files.includes(c.from + '.yaml'), false);
-  assert.equal(index.entries.length, decisions.afterCount - localRoles.entries.length);
-  assert.equal(new Set(index.entries.map((e: {id: string}) => e.id)).size, decisions.afterCount - localRoles.entries.length);
+  assert.equal(index.entries.length, decisions.afterCount - localRoles.entries.length + 9 /* cocktail ingredient foundation */);
+  assert.equal(new Set(index.entries.map((e: {id: string}) => e.id)).size, decisions.afterCount - localRoles.entries.length + 9 /* cocktail ingredient foundation */);
   for (const c of decisions.changes) assert.equal(createReferencePage(vocabulary, 'ingredient', c.from), undefined);
   assert.equal(vocabulary.resolvePartPath('egg', ['yolk']).complete, true);
   assert.ok(renderReferenceHtml(createReferencePage(vocabulary, 'ingredient', 'egg')!).includes('id="part-yolk"'));

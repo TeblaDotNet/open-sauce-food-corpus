@@ -1,0 +1,1642 @@
+[
+  {
+    "path": "examples/public-domain-recipes/aelplermagronen/aelplermagronen.opensauce",
+    "sha256": "aa053ba62e0544705dc02367ed1f23ce3f97fe6562d0d472f31bad0f63184ffb"
+  },
+  {
+    "path": "examples/public-domain-recipes/aglio-e-olio/aglio-e-olio.opensauce",
+    "sha256": "7e3b386002a36462aa78740ced570a5643db6f3b73a7dc08ec1c6e85ce5a2d07"
+  },
+  {
+    "path": "examples/public-domain-recipes/air-fryer-zucchini/air-fryer-zucchini.opensauce",
+    "sha256": "8bf5e01c90694c85c3e3f14986035a8974f7f08cfed20da72d1393e414ac2f09"
+  },
+  {
+    "path": "examples/public-domain-recipes/aljotta/aljotta.opensauce",
+    "sha256": "40af28c619e2333f72db70dcdb70defe5c8699de3a4120105aa8cdbd9bea36ae"
+  },
+  {
+    "path": "examples/public-domain-recipes/almeirim-stone-soup/almeirim-stone-soup.opensauce",
+    "sha256": "d93abaa757e91234b2c58bea4ba955af73e3b659530493906b2af46ec4ea75a4"
+  },
+  {
+    "path": "examples/public-domain-recipes/apple-chicken/apple-chicken.opensauce",
+    "sha256": "437f4ab6b70e331082117ef22ff808eefbb6b8126617f448908ad7fba1344c9a"
+  },
+  {
+    "path": "examples/public-domain-recipes/apple-pie/apple-pie.opensauce",
+    "sha256": "a1b0962719e2a7c7af574b0f244c9842e65f1c831b0a253e839c7fc036abad76"
+  },
+  {
+    "path": "examples/public-domain-recipes/apple-strudel/apple-strudel.opensauce",
+    "sha256": "0e867760f92b1241e5e390b021a609536c1d0adaceda09aa0bf7b9400020cb8e"
+  },
+  {
+    "path": "examples/public-domain-recipes/ardei-umpluti/ardei-umpluti.opensauce",
+    "sha256": "8f0aa0c648d0aac28a01057984cd6ac37f0eb2a17cad77c7cf759a2ae31c7f01"
+  },
+  {
+    "path": "examples/public-domain-recipes/arroz-chaufa/arroz-chaufa.opensauce",
+    "sha256": "4a73aa808f72d3c45a830cf326579f7b2d7753e33b45aeddbd22124b02e30e26"
+  },
+  {
+    "path": "examples/public-domain-recipes/asian-style-chicken-sticky-sauce/asian-style-chicken-sticky-sauce.opensauce",
+    "sha256": "bea113ff1ec4075a7ead4a529ad4af57659a519343969c03dc1ae4b984041f53"
+  },
+  {
+    "path": "examples/public-domain-recipes/assam-tea/assam-tea.opensauce",
+    "sha256": "9b4978b4135d79c7d0ba68c2970927a86b1678ef092e87987578580c590e3f69"
+  },
+  {
+    "path": "examples/public-domain-recipes/aussie-snags/aussie-snags.opensauce",
+    "sha256": "5feca7a5ea0899b55c72303146c36c1fae84307b5b1cd8a114b1325a4ead077c"
+  },
+  {
+    "path": "examples/public-domain-recipes/autumn-soup/autumn-soup.opensauce",
+    "sha256": "903a986c958e96ec29d80c5272f8abe0680e7648b2c74374020ec17055d5b2e8"
+  },
+  {
+    "path": "examples/public-domain-recipes/babas-feta-pasta/babas-feta-pasta.opensauce",
+    "sha256": "d9b0e572c7170540f0ccf8c7e82961119a76356e3bbceccc3ad62489237289e2"
+  },
+  {
+    "path": "examples/public-domain-recipes/baby-back-ribs/baby-back-ribs.opensauce",
+    "sha256": "34375a3b8a8e977776737bd2e281cd125dde88a1aa906755a6e624a69aa8a7e9"
+  },
+  {
+    "path": "examples/public-domain-recipes/baked-mostaccioli/baked-mostaccioli.opensauce",
+    "sha256": "c653a1be23b867a4aee9b9754ac8a021dfb2a4351a739ee01fea9c929cecf876"
+  },
+  {
+    "path": "examples/public-domain-recipes/baked-pasta-with-broccoli/baked-pasta-with-broccoli.opensauce",
+    "sha256": "bf5d68328cc576204c08e9788e8ee738ab685e2b1b7f3f9c309e0a1099218a67"
+  },
+  {
+    "path": "examples/public-domain-recipes/baked-rice/baked-rice.opensauce",
+    "sha256": "7c97aa689e1ed48610c5ea4754a8f81bda367c63b118f2a643c76d521c1c244a"
+  },
+  {
+    "path": "examples/public-domain-recipes/baked-salmon/baked-salmon.opensauce",
+    "sha256": "6cd0f4b498828636da417c422317687f0b258398ebc36d03c1e1c502c3bf5243"
+  },
+  {
+    "path": "examples/public-domain-recipes/baked-trout/baked-trout.opensauce",
+    "sha256": "45694d9fad336758e6f0a0ac142fc3dcd2ff5433a4174d9d83581aef49c2e945"
+  },
+  {
+    "path": "examples/public-domain-recipes/banana-bread/banana-bread.opensauce",
+    "sha256": "30349ecd0550d56119e46852f9826931a1f0c828d5b3de69d24a4779b459cf5a"
+  },
+  {
+    "path": "examples/public-domain-recipes/banana-muffins-with-chocolate/banana-muffins-with-chocolate.opensauce",
+    "sha256": "3cffa0ae1659f26d1b0551a9a119d2c0fa776f34c119eec153e2de00a1bab10b"
+  },
+  {
+    "path": "examples/public-domain-recipes/banana-oatmeal-cookies/banana-oatmeal-cookies.opensauce",
+    "sha256": "fd270a528745ce9a5edd2a191c32f0a2e74333b29267428f8a45fc3d080e653e"
+  },
+  {
+    "path": "examples/public-domain-recipes/banana-pancakes/banana-pancakes.opensauce",
+    "sha256": "b548a77529559e4f0434aa4d0242bca40fa9149fc7cf11a3104de3f8d490b4ba"
+  },
+  {
+    "path": "examples/public-domain-recipes/basic-meatballs/basic-meatballs.opensauce",
+    "sha256": "014d6af8ea6c17b8d032ac640df4318d77a70c061be4eb3bfaff97f460e194e0"
+  },
+  {
+    "path": "examples/public-domain-recipes/basic-waffles/basic-waffles.opensauce",
+    "sha256": "b65b3eff0df912f0a41adcacbf88714bea5cd3e3690e571c3c48301fd8d85f85"
+  },
+  {
+    "path": "examples/public-domain-recipes/batter-pudding/batter-pudding.opensauce",
+    "sha256": "fff5419d4bc5c786325ff7b75347038b1cfc9c297094006082de6b18c8bcd3ca"
+  },
+  {
+    "path": "examples/public-domain-recipes/bean-salad/bean-salad.opensauce",
+    "sha256": "5f038608e7020eaf81cf25b3a916dae849126951a5d1ffb4e09dae76e200b1a8"
+  },
+  {
+    "path": "examples/public-domain-recipes/bebek-mropol/bebek-mropol.opensauce",
+    "sha256": "7e59c1c1de762d38b5982c68c1f6bc78dea87bff064645ccaff6547cf025be48"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-and-broccoli/beef-and-broccoli.opensauce",
+    "sha256": "cf7667e78d6c2a07f91cbaeb52785cecdd4b749e6eeb883b176a78818d8e318c"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-goulash/beef-goulash.opensauce",
+    "sha256": "551ea03053b0783f59a0972c201ae7724563e432e6fcd73311139fe2dcb48cb3"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-jerky/beef-jerky.opensauce",
+    "sha256": "0232ffc480b1d76eb7cbbb127bb9d1020b3bd448151e444859700a9b1d520a5e"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-kidney/beef-kidney.opensauce",
+    "sha256": "399857004380372d71c6682ca2b2c68dd6cf18895d4c18285320a4e0a06ed145"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-liver-and-onions/beef-liver-and-onions.opensauce",
+    "sha256": "d7f874da90190fa40079fc8e34d893ea267a0f7b32031f9a3b50924a1be77d01"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-stew/beef-stew.opensauce",
+    "sha256": "ad2fc9aa856c18c2492a238406074dd300a33650c6318973077ca777dcb61e8c"
+  },
+  {
+    "path": "examples/public-domain-recipes/beef-wellington/beef-wellington.opensauce",
+    "sha256": "2b5b9993dd6b17ffcbdff0349b7e9d876e58ca7e5ebdd3248b74597f9fa5b304"
+  },
+  {
+    "path": "examples/public-domain-recipes/belgian-pear-syrup/belgian-pear-syrup.opensauce",
+    "sha256": "3bbed101511d9561fa578456a997ea5cac15e576a69e4aaaf1d3815811b1dd57"
+  },
+  {
+    "path": "examples/public-domain-recipes/bloody-mary-mix/bloody-mary-mix.opensauce",
+    "sha256": "7fd19136cef614c558c135236c977bbab4040684b438cb7e4a00a936633ef337"
+  },
+  {
+    "path": "examples/public-domain-recipes/blueberry-muffins/blueberry-muffins.opensauce",
+    "sha256": "9e94d761a3411f9cd479096284b872b346568d41688113a9e27c3a85eeeae253"
+  },
+  {
+    "path": "examples/public-domain-recipes/bolinhos-de-coco/bolinhos-de-coco.opensauce",
+    "sha256": "e765f207a4ddd49aaea785c48dcb429bbe6df8689c19d8a93fc1590b8610c1f5"
+  },
+  {
+    "path": "examples/public-domain-recipes/bolo-do-caco/bolo-do-caco.opensauce",
+    "sha256": "ca8ed1c9ecaa19ca98a17ac872c132caf608792da4ba60ca42b9d2cd54c18408"
+  },
+  {
+    "path": "examples/public-domain-recipes/bolognese-sauce/bolognese-sauce.opensauce",
+    "sha256": "b3f84a92433afe12bca3ac7bce64e018d8ff404b386ef019a35adfebf47e5e32"
+  },
+  {
+    "path": "examples/public-domain-recipes/bread/bread.opensauce",
+    "sha256": "d4bceed88e9ed9e219c015d5254cd3fe2335880a1bf4fb1fa2ca7ccbe3abe355"
+  },
+  {
+    "path": "examples/public-domain-recipes/bread-pudding/bread-pudding.opensauce",
+    "sha256": "8edf6c013738d38b1b5b1deb06eef1e23947f567a3fffe55fba897488233a452"
+  },
+  {
+    "path": "examples/public-domain-recipes/breakfast-wrap/breakfast-wrap.opensauce",
+    "sha256": "46afff5f70eb070742a9c82f15adaccab1324f3dd2f604d83e346c53b0da6a66"
+  },
+  {
+    "path": "examples/public-domain-recipes/breton-crepes/breton-crepes.opensauce",
+    "sha256": "63b6b9d5600af90c94f19ae08bb9da2e57c398f6e2de15ae404db1c5654e1cfb"
+  },
+  {
+    "path": "examples/public-domain-recipes/brigadeiro/brigadeiro.opensauce",
+    "sha256": "1affd2ac8067dc8f5fd33066af75bf276700b3a567fc296f162d72ffdb0a7408"
+  },
+  {
+    "path": "examples/public-domain-recipes/broiled-trevally/broiled-trevally.opensauce",
+    "sha256": "0025841568bda27fcaba2a9670928620798dd8f07fee6bb781cb31fac78b04d3"
+  },
+  {
+    "path": "examples/public-domain-recipes/broiled-venison-steaks/broiled-venison-steaks.opensauce",
+    "sha256": "6d97e2581e006aef1175ebd48e3ef47d978a77a71c3934e38b01569a43630658"
+  },
+  {
+    "path": "examples/public-domain-recipes/brown-sauce/brown-sauce.opensauce",
+    "sha256": "082cea843b527d38509b3f2e1a8e674d7c008399e193cb4064261713a0123b6a"
+  },
+  {
+    "path": "examples/public-domain-recipes/burger-dressing/burger-dressing.opensauce",
+    "sha256": "757603e96aa4d1bc2deea4c10176700efa1a552e14e8131c80672019e7ae0cc2"
+  },
+  {
+    "path": "examples/public-domain-recipes/butter-based-biscuit/butter-based-biscuit.opensauce",
+    "sha256": "799f6ef023b8286b52d93e82d9285edd9d4e8ee82b956f1d9e9c8980c6162745"
+  },
+  {
+    "path": "examples/public-domain-recipes/butter-biscuits/butter-biscuits.opensauce",
+    "sha256": "e2fa84d683040c1f29373afc239b6c01f4bbc1735f16d52d258407c2cb9ecd7f"
+  },
+  {
+    "path": "examples/public-domain-recipes/butter-cake/butter-cake.opensauce",
+    "sha256": "67695e304c0b3266c65f6422c4d5573d700c340978b86acfaa58ed34708b7cd9"
+  },
+  {
+    "path": "examples/public-domain-recipes/butter-chicken-masala/butter-chicken-masala.opensauce",
+    "sha256": "0e646a60669cd5714b408911431ded5eb2067f16a6de6df6bb79037897b7f96f"
+  },
+  {
+    "path": "examples/public-domain-recipes/cacio-e-pepe/cacio-e-pepe.opensauce",
+    "sha256": "3fd49e39df6748e127f5cd15f3ad0fba9f245463f2ca423010eb113491c56f5c"
+  },
+  {
+    "path": "examples/public-domain-recipes/caesar-salad/caesar-salad.opensauce",
+    "sha256": "d58a4fb8ab74194f134e3b6b21079a1c8581eb4887d6bb78cd9832b3a551b9b1"
+  },
+  {
+    "path": "examples/public-domain-recipes/cannellini-bean-salad/cannellini-bean-salad.opensauce",
+    "sha256": "594ecbf3ceeb33a29a30dbb28cd6e1abdccff8c0b13944aec85e9e9fe145aa49"
+  },
+  {
+    "path": "examples/public-domain-recipes/carbonade/carbonade.opensauce",
+    "sha256": "a460e87311ce8a2b77c75e6e6f4de161e161edc0763ebfa6d76791ae27c1d1d9"
+  },
+  {
+    "path": "examples/public-domain-recipes/carbonara/carbonara.opensauce",
+    "sha256": "83d19a5e65df03b84e5c48e157802752b3579e378f7cd403fc55507464f4b15a"
+  },
+  {
+    "path": "examples/public-domain-recipes/casio-in-pastelletto/casio-in-pastelletto.opensauce",
+    "sha256": "a587bf7abbfbd71060a665669b1d16a4c99ab8bb6be20874ce0acd1f6dd09a7d"
+  },
+  {
+    "path": "examples/public-domain-recipes/castagnole/castagnole.opensauce",
+    "sha256": "0a7e3aee63a15e17bd00313e76eb11f343ef0c7bea75af8f3605f1913dac95ef"
+  },
+  {
+    "path": "examples/public-domain-recipes/ceviche/ceviche.opensauce",
+    "sha256": "8ab400afae2de8bd0ba6bef5b65642dd3b064145919353b85469c0e07f0165d2"
+  },
+  {
+    "path": "examples/public-domain-recipes/challah-bread/challah-bread.opensauce",
+    "sha256": "c378c4e2d1d6f1f1b00330d07ae9c6011977b9047269067fdb238d167af31977"
+  },
+  {
+    "path": "examples/public-domain-recipes/cheddar-crusted-chicken/cheddar-crusted-chicken.opensauce",
+    "sha256": "502cb3f62009b433825b0871686b7a2adc7d913e3e5dd6e742960373f47c204f"
+  },
+  {
+    "path": "examples/public-domain-recipes/cheese/cheese.opensauce",
+    "sha256": "0905f41d14754d160af86c9780aac6f606b3b167c2b3c0f85e126f72f5ff98bc"
+  },
+  {
+    "path": "examples/public-domain-recipes/cheesy-meatballs/cheesy-meatballs.opensauce",
+    "sha256": "c8f870dd7a21fd47009a089c033ffb3011d943d64cde4edf90c9ea2d448d1119"
+  },
+  {
+    "path": "examples/public-domain-recipes/cheesy-pasta-bake/cheesy-pasta-bake.opensauce",
+    "sha256": "703528bcde007aff6f79887e0d48b7d075965119310c8359266a49f502523d43"
+  },
+  {
+    "path": "examples/public-domain-recipes/cheesy-potatoe-bake/cheesy-potatoe-bake.opensauce",
+    "sha256": "1064c1677036eb2102c462dc43bb7c56bd2ac6c8d30c32b02d907afb72cb5864"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicharrones/chicharrones.opensauce",
+    "sha256": "6e6ee6a68deddd6095cc079a1b343687c952690c57bbe2b29a98294a833c3e24"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-biscuit-potpie/chicken-biscuit-potpie.opensauce",
+    "sha256": "f780a7e9fd811261b2af59554d0d70d33bb349a3e0cc9d9cf50399879d6f3bfb"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-in-red-wine-vinegar-sauce/chicken-in-red-wine-vinegar-sauce.opensauce",
+    "sha256": "c5a3c7a9cadf60a7b670e925c68853f6906030e422f8dd647a4f57624d9521c1"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-paprikash/chicken-paprikash.opensauce",
+    "sha256": "c8e4364d2469b9c1190437a694d3b29c65900f3e7fb158231cd30437b369020d"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-parmesan/chicken-parmesan.opensauce",
+    "sha256": "b9e46918dae77947ba8e90e084b49d1cc85a244185ca050ae4c3a37e921862de"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-pasta-casserole/chicken-pasta-casserole.opensauce",
+    "sha256": "5d0e31fb759856cf0fa643c726de54335af45483121371c442e3b502c1b5a0c8"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-satay/chicken-satay.opensauce",
+    "sha256": "61c104cf33ebeb6cccad912d159748ce8c357f86e27c35ff43e2f728280d3b21"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-soup/chicken-soup.opensauce",
+    "sha256": "d582765b2d66e3a843387e550225d1490ef1364049e5fcae5a3978049f692a97"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-stock-bone-broth/chicken-stock-bone-broth.opensauce",
+    "sha256": "4e212827b291d6c16dab5357b9d7fb4195926919aeb0e9c3c693600127247035"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-tacos/chicken-tacos.opensauce",
+    "sha256": "6acf68acda4c75df45eab8a1a233a23b380db8bf3a2009f0b19cb48282ba15db"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-tenders-airfried/chicken-tenders-airfried.opensauce",
+    "sha256": "1903114704ad5512b74ae8ef2bc2c92df4574f004be88ceeb782559f3e557df1"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-tikka-masala/chicken-tikka-masala.opensauce",
+    "sha256": "35fa7a3d82a3a16079eefadfbcd890cdad8f86403fc6914002ccd7d947fdbdaf"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-tomato-spinach-curry/chicken-tomato-spinach-curry.opensauce",
+    "sha256": "c782affd0383b58a53d7daa73d1608d247a11f6cc9f4c55e57c4c56cd20a25f5"
+  },
+  {
+    "path": "examples/public-domain-recipes/chicken-wings/chicken-wings.opensauce",
+    "sha256": "f42dc48dc61798359c097e558b3d52e184936cb5b6d079bb8dc064b6f8881eba"
+  },
+  {
+    "path": "examples/public-domain-recipes/chili-con-carne/chili-con-carne.opensauce",
+    "sha256": "efce055dbf88a539f60013edb5ffdb401ed0ac3578a7b8df68109e124192f0e6"
+  },
+  {
+    "path": "examples/public-domain-recipes/chimichanga/chimichanga.opensauce",
+    "sha256": "1b0a41bf818a0dc9f5dd7ece7e9e8144d6b68fab0485de666353ad7fccc843fd"
+  },
+  {
+    "path": "examples/public-domain-recipes/chipolata-in-balsamic-vinegar/chipolata-in-balsamic-vinegar.opensauce",
+    "sha256": "1bc1454c6e8a52cdac938389e92dd8e84d1acdb53e0469f4f11e59748bbb3b9e"
+  },
+  {
+    "path": "examples/public-domain-recipes/chocolate-chip-cookies/chocolate-chip-cookies.opensauce",
+    "sha256": "c56573478a20d9f229ccc42ecbcfb8b78d2bc98632ec63a8eb3665ced2d7b0e2"
+  },
+  {
+    "path": "examples/public-domain-recipes/chorizo-and-chickpea-soup/chorizo-and-chickpea-soup.opensauce",
+    "sha256": "cfa90cc4928812076b69c080dbee54085b0f8f703d15aee0f8f386ecd1e9602b"
+  },
+  {
+    "path": "examples/public-domain-recipes/cinnamon-biscuits/cinnamon-biscuits.opensauce",
+    "sha256": "dd8d8d77d72f34dacb25281e5cbffd612dbfbda7265b9fd441ef45ad8c23bedd"
+  },
+  {
+    "path": "examples/public-domain-recipes/cinnamon-waffles/cinnamon-waffles.opensauce",
+    "sha256": "1b31fddcbdae3ecdf9bd00414ac829fa6103a1f7a87e2c234f9d2318cccb5c7e"
+  },
+  {
+    "path": "examples/public-domain-recipes/cinque-pi/cinque-pi.opensauce",
+    "sha256": "27fc9e826d1d34c461b7e7bdb498d944ba914750cb6455df959823f911f1173f"
+  },
+  {
+    "path": "examples/public-domain-recipes/clam-chowder/clam-chowder.opensauce",
+    "sha256": "3325ad8f0e6dda799196a2018de06b1561a9882ff22ece494cf32d0f09e955c4"
+  },
+  {
+    "path": "examples/public-domain-recipes/classic-bechamel-sauce/classic-bechamel-sauce.opensauce",
+    "sha256": "ee74b3c34e1ddeb8ee28052498d2105e19b12be9be3583bf6635d3af35003837"
+  },
+  {
+    "path": "examples/public-domain-recipes/cocoanut-pudding/cocoanut-pudding.opensauce",
+    "sha256": "8594c9dc0aba13ad82512e7fec3e0375dbcbe39a8fefd2ac83bc821cb070a522"
+  },
+  {
+    "path": "examples/public-domain-recipes/coconut-flour-bread/coconut-flour-bread.opensauce",
+    "sha256": "88d4275b36193e96dd2e67e5f0212ea8509bfa1a0b3ca4ccfed10480e235d09d"
+  },
+  {
+    "path": "examples/public-domain-recipes/coconut-oil-coffee/coconut-oil-coffee.opensauce",
+    "sha256": "03ec505cb18a9e51edb6435db79465bf51ceba5d29e8d9d6d98763a3c2a94f8b"
+  },
+  {
+    "path": "examples/public-domain-recipes/colcannon-bake/colcannon-bake.opensauce",
+    "sha256": "c7144d3b1a2befb172ae1acdabf67286865535754b85dc950f87bb91cda65605"
+  },
+  {
+    "path": "examples/public-domain-recipes/coleslaw/coleslaw.opensauce",
+    "sha256": "8fb40a78f1bd7d0f13d3cf18c159754cb319a04dd2941b467aac9b9172dcfa15"
+  },
+  {
+    "path": "examples/public-domain-recipes/collard-greens-with-smoked-duck-and-parnips/collard-greens-with-smoked-duck-and-parnips.opensauce",
+    "sha256": "f4deac15d6ff5f03b731f8c7ea52664ecc88da4bfa453eb29673f378236acf37"
+  },
+  {
+    "path": "examples/public-domain-recipes/cooked-chickpeas/cooked-chickpeas.opensauce",
+    "sha256": "857ce28ae63f1877898a9f7f0e62e284938ffecb5937e5604cc12634e2bfe0de"
+  },
+  {
+    "path": "examples/public-domain-recipes/coriander-chicken/coriander-chicken.opensauce",
+    "sha256": "3d92ec04cc3392cdd089c1e63def7dcd031ed5118efddcd0015c5ef6266b7293"
+  },
+  {
+    "path": "examples/public-domain-recipes/corn-polenta/corn-polenta.opensauce",
+    "sha256": "a96a45aa94a7298250ff163825692021d4571c5d781a79a4dd1230c845eaec34"
+  },
+  {
+    "path": "examples/public-domain-recipes/corn-salsa/corn-salsa.opensauce",
+    "sha256": "5021d35a09573ad96cdf92ac2b808124c2588e73ade75915e16463011096e67f"
+  },
+  {
+    "path": "examples/public-domain-recipes/country-crisp-cereals/country-crisp-cereals.opensauce",
+    "sha256": "d3ec48c2364b642bad77623a0c581f5f386000a9e235164069fe2a5cd9c7f789"
+  },
+  {
+    "path": "examples/public-domain-recipes/country-skillet/country-skillet.opensauce",
+    "sha256": "8d46cb4468aef984d7c73edc43746c581a911fbe3193b33c138430ea64630646"
+  },
+  {
+    "path": "examples/public-domain-recipes/crab-salad/crab-salad.opensauce",
+    "sha256": "a6b37556ea70b4358acdcc8898d408e736e8e71c51d357b4d9d03a10e737b563"
+  },
+  {
+    "path": "examples/public-domain-recipes/cream-cheese/cream-cheese.opensauce",
+    "sha256": "f31d78748568f3c4d121012f336a18727d9dba8b9b0e0e6610d48ccd0364452a"
+  },
+  {
+    "path": "examples/public-domain-recipes/creamy-mashed-potatoes/creamy-mashed-potatoes.opensauce",
+    "sha256": "0d48288ae5878dbf38126fdc1f10bc2efb13a52205b346e5a559ac5e6282acf6"
+  },
+  {
+    "path": "examples/public-domain-recipes/creme-brulee/creme-brulee.opensauce",
+    "sha256": "50e8342b30ae0644b7aefd976b08792fd858152f120385d672f170472c2bd9e2"
+  },
+  {
+    "path": "examples/public-domain-recipes/croque-monsieur/croque-monsieur.opensauce",
+    "sha256": "bfdfbc890c96b28ae3bc5485733797a243666b00aec6b9eb2b2e203ae62efed9"
+  },
+  {
+    "path": "examples/public-domain-recipes/crostata/crostata.opensauce",
+    "sha256": "ea740c6a8b15a92c83cafc4bbd3fec0a7b5d3be948897cb2718eaab3cd846da8"
+  },
+  {
+    "path": "examples/public-domain-recipes/croutons/croutons.opensauce",
+    "sha256": "166b8e65eaeeab9b10295568df5624c4b99a9c4d09bb688d55ca77d0aa8bb31a"
+  },
+  {
+    "path": "examples/public-domain-recipes/cuca-italiana/cuca-italiana.opensauce",
+    "sha256": "2c4c6bf3a37528fb912dba5ccb28b0a23f40d54c941f9722afe586727762f504"
+  },
+  {
+    "path": "examples/public-domain-recipes/curry-sauce/curry-sauce.opensauce",
+    "sha256": "b3fe3b522fb3e12f1e3c8de5ef5eb62968f22ace2233b8f01514c0f4056a6b79"
+  },
+  {
+    "path": "examples/public-domain-recipes/damper/damper.opensauce",
+    "sha256": "4ecef58cb717bf87b87b38ff7ea029e617504ae2353851bbae77d4d1161807c3"
+  },
+  {
+    "path": "examples/public-domain-recipes/danish-pancake/danish-pancake.opensauce",
+    "sha256": "cf551185b68f4da8f668ae6ed62208f7b359bb75832992bc5f6c808c67fb78d6"
+  },
+  {
+    "path": "examples/public-domain-recipes/demi-glace/demi-glace.opensauce",
+    "sha256": "17fd10e41627162efdb7736919e31e5afc985590e43a6d228c1e9fff48d7935e"
+  },
+  {
+    "path": "examples/public-domain-recipes/desert-roses/desert-roses.opensauce",
+    "sha256": "9f6a1a2f8265cfd7070c515259e47a6e9b2bfed938fa9e7f3909065f1a8f9347"
+  },
+  {
+    "path": "examples/public-domain-recipes/diannes-southwest-salad/diannes-southwest-salad.opensauce",
+    "sha256": "96b56b348a6c856c9464a0914f72a4468adc372cd6742287030beccddc8491ca"
+  },
+  {
+    "path": "examples/public-domain-recipes/dominican-spaghetti/dominican-spaghetti.opensauce",
+    "sha256": "0b1176f2890334732f030abc729ff4b5b4da2394d97137c12586ca07c4786b67"
+  },
+  {
+    "path": "examples/public-domain-recipes/dou-sha-bao/dou-sha-bao.opensauce",
+    "sha256": "4c16f04c74211a22f1cdb89405828cef43e4c795e3dd889cf21467a11bf63317"
+  },
+  {
+    "path": "examples/public-domain-recipes/dried-tomato-plum-spread/dried-tomato-plum-spread.opensauce",
+    "sha256": "335d2869e4e54e8e55facf80df457ad34a29fedbd2b8b97be3bf62cf40784689"
+  },
+  {
+    "path": "examples/public-domain-recipes/drunken-beans/drunken-beans.opensauce",
+    "sha256": "4ba1c722ec86a9a8f6b6cbfff60a03536ccc4baf2f13c88c2e373572561f51a2"
+  },
+  {
+    "path": "examples/public-domain-recipes/dulce-de-leche/dulce-de-leche.opensauce",
+    "sha256": "e92e5fa662adaa4dda0ec4fa1c521b246326e622663e6955838dfe9656b21036"
+  },
+  {
+    "path": "examples/public-domain-recipes/easy-chicken-and-rice-casserole/easy-chicken-and-rice-casserole.opensauce",
+    "sha256": "6f875cb266af9d00c5f558f4683afbe3236d0fd7be74a7cde73cbe387f9cc929"
+  },
+  {
+    "path": "examples/public-domain-recipes/easy-pizza-sauce/easy-pizza-sauce.opensauce",
+    "sha256": "25d83a2e652aeb690e212a0afee103bdb388e4baa763f7e3efe044ac1bba1a88"
+  },
+  {
+    "path": "examples/public-domain-recipes/eggroll-in-a-bowl/eggroll-in-a-bowl.opensauce",
+    "sha256": "4fa9d40fecf98690bb02622763660fe78f71502623dde3f60ab968734f44b5f9"
+  },
+  {
+    "path": "examples/public-domain-recipes/eggs/eggs.opensauce",
+    "sha256": "2eee26774aa1391b6fbb8ad6b5404ef4a74f7ef6dedce6f301bdd58094aeaaec"
+  },
+  {
+    "path": "examples/public-domain-recipes/eggs-benedict/eggs-benedict.opensauce",
+    "sha256": "a5771d3638dab9f0881db75a1fccca43f4f2abe42b9f7aea111ccdbeba8e3b4f"
+  },
+  {
+    "path": "examples/public-domain-recipes/egyptian-lentils/egyptian-lentils.opensauce",
+    "sha256": "a90a68fd0d79b0c53f16818775900cb1f374ed8fdcbf69a646b0a81c0524ba72"
+  },
+  {
+    "path": "examples/public-domain-recipes/erwtensoep/erwtensoep.opensauce",
+    "sha256": "005f02a8ea75160f101a5682074edd0da9545cf83a1c252f779542894c422b77"
+  },
+  {
+    "path": "examples/public-domain-recipes/exotic-ginger-cumin-chicken/exotic-ginger-cumin-chicken.opensauce",
+    "sha256": "72c6d1163908c0897da5683155d9f839a47d5f38ffb76d32af6da67299b3b400"
+  },
+  {
+    "path": "examples/public-domain-recipes/fajita-seasoning/fajita-seasoning.opensauce",
+    "sha256": "21fe60db3d0137428f513a16f2e45eac13632140777990e08a1cfa00b6c3e2d7"
+  },
+  {
+    "path": "examples/public-domain-recipes/fajitas/fajitas.opensauce",
+    "sha256": "570c21f156ba47ebf9f90d1ae70e0263df22e72b9360c9fdfbe96fa8be13ec7c"
+  },
+  {
+    "path": "examples/public-domain-recipes/fall-vegetable-and-chickpea-curry/fall-vegetable-and-chickpea-curry.opensauce",
+    "sha256": "171a0a36c712d0fcf6d589630445d1679ca9f6330a386ea84ffbfb599cc9d65c"
+  },
+  {
+    "path": "examples/public-domain-recipes/farci-tomatoes/farci-tomatoes.opensauce",
+    "sha256": "9e4c7a5a3c62234848fb3446ac4e6bff8006afad80a7f6bcad4eebb0ac004b3d"
+  },
+  {
+    "path": "examples/public-domain-recipes/fennel-beans-and-kale-soup/fennel-beans-and-kale-soup.opensauce",
+    "sha256": "7d40baea3849503af8c1192b1e8ac724888f01e6376caf1e3e778b7a0bae73d5"
+  },
+  {
+    "path": "examples/public-domain-recipes/finnish-salmon-soup/finnish-salmon-soup.opensauce",
+    "sha256": "d671f8856539a3eb9e685158a625d8ba2c1fccf04689cb5d92cf775da072999f"
+  },
+  {
+    "path": "examples/public-domain-recipes/fish-curry/fish-curry.opensauce",
+    "sha256": "b03d07219aef58023f9743ab146758f2d1f19350fe877434a6d69bad1f66b5c6"
+  },
+  {
+    "path": "examples/public-domain-recipes/flammkuchen/flammkuchen.opensauce",
+    "sha256": "1b220cf4a4ca6acc6c67be10799111245ce387f2c7cd21568e5c0c37905e4205"
+  },
+  {
+    "path": "examples/public-domain-recipes/fondue/fondue.opensauce",
+    "sha256": "7ba2d42c2d3571029865039b362cd3c8be4745a648d3f8d5cea06c0af33b94a8"
+  },
+  {
+    "path": "examples/public-domain-recipes/francesinha/francesinha.opensauce",
+    "sha256": "ea594f48d2db09c21249ebd21bc4e548f21bfebe7ab0d50f8f2b0a377a1d2d9d"
+  },
+  {
+    "path": "examples/public-domain-recipes/french-crepes/french-crepes.opensauce",
+    "sha256": "e32687af898ad602e8a97b22f7f2bf1dce5372fdc86e08a15ad697d961afa0c8"
+  },
+  {
+    "path": "examples/public-domain-recipes/french-mustard-sauce-porkchops/french-mustard-sauce-porkchops.opensauce",
+    "sha256": "443016cf00366ee8839fe3395d9ade55e2ebb8392ee25e30d136ce16f9e246ef"
+  },
+  {
+    "path": "examples/public-domain-recipes/french-onion-soup/french-onion-soup.opensauce",
+    "sha256": "aa565ab6df105bdc6934acb11278f194f83b9deb059746cb6471cdc51b68f100"
+  },
+  {
+    "path": "examples/public-domain-recipes/french-toast/french-toast.opensauce",
+    "sha256": "450908d0c97c83ec365cb27ae65b4c9253aa298df5cf3b04a9bc77e9a2159c96"
+  },
+  {
+    "path": "examples/public-domain-recipes/fried-anglerfish-fillet/fried-anglerfish-fillet.opensauce",
+    "sha256": "018af677de65a264f9be3b5f2de006fe8e31984aade3a02096c3254a9f19ff25"
+  },
+  {
+    "path": "examples/public-domain-recipes/fried-potatoes/fried-potatoes.opensauce",
+    "sha256": "b243e6d83bb3cd2937ad966fabbe3e78c6d67bb26d545f6e5401d318dcf339a4"
+  },
+  {
+    "path": "examples/public-domain-recipes/frijol-con-puerco/frijol-con-puerco.opensauce",
+    "sha256": "1fac3a0e93d19c71d5e9e224aa2decf4411a049292263519e2d0060066bb9a72"
+  },
+  {
+    "path": "examples/public-domain-recipes/fritatem-pomeranciis/fritatem-pomeranciis.opensauce",
+    "sha256": "58184d9808ddea311edffdc825621b298254f7c6a6c306b2118405e39dc89c01"
+  },
+  {
+    "path": "examples/public-domain-recipes/frittata/frittata.opensauce",
+    "sha256": "c681026f330a04834a9ac4de1348aa9413bc16fef016bd77be82f938f78f5bae"
+  },
+  {
+    "path": "examples/public-domain-recipes/full-english-breakfast/full-english-breakfast.opensauce",
+    "sha256": "8ec5b5461c63e65a77fc96db53a40c4f9f3c6386f87006eef503c7025f3d1bbf"
+  },
+  {
+    "path": "examples/public-domain-recipes/fume-sauce/fume-sauce.opensauce",
+    "sha256": "fa4343a3b30c8e6e2769cf2e1e4e320b1ed34080b643c46b7e346dc0cb4fdfa3"
+  },
+  {
+    "path": "examples/public-domain-recipes/galinha-caipira/galinha-caipira.opensauce",
+    "sha256": "8d7e12276fb7908663da1f5f253d6c1d5488dc0fb5e759e9c234150a14212143"
+  },
+  {
+    "path": "examples/public-domain-recipes/garam-masala/garam-masala.opensauce",
+    "sha256": "b88aca8bd245c6c88b92719967340835ad54e744f77fa68b8c83ee21ef76931e"
+  },
+  {
+    "path": "examples/public-domain-recipes/garlic-toast/garlic-toast.opensauce",
+    "sha256": "51f6bb8df283eae4a084549c315d38d63320ebc6759a2e94c84377c2cbe3697b"
+  },
+  {
+    "path": "examples/public-domain-recipes/ginataang-kalabasa/ginataang-kalabasa.opensauce",
+    "sha256": "82419fbefad3dde29bb112bd33a9be3c4c86dc466788d0bc59b83242a362777d"
+  },
+  {
+    "path": "examples/public-domain-recipes/ginger-garlic-broccoli/ginger-garlic-broccoli.opensauce",
+    "sha256": "fc35e18d19db132f2ef527f59e89f6401e7fda53701a2d0c6eae4caed1bf041a"
+  },
+  {
+    "path": "examples/public-domain-recipes/gluehwein/gluehwein.opensauce",
+    "sha256": "9dd90bff3c3c5de475b16969a472cf63b3d9b9432fdf8c25a266ebed56b07d9e"
+  },
+  {
+    "path": "examples/public-domain-recipes/gnocchi/gnocchi.opensauce",
+    "sha256": "242159a2713227ad66947e861cefbb5bcd94def336d5c6527a9529ce1c84103a"
+  },
+  {
+    "path": "examples/public-domain-recipes/gooseberry-pudding/gooseberry-pudding.opensauce",
+    "sha256": "7ff30613a4a3a6b0db576067bc39f0df325aabcff152bbdf690a14918f2e98bb"
+  },
+  {
+    "path": "examples/public-domain-recipes/grands-peres/grands-peres.opensauce",
+    "sha256": "16d073058d81ff9b54889bd8a0752dcc0ec4c3ed3a5001ba7de5287cba050ddc"
+  },
+  {
+    "path": "examples/public-domain-recipes/granita/granita.opensauce",
+    "sha256": "78508a606e0d226570728bc79c33de03a38de6dd401b330c52dd4d48742e335f"
+  },
+  {
+    "path": "examples/public-domain-recipes/granola/granola.opensauce",
+    "sha256": "c0afcc254c814d5a8265b7736263e4dac433609a7f1ecae6f95e91ca05120b96"
+  },
+  {
+    "path": "examples/public-domain-recipes/greek-easter-cookies/greek-easter-cookies.opensauce",
+    "sha256": "61acd09e28c2ce6c536cf72a7222c47c8ff6a06121940226c8efc8c1d43c8b68"
+  },
+  {
+    "path": "examples/public-domain-recipes/greek-salad/greek-salad.opensauce",
+    "sha256": "d5272dc7e6ceb5051d4da4de75ee26c7fe7bdd53c3e824d1878f64a1a68ddac5"
+  },
+  {
+    "path": "examples/public-domain-recipes/greek-yogurt/greek-yogurt.opensauce",
+    "sha256": "c51cb76913b596fc54450935335b6ca5c9efa201e55ce7a41bc9a9dfcedbc2ec"
+  },
+  {
+    "path": "examples/public-domain-recipes/grilled-mackerel-with-miso-soup-and-squash/grilled-mackerel-with-miso-soup-and-squash.opensauce",
+    "sha256": "bf55130de53b4fd12e88817caf1b2991f692c75803910ca0e6e2556158b656a6"
+  },
+  {
+    "path": "examples/public-domain-recipes/grostoli/grostoli.opensauce",
+    "sha256": "ac842507f7fa911f0e9bcfe5e3851fbd123e894f4612cab0ea437053833b859c"
+  },
+  {
+    "path": "examples/public-domain-recipes/guacamole/guacamole.opensauce",
+    "sha256": "a4f0e55a1f43fcf23ccc59f0ffc666e9cf0d3b275e763d816f08d8030c8b3d3a"
+  },
+  {
+    "path": "examples/public-domain-recipes/guobaorou/guobaorou.opensauce",
+    "sha256": "74ea625f81a8cefe46f50e0eeeb751cadb3d2f666cfe1fe7601999db065d4845"
+  },
+  {
+    "path": "examples/public-domain-recipes/gypsy-soup/gypsy-soup.opensauce",
+    "sha256": "defc477f68fe518ebcbc7b76e20d58b1b66fcf41ec00ae58459776d2374ec816"
+  },
+  {
+    "path": "examples/public-domain-recipes/hakka-style-meatballs/hakka-style-meatballs.opensauce",
+    "sha256": "c622cabc60a4f420fc03636ce1052ccc58ec9037275013a6fcb7d81688843b3f"
+  },
+  {
+    "path": "examples/public-domain-recipes/ham-and-lentil-soup/ham-and-lentil-soup.opensauce",
+    "sha256": "8e36c8723069bee9b9c0e05e6d7c595268fc232a44a922a94bec8c17288c7111"
+  },
+  {
+    "path": "examples/public-domain-recipes/hamburger-patties/hamburger-patties.opensauce",
+    "sha256": "4a041cb58214bc083ed30bd0fad1faeee012b5ffe7739e37946046436a6e1327"
+  },
+  {
+    "path": "examples/public-domain-recipes/hamburger-patties-all-beef/hamburger-patties-all-beef.opensauce",
+    "sha256": "c4cdfa6d749935544559940f3fff6daf0bd9ab99296d97c7d77fdf86f76b0c7a"
+  },
+  {
+    "path": "examples/public-domain-recipes/hangover-eggs/hangover-eggs.opensauce",
+    "sha256": "e882d1e4600f211262a5ebc7f1514acd0507fb00aa1a0548135acb608eb2bb01"
+  },
+  {
+    "path": "examples/public-domain-recipes/hearty-breakfast-oatmeal/hearty-breakfast-oatmeal.opensauce",
+    "sha256": "826aa3be228b3500244b02a3c3d7de031e97e0132b82d49c6b3f7d85dfc40956"
+  },
+  {
+    "path": "examples/public-domain-recipes/hellfire-steak/hellfire-steak.opensauce",
+    "sha256": "2ce3e8f73b0fb53466f1ad8e92049f2de6247d6f418f322dff31bc6c7149901f"
+  },
+  {
+    "path": "examples/public-domain-recipes/herbs-pizza/herbs-pizza.opensauce",
+    "sha256": "7ac14c80b13276a7425aafea909ac424cdf58021e61dade5b99f610b40f08879"
+  },
+  {
+    "path": "examples/public-domain-recipes/hoisin-pork-belly/hoisin-pork-belly.opensauce",
+    "sha256": "94abf72eb9e2307e8180a21ae977367406ecf4c40588a689cac3f5061216fc56"
+  },
+  {
+    "path": "examples/public-domain-recipes/hoisin-tofu-and-broccoli/hoisin-tofu-and-broccoli.opensauce",
+    "sha256": "ff85b88e11e84332c175a346d9eddcb1bbe5a192e2bcf771f04f8f3179c6b74a"
+  },
+  {
+    "path": "examples/public-domain-recipes/honey-garlic-chicken/honey-garlic-chicken.opensauce",
+    "sha256": "f7d9f9e370c8a3c117700caae2591f9077f6e16fd5fdd421a6513f02c612a880"
+  },
+  {
+    "path": "examples/public-domain-recipes/honey-sriracha-chicken-thighs/honey-sriracha-chicken-thighs.opensauce",
+    "sha256": "420a9e9ad357995c2315ddbe77add94b27370eed864cc59e15f44c98a092b316"
+  },
+  {
+    "path": "examples/public-domain-recipes/honey-vanilla-ice-cream/honey-vanilla-ice-cream.opensauce",
+    "sha256": "755b4549a2b6582bdafc8e690b20346b3038f6353e3be036e361718dbc1b97c4"
+  },
+  {
+    "path": "examples/public-domain-recipes/hummus/hummus.opensauce",
+    "sha256": "e3f5e86c97665bf81300c0f6868457b950435b36ada999457e8f9c699784d37c"
+  },
+  {
+    "path": "examples/public-domain-recipes/indian-tea/indian-tea.opensauce",
+    "sha256": "766d6313cf2e1f6b4fce3bbbd4b3b631c23482056b0112f1f34e54f2f21200fa"
+  },
+  {
+    "path": "examples/public-domain-recipes/instant-tom-yam-kung-noodle-soup/instant-tom-yam-kung-noodle-soup.opensauce",
+    "sha256": "30a70f2cfd8983ce3f16a830be21c6e8b009c278086221c8ca1e2b1d479f8f82"
+  },
+  {
+    "path": "examples/public-domain-recipes/irish-coffee/irish-coffee.opensauce",
+    "sha256": "8e71b6413b078649667bc4c98bda53e62b44f240c394c1a1cbf6c5cde45e01c6"
+  },
+  {
+    "path": "examples/public-domain-recipes/irish-potato-casserole/irish-potato-casserole.opensauce",
+    "sha256": "200bd546dd4fcc62f39a61901d0395df98bc97ed737d169682b1f9e9bd8087c1"
+  },
+  {
+    "path": "examples/public-domain-recipes/italian-bread/italian-bread.opensauce",
+    "sha256": "5417cca10d75d1529940d91821072114e1b9c7fe395254c703b7b1cd454f0af1"
+  },
+  {
+    "path": "examples/public-domain-recipes/italian-mulled-wine/italian-mulled-wine.opensauce",
+    "sha256": "133cda50f9c54ed796c4c4e066129cc76f8906d636a418214cb99d8e90bf134e"
+  },
+  {
+    "path": "examples/public-domain-recipes/jam/jam.opensauce",
+    "sha256": "dd2548db912263e5b2481658ea6a8f9e6bb1cd2e05ee87b3c9201c2de68b62a6"
+  },
+  {
+    "path": "examples/public-domain-recipes/japanese-noodle-soup/japanese-noodle-soup.opensauce",
+    "sha256": "53df4c36484f964ae6c41e9418001392d348742af5f27fecafbb66c48419c0af"
+  },
+  {
+    "path": "examples/public-domain-recipes/kalderetang-manok/kalderetang-manok.opensauce",
+    "sha256": "900f56b42e51c2dbf55dbce5a9cbd6e83519c53a8c392a8c710c069996be0d2c"
+  },
+  {
+    "path": "examples/public-domain-recipes/ketchup/ketchup.opensauce",
+    "sha256": "c7b9fa4438dfec8580cd2ef4303049c5463276f1c90380d481941cf9acf14620"
+  },
+  {
+    "path": "examples/public-domain-recipes/kettlecorn/kettlecorn.opensauce",
+    "sha256": "b241047e2ac78bd50371166db023e022c5750c3ea61fc2fe8d3a3d1dba839822"
+  },
+  {
+    "path": "examples/public-domain-recipes/kombucha/kombucha.opensauce",
+    "sha256": "673dac3d450ceb21240d70e2f796cc91fe8df14fe49ad0aa5ac85acc03b93969"
+  },
+  {
+    "path": "examples/public-domain-recipes/korv-stroganoff/korv-stroganoff.opensauce",
+    "sha256": "0661b27c4d7f9c9bcf4e48334c05938c35cb3ddfbf2b6ef14a36b52a87dea24c"
+  },
+  {
+    "path": "examples/public-domain-recipes/kropsua/kropsua.opensauce",
+    "sha256": "58341a778627538595afc44ab0273ccabd100952a07685d044f00a82c8fcc9c4"
+  },
+  {
+    "path": "examples/public-domain-recipes/kvass/kvass.opensauce",
+    "sha256": "76a456f530948a843aac6d47c7ce09e6e49fac4278668b6bbce560670ff8a899"
+  },
+  {
+    "path": "examples/public-domain-recipes/lamb-biriyani/lamb-biriyani.opensauce",
+    "sha256": "21faf506dfdb0e615fc18404a6c2a4012b963a8e1513b6c8cc311141e88c96bc"
+  },
+  {
+    "path": "examples/public-domain-recipes/lasagna/lasagna.opensauce",
+    "sha256": "161ef4a279e8299e5988aadd791e5fe090d1a75768b21faa0e5ab4316e9e29c8"
+  },
+  {
+    "path": "examples/public-domain-recipes/lavacake/lavacake.opensauce",
+    "sha256": "0a13ca6bd16265e4bc62f747c280e3e33d726fc0b793e5e51e1a280a9de6c0a4"
+  },
+  {
+    "path": "examples/public-domain-recipes/lebanese-lentil-soup/lebanese-lentil-soup.opensauce",
+    "sha256": "2595f6bef3bde01b6e3b6f89ec0ad455470ddc9253ec6a73333b04abf59b511a"
+  },
+  {
+    "path": "examples/public-domain-recipes/lemon-and-oregano-chicken-traybake/lemon-and-oregano-chicken-traybake.opensauce",
+    "sha256": "8d9c2208788c146b098ea71989a2a2c399868c96b6fc4d458625565c92c527f1"
+  },
+  {
+    "path": "examples/public-domain-recipes/lemon-juice-salad-dressing/lemon-juice-salad-dressing.opensauce",
+    "sha256": "30b3284f9592ab6f67d5a0255f83704c9df4cc18f0de62e83fe6c91ec08bc966"
+  },
+  {
+    "path": "examples/public-domain-recipes/lemon-pudding/lemon-pudding.opensauce",
+    "sha256": "351a03fa53888b2e822bde3cafc64ea978ba6956ed97fcf2d30830358a4c9aac"
+  },
+  {
+    "path": "examples/public-domain-recipes/lentejas/lentejas.opensauce",
+    "sha256": "ae7546cb7395cdc9f78382664a71ffebccf719cd1864ac5ebf6748285d4003a0"
+  },
+  {
+    "path": "examples/public-domain-recipes/lenten-chili/lenten-chili.opensauce",
+    "sha256": "19e2e6d4f289b93914c107dbac87a81b4d65a73ed6f615cfdd2be1bb05e65367"
+  },
+  {
+    "path": "examples/public-domain-recipes/lenten-lentil-curry/lenten-lentil-curry.opensauce",
+    "sha256": "6e10aa220e199b58ed053ae209b32eb0afd6e9c4af52439f47ac60fd5b238ae1"
+  },
+  {
+    "path": "examples/public-domain-recipes/limoncello/limoncello.opensauce",
+    "sha256": "cda718862c2adc6ee3da3f3c6e6337b33e80f9468f7ba342c4c8f64b1d22bc03"
+  },
+  {
+    "path": "examples/public-domain-recipes/limoncini/limoncini.opensauce",
+    "sha256": "152e2a58259c209d4fb33c16dff38d62eff23d319dff5ccee70037c456df31c1"
+  },
+  {
+    "path": "examples/public-domain-recipes/lithuanian-cold-borscht/lithuanian-cold-borscht.opensauce",
+    "sha256": "52b7077c5fd975660c415663490f7e544b5af3612397df429df4098ebe06a910"
+  },
+  {
+    "path": "examples/public-domain-recipes/liverpate/liverpate.opensauce",
+    "sha256": "e341659af43e2f42c3691d10c88fb84f7477869c89c1f7780f524ddde96f5bc0"
+  },
+  {
+    "path": "examples/public-domain-recipes/loaded-mexican-rice/loaded-mexican-rice.opensauce",
+    "sha256": "0b92bd891f4bc90e1668eda52312e9d9d3cd3167b89743c27353ce00a997a040"
+  },
+  {
+    "path": "examples/public-domain-recipes/lobster-bisque/lobster-bisque.opensauce",
+    "sha256": "f4b706b2e0927dd006b126f07be39db8a3d2f0e0b18c9fa9ea438dd976f76ad5"
+  },
+  {
+    "path": "examples/public-domain-recipes/long-cooked-chuck-steak/long-cooked-chuck-steak.opensauce",
+    "sha256": "cb6a898b32fa48e0852b5b59ec30a632bebbde8c1ced759d4f7f1e12a709fcea"
+  },
+  {
+    "path": "examples/public-domain-recipes/mapo-tofu/mapo-tofu.opensauce",
+    "sha256": "e69a43beccc359f65ee7a375200e009eaa9ce1e1bfd94a129e44f21b6686419c"
+  },
+  {
+    "path": "examples/public-domain-recipes/maque-choux/maque-choux.opensauce",
+    "sha256": "d7bd6bb94febee09439d29a7ad04bdf08e449bb67d207f51bce95e7c9812c438"
+  },
+  {
+    "path": "examples/public-domain-recipes/marinated-pork-steaks/marinated-pork-steaks.opensauce",
+    "sha256": "eee5a51707ce810bd51d242296698bc9194289c845cc75916b0883ce57abfc90"
+  },
+  {
+    "path": "examples/public-domain-recipes/matcha-cookies/matcha-cookies.opensauce",
+    "sha256": "429af0bea5c5f9cab6d076ed31e0f30fc84c1e53b7d7cf2189450476f2c9c0d7"
+  },
+  {
+    "path": "examples/public-domain-recipes/mayonnaise-or-aioli/mayonnaise-or-aioli.opensauce",
+    "sha256": "40045db98fae984e6b50cdee6f723b584106d89344c95cd06fb5809095518edd"
+  },
+  {
+    "path": "examples/public-domain-recipes/mazurek/mazurek.opensauce",
+    "sha256": "28bec2bc9a113e305f3079d3922052095997beda8dd212fcdbf43836f5b3587c"
+  },
+  {
+    "path": "examples/public-domain-recipes/meatloaf/meatloaf.opensauce",
+    "sha256": "9ff505742d612b07c2f456940c1b1bdce9d61f56224c3926a3d2dc5a34e38a43"
+  },
+  {
+    "path": "examples/public-domain-recipes/medieval-beef-soup/medieval-beef-soup.opensauce",
+    "sha256": "7a593a445ea5b1457cd459b2f9063bfaa3658e3d1d0133c6a84c9a35a710f19b"
+  },
+  {
+    "path": "examples/public-domain-recipes/merchants-buckwheat/merchants-buckwheat.opensauce",
+    "sha256": "5fd56d04cce2c6cef0905d975a728b94d90097dfd55b8e2b30fbf8e7dab429d9"
+  },
+  {
+    "path": "examples/public-domain-recipes/mexican-meat-loaf/mexican-meat-loaf.opensauce",
+    "sha256": "98ee73557348efe2ba1578e6999c0bd3388f43fd30a7a5309c2f11992f17383d"
+  },
+  {
+    "path": "examples/public-domain-recipes/miso-ginger-pork/miso-ginger-pork.opensauce",
+    "sha256": "f1765fb212ffff7bdf35a22ac2871e287d79273005c4f3645d5d8a0d9b5b9fe7"
+  },
+  {
+    "path": "examples/public-domain-recipes/miso-soup/miso-soup.opensauce",
+    "sha256": "280c96af5eacb56086b6e9e2cd0d65dc56a892f90ad4f59d10a645a3c3047174"
+  },
+  {
+    "path": "examples/public-domain-recipes/modern-borscht/modern-borscht.opensauce",
+    "sha256": "99c9dff26ccace530739b11539036db7ab720622033f698ed2f64bfcade41581"
+  },
+  {
+    "path": "examples/public-domain-recipes/mushroom-risotto/mushroom-risotto.opensauce",
+    "sha256": "41a206e45e8e2e32366053768e3cc572095d315571a41e6b1e2f43af2630387c"
+  },
+  {
+    "path": "examples/public-domain-recipes/mushroom-sauce/mushroom-sauce.opensauce",
+    "sha256": "60f8ed0a0666feb6efb32a9452fda325c08107f3d27fe86cd3d646a9e3c0995b"
+  },
+  {
+    "path": "examples/public-domain-recipes/mushroom-stragonov/mushroom-stragonov.opensauce",
+    "sha256": "40fcc39c9c65f0d1f720f0020e97e786ca2907fbe27eed51162d92ffa3a8ada0"
+  },
+  {
+    "path": "examples/public-domain-recipes/naan-bread/naan-bread.opensauce",
+    "sha256": "88b69863791b92b0e79c02c85112317ac51fcdbf0eb67ca5c8480cdbedf05564"
+  },
+  {
+    "path": "examples/public-domain-recipes/nashville-chicken/nashville-chicken.opensauce",
+    "sha256": "f032aa9040b5ccf805defa0efe84249188628413a482c066856b9337301f8cc1"
+  },
+  {
+    "path": "examples/public-domain-recipes/newfoundland-cod-chowder/newfoundland-cod-chowder.opensauce",
+    "sha256": "33fdd60bd9a9be81ce623104a8cf90d6196012f24a22db27a6b881cbd18a2430"
+  },
+  {
+    "path": "examples/public-domain-recipes/no-knead-bread/no-knead-bread.opensauce",
+    "sha256": "9f9fbc055a39767411664ee7a3d0f0091a8ef5b91802d5a29392156679a85993"
+  },
+  {
+    "path": "examples/public-domain-recipes/no-knead-pizza-dough/no-knead-pizza-dough.opensauce",
+    "sha256": "546c4a71b970bcfa0851bbbd3136edbab5a7b72ca002913ca5ff82f2d9458833"
+  },
+  {
+    "path": "examples/public-domain-recipes/oat-milk/oat-milk.opensauce",
+    "sha256": "2f7daf2e1f31c067a3523aafb150e89507f3caa78f33d3f0cb8d03f138b602ef"
+  },
+  {
+    "path": "examples/public-domain-recipes/oatmeal-cookies/oatmeal-cookies.opensauce",
+    "sha256": "881ce9817e69bb5def6fbb1e97be1f79b0cf8d235edc8ae695841644840d6903"
+  },
+  {
+    "path": "examples/public-domain-recipes/oatmeal-pancakes/oatmeal-pancakes.opensauce",
+    "sha256": "a8a515caa4e942f582b7e8fc33e2a40713b75b36ae7ee31a3b3a87beeeda64c5"
+  },
+  {
+    "path": "examples/public-domain-recipes/oats/oats.opensauce",
+    "sha256": "ecb67359c6f43fe8260ab7c654edd1b09270a64d08d6ebe9da22dd8ce66c4c95"
+  },
+  {
+    "path": "examples/public-domain-recipes/oaty-pancakes/oaty-pancakes.opensauce",
+    "sha256": "5a6c738e83f5f89e1f558a24809cde506c2479e32dd350b0560ae60462f1f297"
+  },
+  {
+    "path": "examples/public-domain-recipes/okonomiyaki/okonomiyaki.opensauce",
+    "sha256": "59f155ab41540133dec6c9a0775577452634afd3aa391d46126f56cc069b644f"
+  },
+  {
+    "path": "examples/public-domain-recipes/okroshka/okroshka.opensauce",
+    "sha256": "e346dc32d149a6b20fbea717cc85b7b4fe30a7343ba3b9a533d8b845dd52233a"
+  },
+  {
+    "path": "examples/public-domain-recipes/omelet/omelet.opensauce",
+    "sha256": "831b07ebb6e207f43f9fe2079d146c4f1ab5b07ff525de985a1cad04f6e3421e"
+  },
+  {
+    "path": "examples/public-domain-recipes/one-pot-chicken-tetrazzini/one-pot-chicken-tetrazzini.opensauce",
+    "sha256": "0e1ddad1f7cb6b89d5dfd5364a047140249786ef5ce1351e1e26ac906164198a"
+  },
+  {
+    "path": "examples/public-domain-recipes/onion-raitha/onion-raitha.opensauce",
+    "sha256": "283a74afcf50ccb576058d2fc8fb6f3443c4a6f6ceda4e9c2ec2203d07a6b4c7"
+  },
+  {
+    "path": "examples/public-domain-recipes/orange-glorious/orange-glorious.opensauce",
+    "sha256": "e19c84b40126911b08d91e7f4576fcd63f17a6befc5b141ec24c2423cb7b88b4"
+  },
+  {
+    "path": "examples/public-domain-recipes/orange-jam/orange-jam.opensauce",
+    "sha256": "7dabb9997879711ef01375f53bd37ec15067cba450316f7bca410b2dba61108e"
+  },
+  {
+    "path": "examples/public-domain-recipes/orange-pudding/orange-pudding.opensauce",
+    "sha256": "df0909b265e7bb303f0a975e51db172e3a0e9426bf7c8edda38a76c6537c6ba6"
+  },
+  {
+    "path": "examples/public-domain-recipes/paella/paella.opensauce",
+    "sha256": "cc356403466233bfa2863bf983027bd853ecf166970fa68a762dd8d764feaec7"
+  },
+  {
+    "path": "examples/public-domain-recipes/pan-pizza/pan-pizza.opensauce",
+    "sha256": "e36b29a1602d9721d79af4436cc022618fc7731ad2af17dc6fde84427c68f1e0"
+  },
+  {
+    "path": "examples/public-domain-recipes/pan-seared-chicken/pan-seared-chicken.opensauce",
+    "sha256": "ff465f25baa910bf695b04c3cfe2db1e49e9ada3e701dbb1a91f5c36e16618f9"
+  },
+  {
+    "path": "examples/public-domain-recipes/panang-style-beef-curry/panang-style-beef-curry.opensauce",
+    "sha256": "255dc370fea11fb8359df749731139a4d03a2d4ccfe0bbe83a0c19ffcb525518"
+  },
+  {
+    "path": "examples/public-domain-recipes/pancake/pancake.opensauce",
+    "sha256": "316a92ab1b3fc99dd65342fdfb2c1d49c39d6ec440580bd999719896c9f5ae8c"
+  },
+  {
+    "path": "examples/public-domain-recipes/paneer-tikka-masala/paneer-tikka-masala.opensauce",
+    "sha256": "87ec1a59527e669be05aa034ed03145e6f207df47d5947e30c561ce31879cd5e"
+  },
+  {
+    "path": "examples/public-domain-recipes/parmesan-potatoes/parmesan-potatoes.opensauce",
+    "sha256": "d412134a9bf9d56531246c5491fd94e9d54ed5f803621ad2a86d844b095cf1c1"
+  },
+  {
+    "path": "examples/public-domain-recipes/party-mimosa/party-mimosa.opensauce",
+    "sha256": "336be31e10914afbc5851dec9d859a9153e476535ed38e49f2ed29289c4007c3"
+  },
+  {
+    "path": "examples/public-domain-recipes/pasta/pasta.opensauce",
+    "sha256": "abcb1ad4f3c499e54d259798ede01e9d37bce7d28e7212bb277f81400dd7d3ca"
+  },
+  {
+    "path": "examples/public-domain-recipes/pasta-alla-norma/pasta-alla-norma.opensauce",
+    "sha256": "90f8bf908214cbc4e925126222b70be268c0b7b3e8e1b34823304441018c6aee"
+  },
+  {
+    "path": "examples/public-domain-recipes/pasta-arrabbiata/pasta-arrabbiata.opensauce",
+    "sha256": "bce64b0525323bc6980c19a6dd16f348c07664b6f27db7087bce9fe36c6944c7"
+  },
+  {
+    "path": "examples/public-domain-recipes/pasta-navy-style/pasta-navy-style.opensauce",
+    "sha256": "666dd954dcf1ff6529c07f0df0dcc0840605b732194ffe20fc98689de630a6a6"
+  },
+  {
+    "path": "examples/public-domain-recipes/pasta-sauce/pasta-sauce.opensauce",
+    "sha256": "2a1892fd229be9a1ed367e48d217fd53a298270904f802f7325ee4a0733307a9"
+  },
+  {
+    "path": "examples/public-domain-recipes/pastitsio/pastitsio.opensauce",
+    "sha256": "3793ed713cace12756f160c09c7ae3ac5527c610aa6c2eae717221af7423b88d"
+  },
+  {
+    "path": "examples/public-domain-recipes/pate-chinois/pate-chinois.opensauce",
+    "sha256": "e66dc497c76f38d4fc8bb6e3442827ac47d3efad72b0465bb11307c7836bb5d4"
+  },
+  {
+    "path": "examples/public-domain-recipes/pavlova/pavlova.opensauce",
+    "sha256": "265a1ab798e8da6deffc088abd1065f616228aa0160d9725408adc82446ef427"
+  },
+  {
+    "path": "examples/public-domain-recipes/peanut-butter/peanut-butter.opensauce",
+    "sha256": "0b6103032658d5f0e903c2c8846c6db7abdebd1d05d9f3f1b15fe4ef4b0d7d47"
+  },
+  {
+    "path": "examples/public-domain-recipes/peat-carrot-salad/peat-carrot-salad.opensauce",
+    "sha256": "4972fdf40b31e167ffa6eef96470079c35ba014ec0e62751b0e9dc8e214c0fc5"
+  },
+  {
+    "path": "examples/public-domain-recipes/pepper-sauce/pepper-sauce.opensauce",
+    "sha256": "a2483a88da4428d9b1c4dae67f4d11fe36630b578b51fb84bca76b40b960bf9d"
+  },
+  {
+    "path": "examples/public-domain-recipes/perfect-potato-salad/perfect-potato-salad.opensauce",
+    "sha256": "02b51c51ae7d398e8cde736c64085dce9f8a3ccef1aae4214d6e4f23e81365e7"
+  },
+  {
+    "path": "examples/public-domain-recipes/pesto-chicken-quinoa-bowls/pesto-chicken-quinoa-bowls.opensauce",
+    "sha256": "f174fb18ee3bd54c089ef9cfc1816e709eda5147d044ba9d349aca5c651f53f9"
+  },
+  {
+    "path": "examples/public-domain-recipes/pho-soup/pho-soup.opensauce",
+    "sha256": "c0f2f92a7828c1e9325e46d269375dbdb077a74ce6a0f3986af73f9461573486"
+  },
+  {
+    "path": "examples/public-domain-recipes/pickled-onions/pickled-onions.opensauce",
+    "sha256": "b2558181b905596c93c418288bf45929f973c18db43186035f950204ef73c003"
+  },
+  {
+    "path": "examples/public-domain-recipes/pilaf/pilaf.opensauce",
+    "sha256": "9cb95be8aae38b224ba3a0ed95dd59432ce8d4f85b0bb295722bdca6c254c754"
+  },
+  {
+    "path": "examples/public-domain-recipes/pininyahang-manok/pininyahang-manok.opensauce",
+    "sha256": "e300d4e04ddf9c36b829ca83b7c6a383658601ecc84a3c0d239f4e876ea055d5"
+  },
+  {
+    "path": "examples/public-domain-recipes/pizza-dough/pizza-dough.opensauce",
+    "sha256": "a268083aad8c8be031a187e909e5c3d77e90a59442c8a5e7cad594bde181faa8"
+  },
+  {
+    "path": "examples/public-domain-recipes/pizza-sauce/pizza-sauce.opensauce",
+    "sha256": "a863394241ae966741c39525bebae989fafa6e8027dead67d6bb10ab18beba4b"
+  },
+  {
+    "path": "examples/public-domain-recipes/plum-pudding/plum-pudding.opensauce",
+    "sha256": "95098a98a6078bf055aead93390d40a1faefe2913580782e4b260d21096c270e"
+  },
+  {
+    "path": "examples/public-domain-recipes/pork-based-chili-con-carne/pork-based-chili-con-carne.opensauce",
+    "sha256": "e9e6ad70b883d32b6e4d54733603baf201a93d75496117d74732532472d47d6b"
+  },
+  {
+    "path": "examples/public-domain-recipes/pork-carnitas/pork-carnitas.opensauce",
+    "sha256": "a6436cd72e910d89fd0263299947660938c07d443077e4bbf5697c8bf7d0665c"
+  },
+  {
+    "path": "examples/public-domain-recipes/portuguese-steak-with-beer-sauce/portuguese-steak-with-beer-sauce.opensauce",
+    "sha256": "a31418150ee47c7ff94026aaf07f4524d8ac0ca8a557ac74636df61f811a8979"
+  },
+  {
+    "path": "examples/public-domain-recipes/potato-and-eggplant-curry/potato-and-eggplant-curry.opensauce",
+    "sha256": "dbcc58dd86f73432e42a83bcee2a9902b854005b52bb9e33e5a7d07f78514281"
+  },
+  {
+    "path": "examples/public-domain-recipes/potato-leek-soup/potato-leek-soup.opensauce",
+    "sha256": "a99f45ec9cdaa8d8b17e34d94adb15251281f2b11bb1130740cea723699e1d22"
+  },
+  {
+    "path": "examples/public-domain-recipes/potato-pure/potato-pure.opensauce",
+    "sha256": "99595b57a2aa62c7519dddbcdccd45b618e03a24a443815a8b25a0e6314ded93"
+  },
+  {
+    "path": "examples/public-domain-recipes/potato-soup/potato-soup.opensauce",
+    "sha256": "b8fa70f7c141c5a413e46b379271fdc54c9c8ace24dbad67f66a21c7d4e431d7"
+  },
+  {
+    "path": "examples/public-domain-recipes/pozharskiye-cutlets/pozharskiye-cutlets.opensauce",
+    "sha256": "50e24dc20f174218ae7a1363517e5379dae72bdfae2e303f2e505a89c79947eb"
+  },
+  {
+    "path": "examples/public-domain-recipes/pretzels/pretzels.opensauce",
+    "sha256": "357f0c20f89da0adaadb9ca47623743a4f15f8cd8a8509616a4d1a84b81b2854"
+  },
+  {
+    "path": "examples/public-domain-recipes/puff-pastry/puff-pastry.opensauce",
+    "sha256": "97d62915c0a9ae60c09ad4068478f1f55fccc9424ac38bf9fb73351e94887462"
+  },
+  {
+    "path": "examples/public-domain-recipes/pulled-rabbit/pulled-rabbit.opensauce",
+    "sha256": "da34ed9c91c5a147719be4eab7e1ccbce1d71264413961b01823c35514ce1e9a"
+  },
+  {
+    "path": "examples/public-domain-recipes/pulpo-gallega/pulpo-gallega.opensauce",
+    "sha256": "c88c04b91427b436aea2b1ac1e31a700dbd01b9d7f0c0d29c675cc8fdf4ddab5"
+  },
+  {
+    "path": "examples/public-domain-recipes/quarkbaellchen/quarkbaellchen.opensauce",
+    "sha256": "25bfdaa678564e6f68b94ce0df761f454ae170916f5a0588b1bb0e4550805848"
+  },
+  {
+    "path": "examples/public-domain-recipes/quesadilla/quesadilla.opensauce",
+    "sha256": "34f378a148127cbbb0408b443cf611324dd7f891d5c8667e2699156193b3d230"
+  },
+  {
+    "path": "examples/public-domain-recipes/quiche/quiche.opensauce",
+    "sha256": "bb19dc8211fa0d7d809d1b1e9989d9c7bfcd78f69f256cb44d2978e3e599d0f4"
+  },
+  {
+    "path": "examples/public-domain-recipes/quickbreakfastspaghetti/quickbreakfastspaghetti.opensauce",
+    "sha256": "bbe07f62d9d2c13b3916cfce00aec33075ea9a99bafa11f5c38bd157886c285b"
+  },
+  {
+    "path": "examples/public-domain-recipes/rabbit-onions/rabbit-onions.opensauce",
+    "sha256": "15e9482cd6d05acc6c157812dd179bbfa72b89b624c0bf0cc8d0b3bb56db8a95"
+  },
+  {
+    "path": "examples/public-domain-recipes/ragu/ragu.opensauce",
+    "sha256": "cd3586e6fe170f77b83b9a5f886b599352920032db89d3914f4939a78cbaf56f"
+  },
+  {
+    "path": "examples/public-domain-recipes/ragu-napoletano/ragu-napoletano.opensauce",
+    "sha256": "dcd3a6309171f97150219ee4628a7102e85093c55e993e7a64d8978d18040636"
+  },
+  {
+    "path": "examples/public-domain-recipes/ratatouille/ratatouille.opensauce",
+    "sha256": "6170b2b6468b39f2b6faaa05520d1d5b4fd23676c294f1289b7d74609c1ac985"
+  },
+  {
+    "path": "examples/public-domain-recipes/ravioli/ravioli.opensauce",
+    "sha256": "b473840d3fccc760e63e9c3c5fcf3f7566aef104b5a2e21f65682564c218ac1b"
+  },
+  {
+    "path": "examples/public-domain-recipes/red-lentil-dahl/red-lentil-dahl.opensauce",
+    "sha256": "760648eee82b0d3b82c9c6ae314a916ee26c793051f755f1c8859d96fbb7e85f"
+  },
+  {
+    "path": "examples/public-domain-recipes/red-sauce/red-sauce.opensauce",
+    "sha256": "70ccb51cc58c1c62fc93953e58aeb4cd90ff6f7ba5c84884817c8a26711b80b5"
+  },
+  {
+    "path": "examples/public-domain-recipes/refried-beans/refried-beans.opensauce",
+    "sha256": "52b0190064072f2109be13827e12d4b01028ddbb246de9246e83baddb0c55776"
+  },
+  {
+    "path": "examples/public-domain-recipes/rice/rice.opensauce",
+    "sha256": "20a9f1a103dee78e8d6d4bcae9462866d90adc6677ef2848bca2d9727d565887"
+  },
+  {
+    "path": "examples/public-domain-recipes/rice-pudding/rice-pudding.opensauce",
+    "sha256": "94eb0069d36bbc053783b0e50d9da22789355b6db99e92437eac58bf46465372"
+  },
+  {
+    "path": "examples/public-domain-recipes/ricotta/ricotta.opensauce",
+    "sha256": "762d5e4a8e8e891216b692d348b600f798b30aac70f459b9b5bc99a9be1c51f6"
+  },
+  {
+    "path": "examples/public-domain-recipes/ricotta-lasagna-filling/ricotta-lasagna-filling.opensauce",
+    "sha256": "aeb32c1ef94ff8fb30995d1bcad5bff9af05a3a49dcd2cc31cfed4d255dea98d"
+  },
+  {
+    "path": "examples/public-domain-recipes/risengroed/risengroed.opensauce",
+    "sha256": "8d01c9662b5ba2b36076d167ee3101f9a460d8dbb604bd82f876f5ec5c3fcc8e"
+  },
+  {
+    "path": "examples/public-domain-recipes/roasted-chicken-breast/roasted-chicken-breast.opensauce",
+    "sha256": "173c7edef2c91d8c8ca338d9f652d7f74276791f884478a107a3ca9a2687abf5"
+  },
+  {
+    "path": "examples/public-domain-recipes/roesti/roesti.opensauce",
+    "sha256": "690fc4576928aa93532e60a9550bd48e549b1c03ea3e17b40618fc076ed6890b"
+  },
+  {
+    "path": "examples/public-domain-recipes/russian-1000-islands-sauce/russian-1000-islands-sauce.opensauce",
+    "sha256": "f3a6f1d4f3374852a6032398b74923c176f43199732a09ef95ffbf6fd1f17aac"
+  },
+  {
+    "path": "examples/public-domain-recipes/salsa/salsa.opensauce",
+    "sha256": "9865e1b85928d8dfd621bad3334f3b2386916d98c90634560c6fb57948c91ae1"
+  },
+  {
+    "path": "examples/public-domain-recipes/salsa-verde/salsa-verde.opensauce",
+    "sha256": "506275ff27dd17194ae7a696dc9636267ca5768c88452ee234b420dca1e481a9"
+  },
+  {
+    "path": "examples/public-domain-recipes/sand-tarts/sand-tarts.opensauce",
+    "sha256": "e1e6d2751bbd7277a008000ee4d77a87a12c1b1e00b8c4adde4baef832c39277"
+  },
+  {
+    "path": "examples/public-domain-recipes/sardine-cakes/sardine-cakes.opensauce",
+    "sha256": "fe52e6e7f6c390b8355b3474d98b4401e56da5f37a339e96459a1bedd5eb4034"
+  },
+  {
+    "path": "examples/public-domain-recipes/sauerkraut/sauerkraut.opensauce",
+    "sha256": "8b21b4c02e2fc8e51ccec0431e732157b282281f53b94d1aa8ee2e0fab1d63fd"
+  },
+  {
+    "path": "examples/public-domain-recipes/sausage-rolls/sausage-rolls.opensauce",
+    "sha256": "256a169dcf2fd7642873e1515ac1d9e07eb4be812a1c2b9df9fbf3a46bdd4ebe"
+  },
+  {
+    "path": "examples/public-domain-recipes/savory-squash/savory-squash.opensauce",
+    "sha256": "b0966e795418fe49a1278dd4e541c5e0b8203bfdb002476fcf72cf8d3cd17cc3"
+  },
+  {
+    "path": "examples/public-domain-recipes/scandinavian-coffee-cake/scandinavian-coffee-cake.opensauce",
+    "sha256": "a522fdbedb3a42c1ee1a6d3e35d3f639b108405d87bb2b45ccbeed71048ff4a4"
+  },
+  {
+    "path": "examples/public-domain-recipes/schinkenfleckerl-gratinated/schinkenfleckerl-gratinated.opensauce",
+    "sha256": "9e824196a1e842320218c653d629bf8ae6c737441e94d329124607b24bc535ec"
+  },
+  {
+    "path": "examples/public-domain-recipes/schnitzel/schnitzel.opensauce",
+    "sha256": "8080e2c9b31341e4c98b8a0aff15d2bc9871a5fe4f583e145d42a7330da9079b"
+  },
+  {
+    "path": "examples/public-domain-recipes/scouse/scouse.opensauce",
+    "sha256": "5de5546d4b0c650f5be4832b1dae5de4b0b18511902a4b8b8a83e4ce82285056"
+  },
+  {
+    "path": "examples/public-domain-recipes/seafood-pasta/seafood-pasta.opensauce",
+    "sha256": "c7ee96db2b88865ba1e3ebc138b57001fd3e8a39dddf6dc3c5ae2fc1ccb5d6a7"
+  },
+  {
+    "path": "examples/public-domain-recipes/shakshouka/shakshouka.opensauce",
+    "sha256": "7700897e9383637a13a4c3e006c9be9d9756ddab26a3530d0ae3d8d7e19c5008"
+  },
+  {
+    "path": "examples/public-domain-recipes/shepherds-pie/shepherds-pie.opensauce",
+    "sha256": "2ef7bc1169193c4d90126560fef7923ce95e11403d2f090109e02fe39534a467"
+  },
+  {
+    "path": "examples/public-domain-recipes/shortcrust-pastry/shortcrust-pastry.opensauce",
+    "sha256": "58a5601d01508307de1c997b9f9dccc1f07e454c4ed2bbee59d56746e7f72fb2"
+  },
+  {
+    "path": "examples/public-domain-recipes/shortcrust-pastry-biscuits/shortcrust-pastry-biscuits.opensauce",
+    "sha256": "9692b2538f0d22ee293506beab1a9e7452f3e5fe6d254e56c45b75f143ba6f6f"
+  },
+  {
+    "path": "examples/public-domain-recipes/shrimp-and-chicken-jambalaya/shrimp-and-chicken-jambalaya.opensauce",
+    "sha256": "f3167ed18b907a6590a499ada891ed44d0a692ccfc05c3059bb09a443656e161"
+  },
+  {
+    "path": "examples/public-domain-recipes/shrimp-fettuccine-alfredo/shrimp-fettuccine-alfredo.opensauce",
+    "sha256": "1870b2b46692c66913f8693e6d573dca68aa25905b91b78d6068e96608ad18c7"
+  },
+  {
+    "path": "examples/public-domain-recipes/simple-chicken-curry/simple-chicken-curry.opensauce",
+    "sha256": "f51404b0e29d44e908b74c5a176f3a136a70afcae8441a41fd3f8bb4713c5255"
+  },
+  {
+    "path": "examples/public-domain-recipes/simple-pasta-cream-sauce/simple-pasta-cream-sauce.opensauce",
+    "sha256": "abfd29b977db1d68a5b714e16ae32f132a81bc67194c9287939d7d8be26fcb91"
+  },
+  {
+    "path": "examples/public-domain-recipes/simple-sauce/simple-sauce.opensauce",
+    "sha256": "475eca087b9fe006e1a4053ac259f2119727be382bdf2d03bac2b543f03c923b"
+  },
+  {
+    "path": "examples/public-domain-recipes/slow-cooked-lamb-with-lemon/slow-cooked-lamb-with-lemon.opensauce",
+    "sha256": "c7b44be95a3f7cffeb2f5c1b9bfe25f323ee3229af9481eb06f4f8cc5bb5cf7e"
+  },
+  {
+    "path": "examples/public-domain-recipes/slowcooked-green-bean-beef-soup-supreme/slowcooked-green-bean-beef-soup-supreme.opensauce",
+    "sha256": "0f2c986da4d6dd4d528a20fa863f6fe71b3d3cd48091919b89a19ed4972314ed"
+  },
+  {
+    "path": "examples/public-domain-recipes/smoked-salmon-pasta-primavera/smoked-salmon-pasta-primavera.opensauce",
+    "sha256": "cb5369dac7fb0ac8286634c98a40689efecec5607a468a5a2f61d64b70b15d49"
+  },
+  {
+    "path": "examples/public-domain-recipes/smoked-salmon-quiche/smoked-salmon-quiche.opensauce",
+    "sha256": "8a54214ab84c033a85931a7fe78cb82fbe4686bf8384f5aa5feaa0d6a7ee22b2"
+  },
+  {
+    "path": "examples/public-domain-recipes/smoked-turkey/smoked-turkey.opensauce",
+    "sha256": "d7ef04550981cd45e2db98d90f2f0dcf656f29fd8c4e64f2e760c4bc14b19a3b"
+  },
+  {
+    "path": "examples/public-domain-recipes/soleier/soleier.opensauce",
+    "sha256": "3e6d3c13513550158f795b71ab280d7610b4a8e7971f836cdf57fff72b1f524d"
+  },
+  {
+    "path": "examples/public-domain-recipes/sourdough-bread-with-seeds-and-grains/sourdough-bread-with-seeds-and-grains.opensauce",
+    "sha256": "f2f1214d06de63522d37bfeaea0a37fa064ea83cf853a9c66f0dc3e276a82c45"
+  },
+  {
+    "path": "examples/public-domain-recipes/sourdough-loaf/sourdough-loaf.opensauce",
+    "sha256": "f6a870be80e0aaf5c8cdac3f9159e86154de2e86e3a8a0a6744a9843da627199"
+  },
+  {
+    "path": "examples/public-domain-recipes/sourdough-potato-bread/sourdough-potato-bread.opensauce",
+    "sha256": "ee90bcbff3562a4fcb67490480b5e8a787beeab1f8de4bff8a3c57855fed66a8"
+  },
+  {
+    "path": "examples/public-domain-recipes/sourdough-starter/sourdough-starter.opensauce",
+    "sha256": "480625d3b6220694549a49897ac610de5e71efee7dc619078d5f65755314afd6"
+  },
+  {
+    "path": "examples/public-domain-recipes/southern-biscuits/southern-biscuits.opensauce",
+    "sha256": "7630798e8423b42a6e8c8a66efab35bbfea618e48db55a60213f578b87b8093c"
+  },
+  {
+    "path": "examples/public-domain-recipes/spaghetti-all-amatriciana/spaghetti-all-amatriciana.opensauce",
+    "sha256": "757cd4b62a72991c3a7370cc281a2857c1d98e6520e439d42b63f928b25f105c"
+  },
+  {
+    "path": "examples/public-domain-recipes/spaghetti-alla-puttanesca/spaghetti-alla-puttanesca.opensauce",
+    "sha256": "c2942059a5c7df28b0a43bf37660550e2131a9eced6712fcb04ad68793eafaae"
+  },
+  {
+    "path": "examples/public-domain-recipes/spaghetti-and-meatballs/spaghetti-and-meatballs.opensauce",
+    "sha256": "21a6eb5c5cf867d1fbb914b8d2cba2e37afda92ff76c898ec725941d180c143a"
+  },
+  {
+    "path": "examples/public-domain-recipes/spaghetti-sauce/spaghetti-sauce.opensauce",
+    "sha256": "8aa373a7ed14a015003c2c886f2f0eebe01519886831feb20ee56c18207d95fb"
+  },
+  {
+    "path": "examples/public-domain-recipes/spanish-tortilla/spanish-tortilla.opensauce",
+    "sha256": "f414b2a33a44b7cb3f284ae48d34931fb40299010e374af14588b85a2598f42e"
+  },
+  {
+    "path": "examples/public-domain-recipes/spatchcock-chicken/spatchcock-chicken.opensauce",
+    "sha256": "3accfd525d5268cae3718f59f75c2bf7b993b0cb9776e825aa66418e058a198d"
+  },
+  {
+    "path": "examples/public-domain-recipes/spiced-apple-pancakes/spiced-apple-pancakes.opensauce",
+    "sha256": "7caae6d56d11ab4518392e51c5a12d8f3787f5d3b5a9d6011122f6949081b4ad"
+  },
+  {
+    "path": "examples/public-domain-recipes/spiced-cantaloupe/spiced-cantaloupe.opensauce",
+    "sha256": "769d3f6d19e54d4b35b14414a5b002533868c764dfba3f432145ec770fc21239"
+  },
+  {
+    "path": "examples/public-domain-recipes/spicy-kung-pao-style-chicken/spicy-kung-pao-style-chicken.opensauce",
+    "sha256": "1f61f0938bc91e1b8e3735141ecf47a419ffb27b1a79df7b41f91b4d2c55ea60"
+  },
+  {
+    "path": "examples/public-domain-recipes/spicy-mayo/spicy-mayo.opensauce",
+    "sha256": "359a0d00c3499883ba87c24375a296dfa587145e467599edae1cd84536d1e54c"
+  },
+  {
+    "path": "examples/public-domain-recipes/spicy-sausage-pasta/spicy-sausage-pasta.opensauce",
+    "sha256": "690c32141fdc97891b824bc057957bff8fedbd116e1b40f817996c266068e622"
+  },
+  {
+    "path": "examples/public-domain-recipes/spinach-rice-casserole/spinach-rice-casserole.opensauce",
+    "sha256": "5a1313e8d19209f2f4aa2a9101e81a2ea2da8d365c5cd0d6441f3ff8061e305e"
+  },
+  {
+    "path": "examples/public-domain-recipes/steak-tartare/steak-tartare.opensauce",
+    "sha256": "5d5112a253f33be5de011fc12c59d2bc1afc193fa22acc26441894c3b2ee08d5"
+  },
+  {
+    "path": "examples/public-domain-recipes/sticky-porkchops/sticky-porkchops.opensauce",
+    "sha256": "38b5750a98ff03375f7c3e4808e51413525b5cc05010ed29e9ab165b0bbfdcfd"
+  },
+  {
+    "path": "examples/public-domain-recipes/stir-fried-chicken-with-an-orange-sauce/stir-fried-chicken-with-an-orange-sauce.opensauce",
+    "sha256": "b227d11c51507ebd512bd9d53f0489473e3c798f0a279b4d161d00de55a53b5b"
+  },
+  {
+    "path": "examples/public-domain-recipes/stoemp/stoemp.opensauce",
+    "sha256": "172bfe337631b582fb04c6f1c8792f5823ffcf05634334e48cbace1d433777ab"
+  },
+  {
+    "path": "examples/public-domain-recipes/stoofvlees/stoofvlees.opensauce",
+    "sha256": "d41564f1765a48e8326603301cde02c9424f8a7ebdf7204ba4ee6dd12c7e5244"
+  },
+  {
+    "path": "examples/public-domain-recipes/stracciatella-soup/stracciatella-soup.opensauce",
+    "sha256": "ceaec7bd754258015c4680adc695b0bdbcf8467ca8e64cabbe992b2a3387fa37"
+  },
+  {
+    "path": "examples/public-domain-recipes/strawberry-compote/strawberry-compote.opensauce",
+    "sha256": "0565586106484fb21797e4cf2fd9afa2818adaff177ecfdb69b3e17066d28105"
+  },
+  {
+    "path": "examples/public-domain-recipes/stroganoff/stroganoff.opensauce",
+    "sha256": "4c1c9e8943abcfbc1043467a8117a3317ea01ca6fa06c4b5fa32fc548cd89c11"
+  },
+  {
+    "path": "examples/public-domain-recipes/stuffed-round-squash/stuffed-round-squash.opensauce",
+    "sha256": "bb57ab1cc4b3885dc5d6430b8b7c9be86dadbef9dc0f872049a5a54f3a93a8c9"
+  },
+  {
+    "path": "examples/public-domain-recipes/stuffed-vegetables/stuffed-vegetables.opensauce",
+    "sha256": "7312394cab8849650a135ace619d48e28ce79082fd4b8ecf6f07ec2b2bfbf644"
+  },
+  {
+    "path": "examples/public-domain-recipes/sugar-free-brown-sugar-peanut-butter-cookies/sugar-free-brown-sugar-peanut-butter-cookies.opensauce",
+    "sha256": "129b93d6fd176a93fd84915eff27e4397dc8c0402bdefbdc9ab6e2ea144013b3"
+  },
+  {
+    "path": "examples/public-domain-recipes/sunday-milkshake/sunday-milkshake.opensauce",
+    "sha256": "fbd5cfc833dd7f4c3fcd64be7df4b5b9a83f5030fee32daaa9aab8934ace9bba"
+  },
+  {
+    "path": "examples/public-domain-recipes/swedish-pancakes/swedish-pancakes.opensauce",
+    "sha256": "8a84d30bee49ce9be3b9aa3f1bf7d607defd280affba4ce712640c8573319dd0"
+  },
+  {
+    "path": "examples/public-domain-recipes/sweet-potato-fries/sweet-potato-fries.opensauce",
+    "sha256": "59cce833279e3265e524a12573a0c3b880d1a9d87c69122b35c06e2d4e871415"
+  },
+  {
+    "path": "examples/public-domain-recipes/tabouleh/tabouleh.opensauce",
+    "sha256": "d528c33f2d1adc8a2756a90afed1423f7fb56dc6741a9947321574537dd4e1cd"
+  },
+  {
+    "path": "examples/public-domain-recipes/taco-meat/taco-meat.opensauce",
+    "sha256": "0e7007ed18f5f4718105a25db79f4e5c86a8eefc857ad1681acfde6d6740209c"
+  },
+  {
+    "path": "examples/public-domain-recipes/tahini-short-bread/tahini-short-bread.opensauce",
+    "sha256": "cc6240467835b5d0fc9552f6afd60c138b392f95a40d217995917a74ed5d8abb"
+  },
+  {
+    "path": "examples/public-domain-recipes/tajine/tajine.opensauce",
+    "sha256": "057db015dcd3bd5bfac0fc8b1ae861992243cd09c4acae33ae152dfadad692b9"
+  },
+  {
+    "path": "examples/public-domain-recipes/tanzania-tea-with-milk/tanzania-tea-with-milk.opensauce",
+    "sha256": "b662a0e1ba8b1eac8833ee5b95f9cc1a33b30a3bfde82fa7907860ff591cc5c1"
+  },
+  {
+    "path": "examples/public-domain-recipes/tarta-de-santiago/tarta-de-santiago.opensauce",
+    "sha256": "4c07281b2629055df23caea2eb3c4a15878fa3c970ee6cd7ee16a07f571ee095"
+  },
+  {
+    "path": "examples/public-domain-recipes/tarte-merengada/tarte-merengada.opensauce",
+    "sha256": "4455a106d3958223bfdf7c0fed1b9cd444d56e77d14277dd8c9c03ce11f574ad"
+  },
+  {
+    "path": "examples/public-domain-recipes/teriyaki-beef/teriyaki-beef.opensauce",
+    "sha256": "8145e06f02e19d8031c7067ea3e62e11eed602c434724cdccab4f2e23e72b3d8"
+  },
+  {
+    "path": "examples/public-domain-recipes/tiramisu/tiramisu.opensauce",
+    "sha256": "b3c89949690f9ad3c98dbf0d7d1ae45a7bb9331019b166ff89f1998f10d2b1da"
+  },
+  {
+    "path": "examples/public-domain-recipes/tiroler-groestl/tiroler-groestl.opensauce",
+    "sha256": "6f3cbd3b56368745ee5d14831aee1c7051424fceafa3b6922163637b2930c20f"
+  },
+  {
+    "path": "examples/public-domain-recipes/tofu-and-cashew-chow-mein/tofu-and-cashew-chow-mein.opensauce",
+    "sha256": "a134dbc450f743c15e861305d25121510cc1ec458f05f56b1071a713fc99083a"
+  },
+  {
+    "path": "examples/public-domain-recipes/tofu-stir-fry/tofu-stir-fry.opensauce",
+    "sha256": "ffc40571025e109efe1c613b351548a8d3e8b91fbceaa284bae6832ae1fc07e4"
+  },
+  {
+    "path": "examples/public-domain-recipes/tomato-and-grilled-paprika-soup/tomato-and-grilled-paprika-soup.opensauce",
+    "sha256": "51c5cec69829d201f03ab27e4d825b8e8222b28c2f4afa8587f2ccb909c3b75e"
+  },
+  {
+    "path": "examples/public-domain-recipes/tomato-flavored-hamburger-macaroni/tomato-flavored-hamburger-macaroni.opensauce",
+    "sha256": "324446a20c1c26017d8bb4fab201de3b75db924c4c7b6f7995b4a2fc236d4daa"
+  },
+  {
+    "path": "examples/public-domain-recipes/torrijas/torrijas.opensauce",
+    "sha256": "74f2a6a9440516cd89136d566039a19d33a9ee4136a441a49ddf861a4b472e2f"
+  },
+  {
+    "path": "examples/public-domain-recipes/torta-frita-criolla/torta-frita-criolla.opensauce",
+    "sha256": "fbbe380d50f91db9773314f15515a230440b9d9febe24037e39c0194164553fc"
+  },
+  {
+    "path": "examples/public-domain-recipes/tortellini/tortellini.opensauce",
+    "sha256": "530f8e2a13294a2a3f006727361fb8a9e2ca64c5f18c6879c43a8e90a64565fa"
+  },
+  {
+    "path": "examples/public-domain-recipes/tuhu/tuhu.opensauce",
+    "sha256": "a0a82b677bda7ad3beb1cb18acb995d02401fabcd6fae3ba900c77c5f71a8e09"
+  },
+  {
+    "path": "examples/public-domain-recipes/tuna-salad/tuna-salad.opensauce",
+    "sha256": "fe78fe8e1e26937edf6919c394dbe40e3a0b9d7788c8a4a82f52c4535748c72c"
+  },
+  {
+    "path": "examples/public-domain-recipes/tuna-sub/tuna-sub.opensauce",
+    "sha256": "3747744649925130b3135e5d050dad07cf74f11bbcb752cf0b127aa93019fdef"
+  },
+  {
+    "path": "examples/public-domain-recipes/turkish-red-lentil-soup/turkish-red-lentil-soup.opensauce",
+    "sha256": "b5658c6c0af7fe904acda0274eb9d1a0892f6e062b0653530e25f623f809deec"
+  },
+  {
+    "path": "examples/public-domain-recipes/turkish-style-spiced-chicken/turkish-style-spiced-chicken.opensauce",
+    "sha256": "37f25408948cbc7e8f11ad5a5f4aabe9038585be0a0ce61fb9735e1bf23a0905"
+  },
+  {
+    "path": "examples/public-domain-recipes/turkish-yogurt-soup/turkish-yogurt-soup.opensauce",
+    "sha256": "1c20cfb91324df2f7618273fb7a7ff64603092f67094223737c0092c259f28c2"
+  },
+  {
+    "path": "examples/public-domain-recipes/turmeric-flatbread/turmeric-flatbread.opensauce",
+    "sha256": "e01b4490c32c165b316fb9200508e7a3da9589c29934314d25dd247882a22b31"
+  },
+  {
+    "path": "examples/public-domain-recipes/tzatziki/tzatziki.opensauce",
+    "sha256": "37f00f946cb1943251baba78a8c90114edd3c10bb44ba87891b00384284ca4bb"
+  },
+  {
+    "path": "examples/public-domain-recipes/ukrainian-borscht/ukrainian-borscht.opensauce",
+    "sha256": "fcb01e97915e488342c4e87910ad72e2ae0423b5f88b8e238de000bd0f3e09b1"
+  },
+  {
+    "path": "examples/public-domain-recipes/ukrainian-vareniki/ukrainian-vareniki.opensauce",
+    "sha256": "8d61c877ea1e3d5a342525f9b0b686a5bce1f1bd67bb0945fc4dde2ff5e2af63"
+  },
+  {
+    "path": "examples/public-domain-recipes/venezuelan-arepa/venezuelan-arepa.opensauce",
+    "sha256": "fb7b71a07fd8d8a289d57ade1bd79280c81e2b35770477d3a34d7550c1cd30b5"
+  },
+  {
+    "path": "examples/public-domain-recipes/wholemeal-pizza/wholemeal-pizza.opensauce",
+    "sha256": "758b0464ff7dc885c9fbd354d08822e9504467a907e590e093ea7855e9d57921"
+  },
+  {
+    "path": "examples/public-domain-recipes/wholemeal-wheat-flour-pizza-dough/wholemeal-wheat-flour-pizza-dough.opensauce",
+    "sha256": "6405c4c386776f8646ebbb3b3bc64d61e471f7a30009a5260f0876e330358d3e"
+  },
+  {
+    "path": "examples/public-domain-recipes/winter-risotto/winter-risotto.opensauce",
+    "sha256": "2f8113e4f1f3d8f631219a59e00f8fa8b6562084e94b82f61a458142db08c644"
+  },
+  {
+    "path": "examples/public-domain-recipes/yibin-burning-noodles/yibin-burning-noodles.opensauce",
+    "sha256": "797496a64a0090a702bece2833647e4ab2609a38d5947d04f0397239834d903a"
+  },
+  {
+    "path": "examples/public-domain-recipes/yogurt/yogurt.opensauce",
+    "sha256": "b7df01109c3196c76f0c3354e707a730c9fba3bcc4d0393fec5410cd9a60cbc2"
+  },
+  {
+    "path": "examples/public-domain-recipes/yogurt-cake/yogurt-cake.opensauce",
+    "sha256": "fec222f46215204b086801b552b3232486de60d23c0276179fefe5a7725e4d4e"
+  },
+  {
+    "path": "examples/public-domain-recipes/zaatar/zaatar.opensauce",
+    "sha256": "072aa509b466d545ed8553f77d2d3ebdacae34e79a800d205afad6ffcb436c9e"
+  },
+  {
+    "path": "examples/public-domain-recipes/zaatar-chicken-bulgur-bowls/zaatar-chicken-bulgur-bowls.opensauce",
+    "sha256": "642528d86afe32e8fcf2f2c9d05791d85e3b0adb0f04f43a1e70f6469047f5da"
+  },
+  {
+    "path": "examples/public-domain-recipes/zarangollo/zarangollo.opensauce",
+    "sha256": "911b919b3cdb41a7d3c3a441cd9c321a5d20626de15b234578185bca4f5645dd"
+  },
+  {
+    "path": "examples/public-domain-recipes/zopf/zopf.opensauce",
+    "sha256": "1d1da96e5d67fa020640f0aaeb03e869b244c301ee2281b137fa73c9925935b2"
+  },
+  {
+    "path": "examples/public-domain-recipes/zurich-sytle-meat-saute/zurich-sytle-meat-saute.opensauce",
+    "sha256": "c378d0b3625528164760e7ea78fc42254d3972a671b9f89a039877acc61ec803"
+  }
+]

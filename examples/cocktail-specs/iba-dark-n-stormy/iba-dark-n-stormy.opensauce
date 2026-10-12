@@ -1,0 +1,41 @@
+::recipe
+name: Dark ’n’ Stormy
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/dark-n-stormy/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, rum
+
+# Stable spec ID: iba-dark-n-stormy. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(rum @ Goslings) 60 ml
+(ginger beer) 100 ml
+
+::equipment
+(highball glass)
+
+::instructions
+(ginger beer) <pour, into an ice-filled (highball glass)>
+(rum) <float, on top>
+<garnish, with lime wedge or slice>
+
+::notes
+Goslings is named but no expression is given. Do not silently expand to Black Seal from a different source.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Dark ’n’ Stormy
+URL: https://iba-world.com/iba-cocktail/dark-n-stormy/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+60 ml Goslings Rum
+100 ml Ginger Beer
+Garnish facts: lime wedge OR slice
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

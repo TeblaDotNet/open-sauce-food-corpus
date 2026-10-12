@@ -1,0 +1,4614 @@
+{
+  "schemaVersion": 1,
+  "scope": "30 factual source-specific cocktail formulas; independent OSF methods; no source articles or images",
+  "specs": [
+    {
+      "id": "iba-sazerac",
+      "title": "Sazerac",
+      "subtitle": "Cognac · IBA",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/sazerac/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-sazerac/iba-sazerac.opensauce",
+      "sha256": "da784e881d5b97e9a83e2e797748e36d2ec780f1f355dd0172961a6966dfd90a",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "50 ml",
+          "sourceLabel": "Cognac",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Cognac",
+              "specificity": "A",
+              "quantity": "50 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "10 ml",
+          "sourceLabel": "Absinthe",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Absinthe",
+              "specificity": "A",
+              "quantity": "10 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "1",
+          "sourceLabel": "Sugar Cube",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sugar Cube",
+              "specificity": "B",
+              "quantity": "1",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "2 dashes",
+          "sourceLabel": "Peychaud’s Bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Peychaud’s Bitters",
+              "specificity": "C",
+              "quantity": "2 dashes",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-sazerac",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon zest",
+          "choices": [
+            {
+              "label": "lemon zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Rinse a chilled old-fashioned glass with absinthe and hold crushed ice in it. Stir the other ingredients over ice in a mixing glass. Empty the serving glass of ice and excess absinthe before straining into it.",
+      "notes": "Historical discussion of rye is not an explicit present-day ingredient alternative.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Sazerac"
+    },
+    {
+      "id": "iba-dry-martini",
+      "title": "Martini",
+      "subtitle": "Dry · IBA",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/dry-martini/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-dry-martini/iba-dry-martini.opensauce",
+      "sha256": "c30002ae4061a26053470173ccfffd6f6601d6d39d3eedc47273f9ccc39b5d61",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "60 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "60 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "10 ml",
+          "sourceLabel": "Dry Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Dry Vermouth",
+              "specificity": "B",
+              "quantity": "10 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon peel",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon peel oil OR green olives if requested",
+          "choices": [
+            {
+              "label": "lemon peel",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "green olives",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "lemon peel oil OR green olives if requested",
+          "choices": [
+            {
+              "label": "green olives",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Stir the two ingredients with ice in a mixing glass; strain into a chilled Martini glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Dry Martini"
+    },
+    {
+      "id": "iba-negroni",
+      "title": "Negroni",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/negroni/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-negroni/iba-negroni.opensauce",
+      "sha256": "4c68c42eba0c821ab7e15a0c093cb97d83459d6a5e38261b1df0a03cdc4d536d",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Bitter Campari",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bitter Campari",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-negroni",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Sweet Red Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sweet Red Vermouth",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "half orange slice",
+          "choices": [
+            {
+              "label": "orange slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Combine over ice in a chilled old-fashioned glass and stir gently.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Negroni"
+    },
+    {
+      "id": "iba-daiquiri",
+      "title": "Daiquiri",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/daiquiri/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-daiquiri/iba-daiquiri.opensauce",
+      "sha256": "b62c5a13786678c295db740dbc6abba71d1ec7ab980efb7f3a3dcd5578b1b45a",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "60 ml",
+          "sourceLabel": "White Cuban Ron",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "White Cuban Ron",
+              "specificity": "B",
+              "quantity": "60 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "20 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "20 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "2 bar spoons",
+          "sourceLabel": "Superfine Sugar",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Superfine Sugar",
+              "specificity": "B",
+              "quantity": "2 bar spoons",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [],
+      "methodParaphrase": "Dissolve the sugar with the liquids in a shaker, then add ice, shake and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Daiquiri"
+    },
+    {
+      "id": "iba-whiskey-sour",
+      "title": "Whiskey Sour",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/whiskey-sour/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-whiskey-sour/iba-whiskey-sour.opensauce",
+      "sha256": "a8a0ec3d2478d1463dd0ac0733d96105d7b8e1f50256e91299ffd83cb34c38ca",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Bourbon Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bourbon Whiskey",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "25 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "25 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "20 ml",
+          "sourceLabel": "Sugar Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sugar Syrup",
+              "specificity": "A",
+              "quantity": "20 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "few drops",
+          "sourceLabel": "Egg White (optional)",
+          "specificity": "A",
+          "role": "formula",
+          "optional": true,
+          "choices": [
+            {
+              "label": "Egg White (optional)",
+              "specificity": "A",
+              "quantity": "few drops",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "half orange slice and maraschino cherry; optionally orange zest",
+          "choices": [
+            {
+              "label": "orange slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "maraschino cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "half orange slice and maraschino cherry; optionally orange zest",
+          "choices": [
+            {
+              "label": "maraschino cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g3",
+          "role": "garnish",
+          "sourceLabel": "orange zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "half orange slice and maraschino cherry; optionally orange zest",
+          "choices": [
+            {
+              "label": "orange zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake with ice and strain into a cobbler glass, or an ice-filled old-fashioned glass for on-the-rocks service. Shake more vigorously when using egg white.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Whiskey Sour"
+    },
+    {
+      "id": "iba-john-collins",
+      "title": "John Collins",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/john-collins/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-john-collins/iba-john-collins.opensauce",
+      "sha256": "ff3ca1bf448ca4122d06e3813210963d8dd71b168f6fa0af8fcd04108ee8482b",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "15 ml",
+          "sourceLabel": "Simple Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Simple Syrup",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "60 ml",
+          "sourceLabel": "Soda Water",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Soda Water",
+              "specificity": "A",
+              "quantity": "60 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon slice and maraschino cherry",
+          "choices": [
+            {
+              "label": "lemon slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "maraschino cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "lemon slice and maraschino cherry",
+          "choices": [
+            {
+              "label": "maraschino cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Build in a highball glass containing ice and stir gently.",
+      "notes": "The source labels the Old Tom gin version Tom Collins: a named variant, not a silent alias.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "John Collins"
+    },
+    {
+      "id": "iba-mai-tai",
+      "title": "Mai Tai",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/mai-tai/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-mai-tai/iba-mai-tai.opensauce",
+      "sha256": "abab2b15d5a47cf2ac248928b2904572e9dddae39b43e1b68376594266516f81",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Amber Jamaican Rum",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Amber Jamaican Rum",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Martinique Molasses Rhum",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Martinique Molasses Rhum",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "15 ml",
+          "sourceLabel": "Orange Curacao",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Orange Curacao",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "15 ml",
+          "sourceLabel": "Orgeat Syrup (Almond)",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Orgeat Syrup (Almond)",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Simple Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Simple Syrup",
+              "specificity": "A",
+              "quantity": "7.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "pineapple spear",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "pineapple spear, mint leaves, lime peel",
+          "choices": [
+            {
+              "label": "pineapple spear",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "mint leaves",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "pineapple spear, mint leaves, lime peel",
+          "choices": [
+            {
+              "label": "mint leaves",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g3",
+          "role": "garnish",
+          "sourceLabel": "lime peel",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "pineapple spear, mint leaves, lime peel",
+          "choices": [
+            {
+              "label": "lime peel",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake the mixture with ice and pour into either a double rocks glass or a highball.",
+      "notes": "The source distinguishes molasses Martinique rum from agricole for the historical profile; this is style evidence, not a product requirement.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Mai Tai"
+    },
+    {
+      "id": "iba-zombie",
+      "title": "Zombie",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/zombie/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-zombie/iba-zombie.opensauce",
+      "sha256": "d1e808227e5bbfd2d2706f0148d0dedeeeb725132b7dbf9598494c97e527112f",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Jamaican dark rum",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Jamaican dark rum",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "45 ml",
+          "sourceLabel": "Gold Puerto Rican rum",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gold Puerto Rican rum",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Demerara Rum",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Demerara Rum",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "20 ml",
+          "sourceLabel": "Fresh lime juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh lime juice",
+              "specificity": "A",
+              "quantity": "20 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "15 ml",
+          "sourceLabel": "Falernum",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Falernum",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "quantity": "15 ml",
+          "sourceLabel": "Donn’s Mix",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Donn’s Mix",
+              "specificity": "B",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "quantity": "1 tsp",
+          "sourceLabel": "Grenadine syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Grenadine syrup",
+              "specificity": "A",
+              "quantity": "1 tsp",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 8,
+          "quantity": "1 dash",
+          "sourceLabel": "Angostura bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Angostura bitters",
+              "specificity": "C",
+              "quantity": "1 dash",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-zombie",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 9,
+          "quantity": "6 drops",
+          "sourceLabel": "Pernod",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Pernod",
+              "specificity": "C",
+              "quantity": "6 drops",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-zombie",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "mint leaves",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "mint leaves",
+          "choices": [
+            {
+              "label": "mint leaves",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Pulse the ingredients for a few seconds with 170 g cracked ice in a blender. Pour into a tall tumbler.",
+      "notes": "Donn’s Mix is two parts yellow grapefruit juice to one part cinnamon syrup; it is a named preparation, not automatically a brand.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Zombie"
+    },
+    {
+      "id": "iba-americano",
+      "title": "Americano",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/americano/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-americano/iba-americano.opensauce",
+      "sha256": "f65d8435288334b23442e42c075dc74067db8cb199eda1b14b66b5a97ee28eb4",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Campari",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Campari",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-americano",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Sweet Red Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sweet Red Vermouth",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "splash",
+          "sourceLabel": "Soda Water",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Soda Water",
+              "specificity": "A",
+              "quantity": "splash",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "half orange slice and lemon zest",
+          "choices": [
+            {
+              "label": "orange slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "lemon zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "half orange slice and lemon zest",
+          "choices": [
+            {
+              "label": "lemon zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Combine over ice in an old-fashioned glass, then stir gently.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Americano"
+    },
+    {
+      "id": "iba-boulevardier",
+      "title": "Boulevardier",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/boulevardier/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-boulevardier/iba-boulevardier.opensauce",
+      "sha256": "f220b1379f4f67d50077e3e1dab88188326cd39f321a626a96b583f9160aef8a",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Bourbon or Rye Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bourbon whiskey",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            },
+            {
+              "label": "Rye whiskey",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Bitter Campari",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bitter Campari",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-boulevardier",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Sweet Red Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sweet Red Vermouth",
+              "specificity": "B",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "orange zest, optionally lemon zest",
+          "choices": [
+            {
+              "label": "orange zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "lemon zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "orange zest, optionally lemon zest",
+          "choices": [
+            {
+              "label": "lemon zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Stir with ice in a mixing glass, then strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Boulevardier"
+    },
+    {
+      "id": "iba-last-word",
+      "title": "Last Word",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/last-word/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-last-word/iba-last-word.opensauce",
+      "sha256": "7372ef2c61481f03a9085ee56fe8d11c839d75c9c2a3f7136b9d9b4eff24388d",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Green Chartreuse",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Green Chartreuse",
+              "specificity": "C",
+              "quantity": "22.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-last-word",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Maraschino Luxardo",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Maraschino Luxardo",
+              "specificity": "C",
+              "quantity": "22.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-last-word",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [],
+      "methodParaphrase": "Shake with ice; strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Last Word"
+    },
+    {
+      "id": "iba-paper-plane",
+      "title": "Paper Plane",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/paper-plane/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-paper-plane/iba-paper-plane.opensauce",
+      "sha256": "42892af2fc89573f2b7f1d69c8a648d56b678ce3cdb1025c2d8613c21cc856ea",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Bourbon Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bourbon Whiskey",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Amaro Nonino",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Amaro Nonino",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-paper-plane",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Aperol",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Aperol",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-paper-plane",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [],
+      "methodParaphrase": "Shake the ingredients over ice and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Paper Plane"
+    },
+    {
+      "id": "iba-penicillin",
+      "title": "Penicillin",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/penicillin/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-penicillin/iba-penicillin.opensauce",
+      "sha256": "437e312ec3125a5ebafb4699d450c0f60a2742f72091a6470cdd3291cf6e61f8",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "60 ml",
+          "sourceLabel": "Blended scotch whisky",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Blended scotch whisky",
+              "specificity": "B",
+              "quantity": "60 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Lagavulin 16y",
+          "specificity": "D",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Lagavulin 16y",
+              "specificity": "D",
+              "quantity": "7.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-penicillin",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": "Lagavulin",
+              "expression": "16 Year Old",
+              "hierarchyStatus": "verified",
+              "hierarchySource": "product-lagavulin-16"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Fresh lemon juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh lemon juice",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Honey syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Honey syrup",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "2-3 quarter-size slices",
+          "sourceLabel": "Fresh ginger",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh ginger",
+              "specificity": "A",
+              "quantity": "2-3 quarter-size slices",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "candied ginger",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "candied ginger slices",
+          "choices": [
+            {
+              "label": "candied ginger",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Muddle ginger in the shaker. Add everything except the single malt; shake with ice. Fine-strain into a chilled old-fashioned glass with ice, then float the single malt.",
+      "notes": "Source method has the typo “Fine train”; interpreted as fine-strain, recorded rather than silently altering original ingredient wording.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Penicillin"
+    },
+    {
+      "id": "iba-naked-and-famous",
+      "title": "Naked and Famous",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/naked-and-famous/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-naked-and-famous/iba-naked-and-famous.opensauce",
+      "sha256": "8724193457fb6bebba98e302c11129000949fa2b0525cac7f2e28c3e43dcbdeb",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Mezcal",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Mezcal",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Yellow Chartreuse",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Yellow Chartreuse",
+              "specificity": "C",
+              "quantity": "22.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-naked-and-famous",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Aperol",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Aperol",
+              "specificity": "C",
+              "quantity": "22.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-naked-and-famous",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [],
+      "methodParaphrase": "Shake with ice and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Naked and Famous"
+    },
+    {
+      "id": "iba-old-fashioned",
+      "title": "Old Fashioned",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/old-fashioned/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-old-fashioned/iba-old-fashioned.opensauce",
+      "sha256": "c53e5b7030a79b6fcd5becfc57e5b80af577ab1d7e909c0bf37de469134076b8",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Bourbon or Rye Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Bourbon whiskey",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            },
+            {
+              "label": "Rye whiskey",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "1",
+          "sourceLabel": "Sugar Cube",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sugar Cube",
+              "specificity": "B",
+              "quantity": "1",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "few dashes",
+          "sourceLabel": "Angostura Bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Angostura Bitters",
+              "specificity": "C",
+              "quantity": "few dashes",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-old-fashioned",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "few dashes",
+          "sourceLabel": "Plain Water",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Plain Water",
+              "specificity": "A",
+              "quantity": "few dashes",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange slice or zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "orange slice OR zest, and cocktail cherry",
+          "choices": [
+            {
+              "label": "orange slice or zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "cocktail cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "orange slice OR zest, and cocktail cherry",
+          "choices": [
+            {
+              "label": "cocktail cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Wet the sugar with bitters and water in an old-fashioned glass; muddle to dissolve. Add ice and whiskey, then stir gently.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Old Fashioned"
+    },
+    {
+      "id": "iba-manhattan",
+      "title": "Manhattan",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/manhattan/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-manhattan/iba-manhattan.opensauce",
+      "sha256": "8cd9b9322f593d7fd8af54f5e9c38ad6e68e3f98330341644280409fe5aa929f",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "50 ml",
+          "sourceLabel": "Rye Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Rye Whiskey",
+              "specificity": "A",
+              "quantity": "50 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "20 ml",
+          "sourceLabel": "Sweet Red Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sweet Red Vermouth",
+              "specificity": "B",
+              "quantity": "20 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "1 dash",
+          "sourceLabel": "Angostura Bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Angostura Bitters",
+              "specificity": "C",
+              "quantity": "1 dash",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-manhattan",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "cocktail cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "cocktail cherry",
+          "choices": [
+            {
+              "label": "cocktail cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Stir over ice in a mixing glass and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Manhattan"
+    },
+    {
+      "id": "iba-vesper",
+      "title": "Vesper",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/vesper/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-vesper/iba-vesper.opensauce",
+      "sha256": "00cbadcbe73315425958dd5df7938662fd746de9f2172058eb6667b62411b2c8",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "15 ml",
+          "sourceLabel": "Vodka",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Vodka",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Lillet Blanc",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Lillet Blanc",
+              "specificity": "C",
+              "quantity": "7.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-vesper",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon zest",
+          "choices": [
+            {
+              "label": "lemon zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake with ice and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Vesper"
+    },
+    {
+      "id": "iba-aviation",
+      "title": "Aviation",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/aviation/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-aviation/iba-aviation.opensauce",
+      "sha256": "93d01ac6250e19c0faf047a721cd324cde83b7a23fb3dd43da42776c65560a30",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "15 ml",
+          "sourceLabel": "Maraschino Luxardo",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Maraschino Luxardo",
+              "specificity": "C",
+              "quantity": "15 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-aviation",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "15 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "1 bar spoon",
+          "sourceLabel": "Crème de Violette",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Crème de Violette",
+              "specificity": "A",
+              "quantity": "1 bar spoon",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "maraschino cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "maraschino cherry (optional)",
+          "choices": [
+            {
+              "label": "maraschino cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake over cracked ice, then strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Aviation"
+    },
+    {
+      "id": "iba-corpse-reviver-2",
+      "title": "Corpse Reviver #2",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/corpse-reviver-2/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-corpse-reviver-2/iba-corpse-reviver-2.opensauce",
+      "sha256": "ea99467e92f09d98d3a443e296471798dce4976033a3b504ad8766eac34c53fe",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Cointreau",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Cointreau",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-corpse-reviver-2",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Lillet Blanc",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Lillet Blanc",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-corpse-reviver-2",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "1 dash",
+          "sourceLabel": "Absinthe",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Absinthe",
+              "specificity": "A",
+              "quantity": "1 dash",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "orange zest",
+          "choices": [
+            {
+              "label": "orange zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake with ice and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Corpse Reviver #2"
+    },
+    {
+      "id": "iba-rusty-nail",
+      "title": "Rusty Nail",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/rusty-nail/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-rusty-nail/iba-rusty-nail.opensauce",
+      "sha256": "768466738835fedff4b24167b95430a1d197bb4c6e4d5ba7c9667575316497a1",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Scotch Whisky",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Scotch Whisky",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "25 ml",
+          "sourceLabel": "Drambuie",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Drambuie",
+              "specificity": "C",
+              "quantity": "25 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-rusty-nail",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon zest",
+          "choices": [
+            {
+              "label": "lemon zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Build over ice in an old-fashioned glass and stir gently.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Rusty Nail"
+    },
+    {
+      "id": "iba-hanky-panky",
+      "title": "Hanky Panky",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/hanky-panky/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-hanky-panky/iba-hanky-panky.opensauce",
+      "sha256": "ddc7ee08bc511364cadfa7c8b2705aee885d1cb2a7f3fd41455f31cf02f14a09",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "London Dry Gin",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "London Dry Gin",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "45 ml",
+          "sourceLabel": "Sweet Red Vermouth",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sweet Red Vermouth",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Fernet",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fernet",
+              "specificity": "A",
+              "quantity": "7.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "orange zest",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "orange zest",
+          "choices": [
+            {
+              "label": "orange zest",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Stir with ice in a mixing glass; strain into a chilled cocktail glass.",
+      "notes": "The source says Fernet, not Fernet-Branca. Do not supply a brand.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Hanky Panky"
+    },
+    {
+      "id": "iba-moscow-mule",
+      "title": "Moscow Mule",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/moscow-mule/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-moscow-mule/iba-moscow-mule.opensauce",
+      "sha256": "875912ee11c2f8737f75cfcab52e21eff950afe314d9b138aa2527e53a9f0846",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Smirnoff Vodka",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Smirnoff Vodka",
+              "specificity": "C",
+              "quantity": "45 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-moscow-mule",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "120 ml",
+          "sourceLabel": "Ginger Beer",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Ginger Beer",
+              "specificity": "A",
+              "quantity": "120 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "10 ml",
+          "sourceLabel": "Fresh lime juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh lime juice",
+              "specificity": "A",
+              "quantity": "10 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lime slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lime slice",
+          "choices": [
+            {
+              "label": "lime slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Combine vodka and ginger beer in a mule cup or rocks glass. Add lime juice and stir gently.",
+      "notes": "No ice quantity or ice instruction is supplied in this source method; do not invent one in the conversion.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Moscow Mule"
+    },
+    {
+      "id": "iba-pisco-sour",
+      "title": "Pisco Sour",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/pisco-sour/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-pisco-sour/iba-pisco-sour.opensauce",
+      "sha256": "c1c4827a1183845a1b74d8fdc8b1bcfb18e9785cf44b4cffff097ebe49ca7e2b",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "60 ml",
+          "sourceLabel": "Pisco",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Pisco",
+              "specificity": "A",
+              "quantity": "60 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "20 ml",
+          "sourceLabel": "Simple Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Simple Syrup",
+              "specificity": "A",
+              "quantity": "20 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "1",
+          "sourceLabel": "Raw whole Egg White",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Raw whole Egg White",
+              "specificity": "A",
+              "quantity": "1",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "Amargo bitters",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "few dashes Amargo bitters",
+          "choices": [
+            {
+              "label": "Amargo bitters",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake with ice and strain into a chilled goblet.",
+      "notes": "Amargo is insufficient to establish an exact commercial product; leave identity unresolved.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Pisco Sour"
+    },
+    {
+      "id": "iba-espresso-martini",
+      "title": "Espresso Martini",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/espresso-martini/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-espresso-martini/iba-espresso-martini.opensauce",
+      "sha256": "682d2232d5b0c2c26744f62bf0955d5c94082f172985aeb9bd69969670e4eec1",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "50 ml",
+          "sourceLabel": "Vodka",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Vodka",
+              "specificity": "A",
+              "quantity": "50 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Kahlúa",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Kahlúa",
+              "specificity": "C",
+              "quantity": "30 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-espresso-martini",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "10 ml",
+          "sourceLabel": "Sugar Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sugar Syrup",
+              "specificity": "A",
+              "quantity": "10 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "1 strong espresso",
+          "sourceLabel": "Espresso",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Espresso",
+              "specificity": "B",
+              "quantity": "1 strong espresso",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "coffee beans",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "3 coffee beans",
+          "choices": [
+            {
+              "label": "coffee beans",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake over ice and strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Espresso Martini"
+    },
+    {
+      "id": "iba-dark-n-stormy",
+      "title": "Dark ’n’ Stormy",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/dark-n-stormy/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-dark-n-stormy/iba-dark-n-stormy.opensauce",
+      "sha256": "77a86c0a6f0f1e974e80e5a9b4b0033d48e41bead4fcd1af31cb1b6845ac86eb",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "60 ml",
+          "sourceLabel": "Goslings Rum",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Goslings Rum",
+              "specificity": "C",
+              "quantity": "60 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-dark-n-stormy",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "100 ml",
+          "sourceLabel": "Ginger Beer",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Ginger Beer",
+              "specificity": "A",
+              "quantity": "100 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lime wedge or slice",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lime wedge OR slice",
+          "choices": [
+            {
+              "label": "lime wedge or slice",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Pour ginger beer into an ice-filled highball; float the rum over it.",
+      "notes": "Goslings is named but no expression is given. Do not silently expand to Black Seal from a different source.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Dark ’n’ Stormy"
+    },
+    {
+      "id": "iba-chartreuse-swizzle",
+      "title": "Chartreuse Swizzle",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-chartreuse-swizzle/iba-chartreuse-swizzle.opensauce",
+      "sha256": "d7b9e8763fae4975ea04606f495d3d4dbebf0c4f260a24f696807c4684b3c474",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Green Chartreuse",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Green Chartreuse",
+              "specificity": "C",
+              "quantity": "45 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-chartreuse-swizzle",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Fresh Pineapple Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Pineapple Juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "15 ml",
+          "sourceLabel": "Falernum",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Falernum",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "mint leaves",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "mint leaves and grated nutmeg",
+          "choices": [
+            {
+              "label": "mint leaves",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "nutmeg",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "mint leaves and grated nutmeg",
+          "choices": [
+            {
+              "label": "nutmeg",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Add ingredients and pebble ice to a tall glass. Mix vigorously with a swizzle stick or cocktail spoon, then replenish the pebble ice.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Chartreuse Swizzle"
+    },
+    {
+      "id": "iba-trinidad-sour",
+      "title": "Trinidad Sour",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/trinidad-sour/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-trinidad-sour/iba-trinidad-sour.opensauce",
+      "sha256": "bb5a9a200b3b1af57b89d264c11d66bd0abeb31395b10cd9be74bfd143415a42",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Angostura Bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Angostura Bitters",
+              "specificity": "C",
+              "quantity": "45 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-trinidad-sour",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "30 ml",
+          "sourceLabel": "Orgeat Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Orgeat Syrup",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Fresh Lemon Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lemon Juice",
+              "specificity": "A",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "15 ml",
+          "sourceLabel": "Rye Whiskey",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Rye Whiskey",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [],
+      "methodParaphrase": "Shake with ice, then strain into a chilled cocktail glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Trinidad Sour"
+    },
+    {
+      "id": "iba-singapore-sling",
+      "title": "Singapore Sling",
+      "publisher": "IBA",
+      "url": "https://iba-world.com/iba-cocktail/singapore-sling/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/iba-singapore-sling/iba-singapore-sling.opensauce",
+      "sha256": "9fea74290bcdc2714dc8ec377a18c56c26bcf6ee1fba9c7d516f87f7ae9cd3bb",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "30 ml",
+          "sourceLabel": "Gin",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Gin",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "15 ml",
+          "sourceLabel": "Cherry Sangue Morlacco",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Cherry Sangue Morlacco",
+              "specificity": "C",
+              "quantity": "15 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-singapore-sling",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Cointreau",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Cointreau",
+              "specificity": "C",
+              "quantity": "7.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-singapore-sling",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "7.5 ml",
+          "sourceLabel": "DOM Bénédictine",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "DOM Bénédictine",
+              "specificity": "C",
+              "quantity": "7.5 ml",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-singapore-sling",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "120 ml",
+          "sourceLabel": "Fresh Pineapple Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Pineapple Juice",
+              "specificity": "A",
+              "quantity": "120 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "quantity": "15 ml",
+          "sourceLabel": "Fresh Lime Juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Fresh Lime Juice",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "quantity": "10 ml",
+          "sourceLabel": "Grenadine Syrup",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Grenadine Syrup",
+              "specificity": "A",
+              "quantity": "10 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 8,
+          "quantity": "1 dash",
+          "sourceLabel": "Angostura bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Angostura bitters",
+              "specificity": "C",
+              "quantity": "1 dash",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "specified",
+              "strengthEvidence": {
+                "sourceId": "iba-singapore-sling",
+                "section": "ingredients",
+                "basis": "Named by source; no stronger recommendation inferred."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "pineapple",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "pineapple and maraschino cherry",
+          "choices": [
+            {
+              "label": "pineapple",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "maraschino cherry",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "pineapple and maraschino cherry",
+          "choices": [
+            {
+              "label": "maraschino cherry",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Shake with ice and strain into a Hurricane glass.",
+      "notes": "",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Singapore Sling"
+    },
+    {
+      "id": "difford-sazerac",
+      "title": "Sazerac",
+      "subtitle": "New Orleans style · rye",
+      "publisher": "Difford's Guide",
+      "url": "https://www.diffordsguide.com/cocktails/recipe/3390/sazerac-new-orleans-style",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/difford-sazerac/difford-sazerac.opensauce",
+      "sha256": "fcfbf313d64f2856e71cd2e54b51e2ef30904c03e782878e4a79c83295ab4c79",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Straight rye whiskey (100 proof /50% alc./vol.)",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Straight rye whiskey (100 proof /50% alc./vol.)",
+              "specificity": "B",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "7.5 ml",
+          "sourceLabel": "Sugar syrup rich (2 sugar to 1 water) 65.0°Brix",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Sugar syrup rich (2 sugar to 1 water) 65.0°Brix",
+              "specificity": "B",
+              "quantity": "7.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "3 dashes",
+          "sourceLabel": "Peychaud’s or other Creole-style bitters",
+          "specificity": "C",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Peychaud’s bitters",
+              "specificity": "C",
+              "quantity": "3 dashes",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "explicitly-substitutable",
+              "strengthEvidence": {
+                "sourceId": "difford-sazerac",
+                "section": "ingredients",
+                "basis": "Explicit authored alternatives; retain the stated scope and branch quantities."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred",
+              "secondaryEvidence": {
+                "claim": "authenticity-significant",
+                "sourceId": "difford-sazerac",
+                "section": "History",
+                "basis": "Historical discussion calls Peychaud’s essential to the distinctive flavour; current ingredient list nevertheless explicitly permits other Creole-style bitters. Preserve both; primary code follows actionable alternatives, not a claim that only this brand works."
+              }
+            },
+            {
+              "label": "Other Creole-style bitters",
+              "specificity": "B",
+              "quantity": "3 dashes",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "4 dashes",
+          "sourceLabel": "La Fée Parisienne absinthe",
+          "specificity": "D",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "La Fée Parisienne absinthe",
+              "specificity": "D",
+              "quantity": "4 dashes",
+              "commercial": true,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": "explicitly-substitutable",
+              "strengthEvidence": {
+                "sourceId": "difford-sazerac",
+                "section": "ingredients and method",
+                "basis": "Explicit authored alternatives; retain the stated scope and branch quantities."
+              },
+              "brand": "La Fée",
+              "expression": "Parisienne",
+              "hierarchyStatus": "verified",
+              "hierarchySource": "product-la-fee-parisienne"
+            },
+            {
+              "label": "Herbsaint",
+              "specificity": "C",
+              "quantity": null,
+              "commercial": true,
+              "proprietaryCulinaryIdentity": true,
+              "identityFlagBasis": "Editorial candidate: source uses this named product as the ingredient identity; not a claim of universal irreplaceability.",
+              "strength": "explicitly-substitutable",
+              "strengthEvidence": {
+                "sourceId": "difford-sazerac",
+                "section": "ingredients and method",
+                "basis": "Explicit authored alternatives; retain the stated scope and branch quantities."
+              },
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not inferred"
+            }
+          ],
+          "alternativeEvidence": "Method permits Herbsaint as rinse; does not separately quantify it. Do not silently equate dosages."
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon zest twist",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon zest twist",
+          "choices": [
+            {
+              "label": "lemon zest twist",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Stir the rye, syrup and bitters with ice. Empty ice from the pre-chilled rocks glass, rinse with absinthe or Herbsaint, and strain into the glass. Express lemon oil and retain the twist.",
+      "notes": "Strength of absinthe is not automatically strength of the rinse choice. The editorial method expressly permits Herbsaint.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "Sazerac (New Orleans style)"
+    },
+    {
+      "id": "morgenthaler-amaretto-sour",
+      "title": "Amaretto Sour",
+      "publisher": "Jeffrey Morgenthaler",
+      "url": "https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/",
+      "retrieved": "2026-10-12",
+      "repositoryPath": "examples/cocktail-specs/morgenthaler-amaretto-sour/morgenthaler-amaretto-sour.opensauce",
+      "sha256": "97173c0c8a6a06228ec3cb67c8d853c286f7070ed6d8c5fec0c6636381a46e6a",
+      "formula": [
+        {
+          "line": 1,
+          "quantity": "45 ml",
+          "sourceLabel": "Amaretto",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Amaretto",
+              "specificity": "A",
+              "quantity": "45 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "quantity": "22.5 ml",
+          "sourceLabel": "Cask-proof bourbon",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Cask-proof bourbon",
+              "specificity": "B",
+              "quantity": "22.5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "quantity": "30 ml",
+          "sourceLabel": "Lemon juice",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Lemon juice",
+              "specificity": "A",
+              "quantity": "30 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "quantity": "5 ml",
+          "sourceLabel": "Simple syrup (2:1)",
+          "specificity": "B",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Simple syrup (2:1)",
+              "specificity": "B",
+              "quantity": "5 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "quantity": "15 ml",
+          "sourceLabel": "Egg white (lightly beaten)",
+          "specificity": "A",
+          "role": "formula",
+          "optional": false,
+          "choices": [
+            {
+              "label": "Egg white (lightly beaten)",
+              "specificity": "A",
+              "quantity": "15 ml",
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "garnishes": [
+        {
+          "line": "g1",
+          "role": "garnish",
+          "sourceLabel": "lemon peel",
+          "specificity": "A",
+          "quantity": null,
+          "quantityEvidence": "lemon peel and brandied cherries (optional)",
+          "choices": [
+            {
+              "label": "lemon peel",
+              "specificity": "A",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        },
+        {
+          "line": "g2",
+          "role": "garnish",
+          "sourceLabel": "brandied cherries",
+          "specificity": "B",
+          "quantity": null,
+          "quantityEvidence": "lemon peel and brandied cherries (optional)",
+          "choices": [
+            {
+              "label": "brandied cherries",
+              "specificity": "B",
+              "quantity": null,
+              "commercial": false,
+              "proprietaryCulinaryIdentity": false,
+              "identityFlagBasis": null,
+              "strength": null,
+              "strengthEvidence": null,
+              "brand": null,
+              "expression": null,
+              "hierarchyStatus": "not applicable"
+            }
+          ]
+        }
+      ],
+      "methodParaphrase": "Dry-shake, or use the author’s preferred immersion blender. Shake again with cracked ice; strain onto fresh ice in an old-fashioned glass.",
+      "notes": "The emphasis is cask-proof bourbon, not a specific brand; reader comments are excluded.",
+      "rights": {
+        "formula": "Factual labels and quantities only",
+        "method": "Independently paraphrased OSF wording",
+        "sourceLicence": "Not established; no grant over third-party prose or images",
+        "encodingLicence": "CC-BY-4.0"
+      },
+      "conversionStage": "reworked",
+      "curation": {
+        "origin": "generated",
+        "review": "unchecked"
+      },
+      "sourceTitle": "I Make the Best Amaretto Sour in The World"
+    }
+  ]
+}

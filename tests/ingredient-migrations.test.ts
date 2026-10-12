@@ -25,7 +25,7 @@ for (const form of ['lemon: juice','lemon: juice, fresh','lemon: juice, bottled'
 
 for(const [decl,ref] of [['lemon juice','lemon: juice'],['lemon: juice','lemon juice'],['lemon','lemon juice'],['flour; self-raising','self-rising flour'],['self raising flour','flour; self raising'],['flour; self-raising','flour'],['flour','flour; self-raising']]) test(`local compatibility ${decl} -> ${ref}`,()=>{
   const r=parse(`::ingredients\n(${decl})\n::instructions\n(${ref}) <mix>`),ts=things(r);
-  assert.deepEqual(r.diagnostics,[]);
+  assert.deepEqual(r.diagnostics.map(d=>[d.severity,d.code]),ref==='self-rising flour'?[['warning','INGREDIENT_COMPATIBILITY']]:[]);
   assert.equal(ts[1].thingKind,'ingredient'); assert.ok(ts[1].declarationIds?.length);
   assert.equal(ts[1].canonicalId,decl.startsWith('lemon')?'lemon':'self-raising-flour');
 });

@@ -1,0 +1,50 @@
+::recipe
+name: Sazerac
+subtitle: Cognac · IBA
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/sazerac/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, brandy
+
+# Stable spec ID: iba-sazerac. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(brandy; Cognac) 50 ml
+(absinthe) 10 ml
+(sugar, cube) 1
+(bitters @ Peychaud's) 2 dashes
+
+::equipment
+(old-fashioned glass)
+(mixing glass)
+
+::instructions
+(old-fashioned glass) <chill> <rinse, with (absinthe)> <fill, with crushed ice> <set aside>
+{drink} = (brandy; Cognac) + (sugar, cube) + (bitters @ Peychaud's)
+{drink} <stir, with ice in (mixing glass)>
+(old-fashioned glass) <empty, discarding preparation ice and excess absinthe>
+{drink} <strain, into the prepared glass>
+<garnish, with lemon zest>
+
+::notes
+Historical discussion of rye is not an explicit present-day ingredient alternative.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Sazerac
+URL: https://iba-world.com/iba-cocktail/sazerac/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+50 ml Cognac
+10 ml Absinthe
+1 Sugar Cube
+2 dashes Peychaud’s Bitters
+Garnish facts: lemon zest
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>

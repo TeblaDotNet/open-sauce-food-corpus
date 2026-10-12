@@ -1,0 +1,44 @@
+::recipe
+name: Hanky Panky
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/hanky-panky/
+source author: IBA
+source license: Factual formula only; source prose and images not licensed or reproduced. OSF encoding and independently paraphrased method: CC BY 4.0.
+units: source
+tags: cocktail, gin
+
+# Stable spec ID: iba-hanky-panky. Source checked 2026-10-12. Machine generated; not human reviewed.
+
+::ingredients
+(gin; London dry) 45 ml
+(vermouth; sweet red) 45 ml
+(amaro; fernet) 7.5 ml
+
+::equipment
+(mixing glass)
+(cocktail glass)
+
+::instructions
+{drink} = (gin; London dry) + (vermouth; sweet red) + (amaro; fernet)
+{drink} <stir, with ice in (mixing glass)> <strain, into a chilled (cocktail glass)>
+<garnish, with orange zest>
+
+::notes
+The source says Fernet, not Fernet-Branca. Do not supply a brand.
+Named products use bare @ unless a stronger intent is explicitly authored. No automatic substitution is implied.
+
+::source
+<<<
+Source: IBA — Hanky Panky
+URL: https://iba-world.com/iba-cocktail/hanky-panky/
+Retrieved: 2026-10-12
+Factual ingredient labels and quantities, not an article transcription:
+45 ml London Dry Gin
+45 ml Sweet Red Vermouth
+7.5 ml Fernet
+Garnish facts: orange zest
+The method above is independently paraphrased. No source photographs or article prose are included.
+>>>
