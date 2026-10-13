@@ -1,0 +1,49 @@
+::recipe
+name: Rob Roy
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/rob-roy/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey, scotch, spirit-forward
+
+# Stable spec ID: punch-rob-roy. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(Scotch whisky; blended) 2 oz
+(choice 2) = (vermouth; sweet red @ ~Carpano Antica) 1 oz -OR- (vermouth; sweet red @ Martini & Rossi) 1 oz
+(bitters @ Angostura) 2 dashes
+
+::equipment
+(mixing glass)
+(serving vessel) = (coupe) -OR- (cocktail glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (serving vessel)>
+[
+  <garnish, with a brandied cherry; the source recommends Luxardo>
+]
+-OR-
+[
+  <garnish, with a lemon twist>
+]
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The vermouth product choices come from the source editor note. The cherry wording is retained as source wording, not an assertion that every Luxardo cherry is brandied.
+
+::source
+<<<
+Source: Punch — Rob Roy
+URL: https://punchdrink.com/recipes/rob-roy/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz blended Scotch
+1 oz sweet vermouth
+2 dashes Angostura bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

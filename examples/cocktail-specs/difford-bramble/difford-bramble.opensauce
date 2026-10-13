@@ -1,0 +1,48 @@
+::recipe
+name: Bramble
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/305/bramble
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sour, modern-classic
+
+# Stable spec ID: difford-bramble. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin; London dry @ Hayman's) 1 1/2 fl oz
+(lemon: juice, fresh) 1 fl oz
+(simple syrup, 2:1 sugar to water; 65.0°Brix) 5/12 fl oz
+(liqueur; blackberry @ Giffard Crème de Mûre) 5/12 fl oz
+
+::equipment
+(cocktail shaker)
+(rocks glass, double old-fashioned)
+
+::instructions
+<shake, gin and lemon juice and syrup with ice in (cocktail shaker)>
+<strain, into (rocks glass, double old-fashioned) filled with crushed ice>
+<add, crushed ice to form a mound>
+(liqueur; blackberry) <drizzle, over the mound>
+<garnish, with blackberry and a lemon wheel dusted with icing sugar>
+<serve, with a straw>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Difford’s Guide — Bramble
+URL: https://www.diffordsguide.com/cocktails/recipe/305/bramble
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 fl oz Hayman’s London Dry Gin
+1 fl oz lemon juice
+5/12 fl oz simple syrup 2:1 sugar to water; 65.0°Brix
+5/12 fl oz Giffard Crème de Mûre
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

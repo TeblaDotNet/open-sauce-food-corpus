@@ -1,0 +1,40 @@
+::recipe
+name: Grove Spritz
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.seedlipdrinks.com/en-us/recipes/seedlip-grove-spritz
+source author: Seedlip
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, non-alcoholic, highball
+
+# Stable spec ID: seedlip-grove-spritz. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(non-alcoholic botanical drink @ Seedlip Grove 42) 2 oz
+(choice 2) = (tonic water) to top -OR- (soda water) to top
+
+::equipment
+(wine glass)
+
+::instructions
+<pour, botanical drink over ice in (wine glass)>
+<pour, chosen mixer to top up>
+<garnish, with an orange slice>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The source leaves the topping volume unspecified.
+
+::source
+<<<
+Source: Seedlip — Grove Spritz
+URL: https://www.seedlipdrinks.com/en-us/recipes/seedlip-grove-spritz
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz Seedlip Grove 42
+to top tonic or club soda
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

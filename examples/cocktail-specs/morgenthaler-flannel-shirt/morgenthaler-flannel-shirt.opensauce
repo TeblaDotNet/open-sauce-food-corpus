@@ -1,0 +1,57 @@
+::recipe
+name: Flannel Shirt
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/flannel-shirt/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey, scotch, amaro, sour
+
+# Stable spec ID: morgenthaler-flannel-shirt. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(Scotch whisky) 50 ml
+(apple juice, fresh unfiltered non-alcoholic) 45 ml
+(amaro @ Averna) 15 ml
+(lemon: juice, fresh) 7.5 ml
+(simple syrup, 2:1 brown sugar to water) 5 ml
+(liqueur; allspice) 2.5 ml
+(bitters @ Angostura) 2 dashes
+
+::equipment
+(cocktail shaker)
+(rocks glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (rocks glass, over fresh ice)>
+[
+  <garnish, with orange twist>
+]
+-OR-
+[
+  <garnish, with apple slices>
+]
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Use the metric values printed by the author; they are not OSF conversions. Apple cider here means fresh non-alcoholic juice, not fermented cider. OSF selects a rocks glass from the source’s open glass choice.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Flannel Shirt
+URL: https://jeffreymorgenthaler.com/flannel-shirt/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+50 ml Scotch whisky
+45 ml fresh apple cider
+15 ml Averna amaro
+7.5 ml lemon juice
+5 ml simple syrup 2:1 brown sugar to water
+2.5 ml allspice dram
+2 dashes Angostura bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

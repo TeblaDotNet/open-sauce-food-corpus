@@ -1,0 +1,46 @@
+::recipe
+name: Division Bell
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/division-bell/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, mezcal, sour, modern-classic
+
+# Stable spec ID: punch-division-bell. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(mezcal @ ~Del Maguey Vida) 1 oz
+(bitter aperitif @ Aperol) 3/4 oz
+(maraschino liqueur) 1/2 oz
+(lime: juice, fresh) 3/4 oz
+
+::equipment
+(cocktail shaker)
+(coupe)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (coupe)>
+<express citrus oil, from a grapefruit twist over the surface>
+<discard, the twist>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Division Bell
+URL: https://punchdrink.com/recipes/division-bell/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 oz mezcal; Del Maguey Vida preferred
+3/4 oz Aperol
+1/2 oz maraschino liqueur
+3/4 oz lime juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

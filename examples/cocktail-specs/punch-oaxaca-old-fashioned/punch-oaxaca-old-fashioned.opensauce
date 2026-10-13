@@ -1,0 +1,45 @@
+::recipe
+name: Oaxaca Old-Fashioned
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/oaxaca-old-fashioned/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, tequila, mezcal, spirit-forward, modern-classic
+
+# Stable spec ID: punch-oaxaca-old-fashioned. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(tequila; reposado @ El Tesoro Reposado) 1 1/2 oz
+(mezcal @ Del Maguey San Luis Del Rio) 1/2 oz
+(bitters @ Angostura) 2 dashes
+(agave syrup) 1 barspoon
+
+::equipment
+(rocks glass)
+
+::instructions
+<combine, measured ingredients in (rocks glass) with one large ice cube>
+<stir, until cold>
+<flame citrus peel, an orange twist over the drink>
+<garnish, with that twist>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Oaxaca Old-Fashioned
+URL: https://punchdrink.com/recipes/oaxaca-old-fashioned/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 oz El Tesoro reposado tequila
+1/2 oz Del Maguey San Luis Del Rio mezcal
+2 dashes Angostura bitters
+1 barspoon agave nectar
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

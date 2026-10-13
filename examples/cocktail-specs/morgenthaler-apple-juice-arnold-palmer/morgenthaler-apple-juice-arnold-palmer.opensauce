@@ -1,0 +1,49 @@
+::recipe
+name: Apple Juice Arnold Palmer
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/apple-juice-arnold-palmer/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, non-alcoholic, tea, highball
+
+# Stable spec ID: morgenthaler-apple-juice-arnold-palmer. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(apple juice) 16 oz
+(black tea) 4 bags
+(lemon: juice, fresh) 3 oz
+(simple syrup, 2:1 sugar to water) 3 oz
+
+::equipment
+(saucepan)
+(highball glass)
+
+::instructions
+(apple juice) <heat, gently in (saucepan)> ?= around 65C
+(black tea) <steep, in hot apple juice> 5min
+<remove, tea bags>
+<cover> <cool>
+(lemon: juice) + (simple syrup) <combine, with cooled apple tea>
+<pour, over plenty of ice in (highball glass)>
+<garnish, with a lemon wedge>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Batch makes two large or four small servings. The source’s fruit-juice tea infusion is preserved; do not read these as per-glass quantities.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Apple Juice Arnold Palmer
+URL: https://jeffreymorgenthaler.com/apple-juice-arnold-palmer/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+16 oz apple juice
+4 bags black tea
+3 oz lemon juice
+3 oz simple syrup 2:1 sugar to water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,44 @@
+::recipe
+name: Mary Pickford
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/mary-pickford/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, tiki
+
+# Stable spec ID: iba-mary-pickford. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rum; white) 45 ml
+(pineapple juice) 45 ml
+(maraschino liqueur @ Luxardo) 7.5 ml
+(grenadine) 5 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: IBA — Mary Pickford
+URL: https://iba-world.com/iba-cocktail/mary-pickford/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+45 ml white rum
+45 ml pineapple juice
+7.5 ml Maraschino Luxardo
+5 ml grenadine syrup
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

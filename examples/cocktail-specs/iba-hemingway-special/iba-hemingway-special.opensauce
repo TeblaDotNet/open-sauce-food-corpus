@@ -1,0 +1,45 @@
+::recipe
+name: Daiquiri
+subtitle: Hemingway style · IBA
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/hemingway-special/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, sour
+
+# Stable spec ID: iba-hemingway-special. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rum) 60 ml
+(juice, grapefruit) 40 ml
+(maraschino liqueur @ Luxardo) 15 ml
+(lime: juice) 15 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass, large)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass, large)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Source title is Hemingway Special. OSF groups the title as Daiquiri and preserves the source identity here and in provenance.
+
+::source
+<<<
+Source: IBA — Hemingway Special
+URL: https://iba-world.com/iba-cocktail/hemingway-special/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+60 ml rum
+40 ml grapefruit juice
+15 ml Maraschino Luxardo
+15 ml fresh lime
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,47 @@
+::recipe
+name: Siesta
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/siesta/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, tequila, sour, modern-classic
+
+# Stable spec ID: punch-siesta. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(tequila; blanco) 1 1/2 oz
+(lime: juice, fresh) 3/4 oz
+(juice, grapefruit) 1/2 oz
+(simple syrup) 3/4 oz
+(bitter aperitif @ Campari) 1/4 oz
+
+::equipment
+(cocktail shaker)
+(coupe)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (coupe)>
+<garnish, with a lime wheel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Siesta
+URL: https://punchdrink.com/recipes/siesta/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 oz tequila blanco
+3/4 oz lime juice
+1/2 oz grapefruit juice
+3/4 oz simple syrup
+1/4 oz Campari
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,42 @@
+::recipe
+name: Bijou
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.chartreuse.fr/en/degustation/cocktails/bijou/
+source author: Chartreuse Diffusion
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, herbal-liqueur, spirit-forward
+
+# Stable spec ID: chartreuse-bijou. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 2 cl
+(liqueur; herbal @ Chartreuse Verte) 2 cl
+(vermouth; sweet red) 2 cl
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The producer page shakes this version. OSF retains that method instead of replacing it with the more usual stirred version.
+
+::source
+<<<
+Source: Chartreuse Diffusion — Bijou
+URL: https://www.chartreuse.fr/en/degustation/cocktails/bijou/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 cl gin
+2 cl Green Chartreuse
+2 cl red vermouth
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

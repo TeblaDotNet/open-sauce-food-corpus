@@ -1,0 +1,49 @@
+::recipe
+name: Old Pal
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/old-pal/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rye, whiskey, aperitif, spirit-forward
+
+# Stable spec ID: punch-old-pal. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rye whiskey) 1 oz
+(bitter aperitif @ Campari) 1 oz
+(vermouth; dry) 1 oz
+
+::equipment
+(mixing glass)
+(serving vessel) = (coupe) -OR- (cocktail glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (serving vessel)>
+[
+  <garnish, with lemon peel>
+]
+-OR-
+[
+  <garnish, with orange peel>
+]
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Old Pal
+URL: https://punchdrink.com/recipes/old-pal/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 oz rye
+1 oz Campari
+1 oz dry vermouth
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,42 @@
+::recipe
+name: Gold Rush
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/gold-rush/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey, bourbon, sour, modern-classic
+
+# Stable spec ID: punch-gold-rush. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bourbon @ ~Elijah Craig Kentucky Straight Bourbon) 2 oz
+(lemon: juice, fresh) 3/4 oz
+(honey syrup, 3:1 honey to water) 3/4 oz
+
+::equipment
+(cocktail shaker)
+(rocks glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (rocks glass, with one large ice cube)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF accepts a close bourbon equivalent to the source-preferred bottle. Prepare the honey syrup at the stated 3:1 honey-to-water ratio; the source does not specify mass or volume.
+
+::source
+<<<
+Source: Punch — Gold Rush
+URL: https://punchdrink.com/recipes/gold-rush/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz bourbon; Elijah Craig Kentucky Straight Bourbon preferred
+3/4 oz lemon juice
+3/4 oz honey syrup 3:1 honey to water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

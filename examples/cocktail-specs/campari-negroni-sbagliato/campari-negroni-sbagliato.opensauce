@@ -1,0 +1,41 @@
+::recipe
+name: Negroni Sbagliato
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.campari.com/our-cocktails/negroni-sbagliato/
+source author: Campari
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, aperitif, vermouth, sparkling-wine
+
+# Stable spec ID: campari-negroni-sbagliato. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bitter aperitif @ Campari) 3 cl
+(vermouth; sweet red) 3 cl
+(wine; Prosecco) 3 cl
+
+::equipment
+(rocks glass)
+
+::instructions
+<pour, vermouth and Prosecco and Campari into ice-filled (rocks glass)>
+<garnish, with an orange slice>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The source table also says fill to top for wine; OSF chooses the equal-parts numeric formula to avoid an indeterminate extra pour.
+
+::source
+<<<
+Source: Campari — Negroni Sbagliato
+URL: https://www.campari.com/our-cocktails/negroni-sbagliato/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+3 cl Campari
+3 cl sweet red vermouth
+3 cl sparkling wine
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

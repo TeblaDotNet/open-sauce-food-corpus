@@ -1,0 +1,41 @@
+::recipe
+name: Mi-To
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.campari.com/our-cocktails/other-campari-cocktails/
+source author: Campari
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, aperitif, vermouth, spirit-forward
+
+# Stable spec ID: campari-mi-to. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bitter aperitif @ Campari) 4.5 cl
+(vermouth; sweet red) 4.5 cl
+
+::equipment
+(mixing glass)
+(rocks glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (rocks glass)>
+<garnish, with orange peel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF selects a rocks glass for the source’s unspecified chilled serving glass.
+
+::source
+<<<
+Source: Campari — Mi-To
+URL: https://www.campari.com/our-cocktails/other-campari-cocktails/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+4.5 cl Campari
+4.5 cl sweet red vermouth
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,50 @@
+::recipe
+name: Brandy Crusta
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/brandy-crusta/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, brandy, classic, sour
+
+# Stable spec ID: iba-brandy-crusta. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(brandy) 52.5 ml
+(maraschino liqueur @ Luxardo) 7.5 ml
+(orange liqueur; curaçao) 1 barspoon
+(lemon: juice, fresh) 15 ml
+(simple syrup) 1 barspoon
+(bitters; aromatic) 2 dashes
+
+::equipment
+(mixing glass)
+(cocktail glass, slim)
+
+::instructions
+<coat, the rim of (cocktail glass, slim) with orange or lemon then powdered white sugar>
+<place, curled orange or lemon peel inside the glass>
+<stir, measured liquid ingredients with ice in (mixing glass)>
+<strain, into the prepared glass>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The source mixes with ice in a mixing glass; OSF spells this out as stirring rather than silently switching to shaking.
+
+::source
+<<<
+Source: IBA — Brandy Crusta
+URL: https://iba-world.com/iba-cocktail/brandy-crusta/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+52.5 ml brandy
+7.5 ml Maraschino Luxardo
+1 barspoon curaçao
+15 ml lemon juice
+1 barspoon simple syrup
+2 dashes aromatic bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

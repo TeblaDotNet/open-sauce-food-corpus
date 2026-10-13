@@ -1,0 +1,44 @@
+::recipe
+name: Revolver
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/revolver/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, bourbon, whiskey, spirit-forward, modern-classic
+
+# Stable spec ID: punch-revolver. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bourbon @ ~Bulleit) 2 oz
+(liqueur; coffee) 1/2 oz
+(bitters; orange) 2 dashes
+
+::equipment
+(mixing glass)
+(serving vessel) = (coupe) -OR- (cocktail glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (serving vessel)>
+<flame citrus peel, an orange twist over the drink>
+<garnish, with the twist>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Revolver
+URL: https://punchdrink.com/recipes/revolver/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz bourbon; Bulleit preferred
+1/2 oz coffee liqueur
+2 dashes orange bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

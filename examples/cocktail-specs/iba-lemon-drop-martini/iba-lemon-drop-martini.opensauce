@@ -1,0 +1,43 @@
+::recipe
+name: Lemon Drop Martini
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/lemon-drop-martini/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, vodka, sour
+
+# Stable spec ID: iba-lemon-drop-martini. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(vodka) 30 ml
+(orange liqueur; triple sec) 20 ml
+(lemon: juice, fresh) 15 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<coat, the rim of chilled (cocktail glass) with sugar>
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Source garnish is sugar on the rim; no extra syrup was inferred.
+
+::source
+<<<
+Source: IBA — Lemon Drop Martini
+URL: https://iba-world.com/iba-cocktail/lemon-drop-martini/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+30 ml vodka
+20 ml triple sec
+15 ml lemon juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

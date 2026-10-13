@@ -1,0 +1,49 @@
+::recipe
+name: Daiquiri
+subtitle: Hemingway style · Papa Doble
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/954/hemingway-special-daiquiri-papa-doble
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, sour
+
+# Stable spec ID: difford-hemingway-daiquiri. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rum; light gold, 1-3 years old molasses column) 3 1/2 fl oz
+(juice, pink grapefruit) 1 fl oz
+(maraschino liqueur @ Luxardo) 3/4 fl oz
+(lime: juice, fresh) 1 fl oz
+(simple syrup, 2:1 sugar to water; 65.0°Brix) 1/2 fl oz
+
+::equipment
+(cocktail shaker)
+(mesh strainer)
+(cocktail glass, large 10oz)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<fine-strain, into a chilled (cocktail glass, large 10oz)>
+<garnish, with a Luxardo maraschino cherry and/or a lime wedge or wheel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Source describes this as one oversized serve or two ordinary coupe serves. This is the displayed sweetened formula, not the separate El Floridita recipe lower on that page.
+
+::source
+<<<
+Source: Difford’s Guide — Hemingway Special Daiquiri (Papa Doble)
+URL: https://www.diffordsguide.com/cocktails/recipe/954/hemingway-special-daiquiri-papa-doble
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+3 1/2 fl oz light gold rum; 1-3 year molasses column
+1 fl oz pink grapefruit juice
+3/4 fl oz Luxardo Maraschino
+1 fl oz lime juice
+1/2 fl oz simple syrup 2:1 sugar to water; 65.0°Brix
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

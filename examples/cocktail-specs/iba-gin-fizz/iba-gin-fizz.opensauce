@@ -1,0 +1,49 @@
+::recipe
+name: Gin Fizz
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/gin-fizz/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, highball, sour
+
+# Stable spec ID: iba-gin-fizz. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 45 ml
+(lemon: juice, fresh) 30 ml
+(simple syrup) 10 ml
+(soda water) 1 splash
+
+::equipment
+(cocktail shaker)
+(highball glass)
+
+::instructions
+<shake, gin and lemon juice and syrup with ice in (cocktail shaker)>
+<strain, into thin tall (highball glass) without serving ice>
+(soda water) <add>
+<garnish, with a lemon slice>
+Optional [
+  <garnish, with lemon zest>
+]
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The IBA explicitly serves this version without ice in the glass.
+
+::source
+<<<
+Source: IBA — Gin Fizz
+URL: https://iba-world.com/iba-cocktail/gin-fizz/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+45 ml gin
+30 ml lemon juice
+10 ml simple syrup
+1 splash soda water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

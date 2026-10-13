@@ -1,0 +1,45 @@
+::recipe
+name: Pink
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/pink/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sour
+
+# Stable spec ID: morgenthaler-pink. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(choice 1) = (gin @ ~Aviation) 2 oz -OR- (gin @ Plymouth) 2 oz -OR- (gin @ Hendrick's) 2 oz
+(liqueur; blackcurrant) 0.75 oz
+(lemon: juice, fresh) 0.5 oz
+(simple syrup) 2 tsp
+
+::equipment
+(cocktail shaker)
+(cocktail glass, 9oz)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass, 9oz)>
+<garnish, with a lemon wedge>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF selects the source’s simple lemon garnish, rather than the flower presentation. The formula leaves cassis generic; the article mentions Mathilde, without making it required.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Pink
+URL: https://jeffreymorgenthaler.com/pink/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz Aviation gin
+0.75 oz crème de cassis
+0.5 oz lemon juice
+2 tsp simple syrup
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

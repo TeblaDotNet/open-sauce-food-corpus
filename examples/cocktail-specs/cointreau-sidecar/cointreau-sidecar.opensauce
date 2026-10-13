@@ -1,0 +1,44 @@
+::recipe
+name: Sidecar
+subtitle: Rémy Martin 1738 · producer version
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.cointreau.com/us/en/cocktails/sidecar
+source author: Cointreau
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, brandy, sour
+
+# Stable spec ID: cointreau-sidecar. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(orange liqueur @ Cointreau) 0.75 oz
+(brandy; cognac @ Rémy Martin 1738 Accord Royal) 1 oz
+(lemon: juice, fresh) 0.5 oz
+
+::equipment
+(cocktail shaker)
+(coupe)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (coupe)>
+<garnish, with orange zest>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The current recipe card specifies orange zest; introductory prose mentions lemon and sugar. OSF follows the recipe card and records the discrepancy without blending the versions.
+
+::source
+<<<
+Source: Cointreau — Sidecar
+URL: https://www.cointreau.com/us/en/cocktails/sidecar
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+0.75 oz Cointreau
+1 oz Rémy Martin 1738 Accord Royal
+0.5 oz lemon juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

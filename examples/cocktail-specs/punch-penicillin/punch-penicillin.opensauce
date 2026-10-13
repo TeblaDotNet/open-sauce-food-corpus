@@ -1,0 +1,47 @@
+::recipe
+name: Penicillin
+subtitle: Honey-ginger syrup · Punch
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/penicillin/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, whiskey, scotch, sour, modern-classic
+
+# Stable spec ID: punch-penicillin. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(Scotch whisky; blended @ ~Famous Grouse) 2 oz
+(honey-ginger syrup) 3/4 oz
+(lemon: juice, fresh) 3/4 oz
+(Scotch whisky; single malt @ ~Laphroaig 10YO) 1/4 oz
+
+::equipment
+(cocktail shaker)
+(rocks glass)
+
+::instructions
+<shake, blended Scotch and syrup and lemon juice with ice in (cocktail shaker)>
+<strain, into (rocks glass) over a large ice cube>
+(Scotch whisky; single malt) <float, on top>
+<garnish, with candied ginger>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Syrup batch from the source: combine 1 cup honey, 1 cup water and a 6-inch piece of peeled sliced ginger. Bring to a boil, simmer 5 minutes, refrigerate overnight, then strain out the ginger. No source ratio basis is invented.
+
+::source
+<<<
+Source: Punch — Penicillin
+URL: https://punchdrink.com/recipes/penicillin/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz blended Scotch; Famous Grouse example
+3/4 oz honey-ginger syrup
+3/4 oz lemon juice
+1/4 oz Islay single malt Scotch; Laphroaig 10YO preferred
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

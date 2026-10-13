@@ -1,0 +1,45 @@
+::recipe
+name: Martinez
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/martinez/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, spirit-forward
+
+# Stable spec ID: punch-martinez. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin; London dry) 1 1/2 oz
+(vermouth; sweet red) 1 1/2 oz
+(maraschino liqueur) 1 tsp
+(bitters @ Angostura) 2 dashes
+
+::equipment
+(mixing glass)
+(serving vessel) = (coupe) -OR- (cocktail glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (serving vessel)>
+<garnish, with orange peel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Martinez
+URL: https://punchdrink.com/recipes/martinez/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 oz gin
+1 1/2 oz sweet vermouth
+1 tsp maraschino liqueur
+2 dashes Angostura bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

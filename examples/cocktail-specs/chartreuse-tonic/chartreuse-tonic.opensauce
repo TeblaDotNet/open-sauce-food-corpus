@@ -1,0 +1,38 @@
+::recipe
+name: Chartreuse Tonic
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.chartreuse.fr/en/degustation/cocktails/chartreuse-tonic/
+source author: Chartreuse Diffusion
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, herbal-liqueur, highball
+
+# Stable spec ID: chartreuse-tonic. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(liqueur; herbal @ !Chartreuse Verte) 1 part
+(tonic water) 4 parts
+
+::equipment
+(highball glass, 20cl)
+
+::instructions
+<combine, measured parts in (highball glass, 20cl) with plenty of ice>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF deliberately fixes the green formulation for this reference version; yellow Chartreuse or another herbal liqueur is a different authored version. This exactness decision is OSF’s, not inferred from fame.
+
+::source
+<<<
+Source: Chartreuse Diffusion — Chartreuse Tonic
+URL: https://www.chartreuse.fr/en/degustation/cocktails/chartreuse-tonic/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 part Green Chartreuse
+4 parts tonic
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

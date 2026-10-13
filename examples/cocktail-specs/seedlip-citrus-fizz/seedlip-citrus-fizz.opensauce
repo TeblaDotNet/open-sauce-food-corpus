@@ -1,0 +1,44 @@
+::recipe
+name: Citrus Fizz
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.seedlipdrinks.com/en-us/recipes/citrus-fizz
+source author: Seedlip
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, non-alcoholic, highball
+
+# Stable spec ID: seedlip-citrus-fizz. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(non-alcoholic botanical drink @ Seedlip Grove 42) 53 ml
+(marmalade cordial) 30 ml
+(soda water, cold) to top
+
+::equipment
+(mixing glass)
+(wine glass, flute)
+
+::instructions
+<stir, botanical drink and cordial with ice in (mixing glass)>
+<strain, into (wine glass, flute)>
+<pour, cold soda water to top up>
+<garnish, with orange zest>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Cordial batch from source: mix 300g marmalade with 150ml hot water, fine-strain, bottle and refrigerate. The 53ml botanical-drink measure is printed by the source, not an OSF conversion.
+
+::source
+<<<
+Source: Seedlip — Citrus Fizz
+URL: https://www.seedlipdrinks.com/en-us/recipes/citrus-fizz
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+53 ml Seedlip Grove 42
+30 ml marmalade cordial
+to top cold sparkling water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

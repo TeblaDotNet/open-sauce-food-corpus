@@ -1,0 +1,40 @@
+::recipe
+name: Garden Spritz
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.seedlipdrinks.com/en-gb/recipes/seedlip-garden-spritz
+source author: Seedlip
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, non-alcoholic, highball
+
+# Stable spec ID: seedlip-garden-spritz. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(non-alcoholic botanical drink @ Seedlip Garden 108) 60 ml
+(choice 2) = (tonic water, elderflower) to top -OR- (soda water) to top
+
+::equipment
+(wine glass)
+
+::instructions
+<pour, botanical drink over ice in (wine glass)>
+<pour, chosen mixer to top up>
+<garnish, with a cucumber ribbon>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Use a non-alcoholic mixer matching the source description; no universal zero-alcohol guarantee is inferred from category names.
+
+::source
+<<<
+Source: Seedlip — Garden Spritz
+URL: https://www.seedlipdrinks.com/en-gb/recipes/seedlip-garden-spritz
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+60 ml Seedlip Garden 108
+to top elderflower tonic or club soda
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

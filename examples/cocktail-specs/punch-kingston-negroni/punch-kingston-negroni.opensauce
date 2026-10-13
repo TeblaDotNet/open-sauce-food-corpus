@@ -1,0 +1,43 @@
+::recipe
+name: Kingston Negroni
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/kingston-negroni/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, aperitif, spirit-forward, modern-classic
+
+# Stable spec ID: punch-kingston-negroni. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rum; Jamaican @ ~Smith & Cross) 1 oz
+(bitter aperitif @ Campari) 1 oz
+(vermouth; sweet red @ ~Carpano Antica) 1 oz
+
+::equipment
+(mixing glass)
+(rocks glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (rocks glass, with a large ice cube)>
+<garnish, with a long orange peel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF makes the source examples reference bottles with close style-matched alternatives permitted; it does not declare all Jamaican rums or sweet vermouths identical.
+
+::source
+<<<
+Source: Punch — Kingston Negroni
+URL: https://punchdrink.com/recipes/kingston-negroni/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 oz Jamaican rum; Smith & Cross example
+1 oz Campari
+1 oz sweet vermouth; Carpano Antica example
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

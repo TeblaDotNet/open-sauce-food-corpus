@@ -1,0 +1,53 @@
+::recipe
+name: Bourbon Renewal
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/bourbon-renewal/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, bourbon, whiskey, sour, modern-classic
+
+# Stable spec ID: morgenthaler-bourbon-renewal. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bourbon) 2 oz
+(lemon: juice, fresh) 1 oz
+(liqueur; blackcurrant) 0.5 oz
+(simple syrup) 0.5 oz
+(bitters @ Angostura) 1 dash
+
+::equipment
+(cocktail shaker)
+(rocks glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (rocks glass, over fresh ice)>
+[
+  <garnish, with a lemon wedge>
+]
+-OR-
+[
+  <garnish, with fresh currants when in season>
+]
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Bourbon Renewal
+URL: https://jeffreymorgenthaler.com/bourbon-renewal/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz bourbon
+1 oz lemon juice
+0.5 oz crème de cassis
+0.5 oz simple syrup
+1 dash Angostura bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

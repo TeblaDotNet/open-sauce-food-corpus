@@ -1,0 +1,48 @@
+::recipe
+name: Andalusian Buck
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://jeffreymorgenthaler.com/andalusian-buck/
+source author: Jeffrey Morgenthaler
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sherry, fortified-wine, highball
+
+# Stable spec ID: morgenthaler-andalusian-buck. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 30 ml
+(sherry; amontillado) 30 ml
+(lime: juice, fresh) 15 ml
+(simple syrup, 2:1 Demerara sugar to water) 5 ml
+(ginger beer) 60 ml
+
+::equipment
+(cocktail shaker)
+(highball glass, Collins)
+
+::instructions
+<shake, gin and sherry and lime juice and syrup with ice in (cocktail shaker)>
+(ginger beer) <add, after shaking>
+<pour, slowly over fresh ice in chilled (highball glass, Collins)>
+<garnish, with a lime wheel>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Source prefers its linked homemade ginger beer, but permits a commercial one. OSF leaves ginger beer generic and does not infer an exact brand. Never shake after adding carbonation.
+
+::source
+<<<
+Source: Jeffrey Morgenthaler — Andalusian Buck
+URL: https://jeffreymorgenthaler.com/andalusian-buck/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+30 ml gin
+30 ml Amontillado sherry
+15 ml lime juice
+5 ml simple syrup 2:1 Demerara sugar to water
+60 ml ginger beer
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

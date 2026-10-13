@@ -1,0 +1,45 @@
+::recipe
+name: Black Manhattan
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/black-manhattan/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rye, whiskey, amaro, spirit-forward, modern-classic
+
+# Stable spec ID: punch-black-manhattan. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rye whiskey) 2 oz
+(amaro @ Averna) 1 oz
+(bitters @ Angostura) 1 dash
+(bitters; orange) 1 dash
+
+::equipment
+(mixing glass)
+(coupe)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (coupe)>
+<garnish, with a cherry>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Black Manhattan
+URL: https://punchdrink.com/recipes/black-manhattan/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 oz rye
+1 oz Averna
+1 dash Angostura bitters
+1 dash orange bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

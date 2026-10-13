@@ -1,0 +1,46 @@
+::recipe
+name: Paloma
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/paloma/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, tequila, highball
+
+# Stable spec ID: iba-paloma. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(tequila, 100% agave) 50 ml
+(lime: juice) 5 ml
+(salt) 1 pinch
+(grapefruit soda) 100 ml
+
+::equipment
+(highball glass)
+
+::instructions
+(tequila) + (lime: juice) <pour, into (highball glass)>
+(salt) <add>
+<fill, with ice>
+(grapefruit soda) <add> <stir, gently>
+<garnish, with a lime slice>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF interprets the source’s fresh lime measure as juice, consistent with its liquid quantity.
+
+::source
+<<<
+Source: IBA — Paloma
+URL: https://iba-world.com/iba-cocktail/paloma/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+50 ml 100% agave tequila
+5 ml fresh lime
+1 pinch salt
+100 ml pink grapefruit soda
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

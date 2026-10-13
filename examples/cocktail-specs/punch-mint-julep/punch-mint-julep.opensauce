@@ -1,0 +1,45 @@
+::recipe
+name: Mint Julep
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/mint-julep/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, bourbon, whiskey, classic
+
+# Stable spec ID: punch-mint-julep. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bourbon) 2-2 1/2 oz
+(simple syrup, 1:1 sugar to water) 1/2-3/4 oz
+(mint) 1 large sprig
+
+::equipment
+(muddler)
+(serving vessel) = (julep tin) -OR- (rocks glass)
+
+::instructions
+(mint) + (simple syrup) <muddle, gently in (serving vessel)>
+<fill, vessel with finely crushed ice>
+(bourbon) <pour, over ice>
+<add, more crushed ice to mound above the rim>
+<garnish, with a lightly slapped bouquet of mint>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Mint Julep
+URL: https://punchdrink.com/recipes/mint-julep/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2-2 1/2 oz bourbon
+1/2-3/4 oz simple syrup 1:1 sugar to water
+1 large sprig mint
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,45 @@
+::recipe
+name: Cosmopolitan
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/cosmopolitan/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, vodka, sour
+
+# Stable spec ID: iba-cosmopolitan. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(vodka, citron) 40 ml
+(orange liqueur @ Cointreau) 15 ml
+(lime: juice, fresh) 15 ml
+(juice, cranberry) 30 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass, large)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass, large)>
+<garnish, with a lemon twist>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: IBA — Cosmopolitan
+URL: https://iba-world.com/iba-cocktail/cosmopolitan/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+40 ml vodka citron
+15 ml Cointreau
+15 ml lime juice
+30 ml cranberry juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

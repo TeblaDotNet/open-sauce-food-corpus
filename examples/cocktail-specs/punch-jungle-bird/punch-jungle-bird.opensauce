@@ -1,0 +1,47 @@
+::recipe
+name: Jungle Bird
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/jungle-bird/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, tiki, sour, aperitif
+
+# Stable spec ID: punch-jungle-bird. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(choice 1) = (rum; Jamaican) 1 1/2 oz -OR- (rum; blackstrap) 1 1/2 oz
+(bitter aperitif @ Campari) 3/4 oz
+(lime: juice, fresh) 1/2 oz
+(simple syrup, 1:1 sugar to water) 1/2 oz
+(pineapple juice) 1 1/2 oz
+
+::equipment
+(cocktail shaker)
+(serving vessel) = (tiki mug) -OR- (rocks glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (serving vessel, with fresh ice)>
+<garnish, with a pineapple wedge>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The source permits Jamaican or blackstrap rum, and either serving vessel; these remain explicit choices.
+
+::source
+<<<
+Source: Punch — Jungle Bird
+URL: https://punchdrink.com/recipes/jungle-bird/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 oz Jamaican or blackstrap rum
+3/4 oz Campari
+1/2 oz lime juice
+1/2 oz simple syrup 1:1 sugar to water
+1 1/2 oz pineapple juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

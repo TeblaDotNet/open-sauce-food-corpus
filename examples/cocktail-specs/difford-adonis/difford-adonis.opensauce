@@ -1,0 +1,53 @@
+::recipe
+name: Adonis
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/18/adonis
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, sherry, fortified-wine, low-alcohol, aperitif
+
+# Stable spec ID: difford-adonis. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(sherry; palo cortado @ Lustau Península) 1 fl oz
+(sherry; amontillado @ Lustau Los Arcos) 1 fl oz
+(vermouth; sweet red @ Strucchi Rosso) 1 fl oz
+(bitter aperitif, Italian red) 1/12 fl oz
+
+::equipment
+(mixing glass)
+(cocktail shaker)
+(coupe)
+
+::instructions
+[
+  <pour, measured ingredients repeatedly between mixing vessels from height with ice retained in one vessel; the source calls this throwing>
+]
+-OR-
+[
+  <stir, measured ingredients with ice in (mixing glass)>
+]
+<strain, into chilled (coupe)>
+<express citrus oil, from orange zest over the drink> <discard, zest>
+<garnish, with a skewered green olive>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Difford’s Guide — Adonis
+URL: https://www.diffordsguide.com/cocktails/recipe/18/adonis
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 fl oz Lustau Palo Cortado Península Sherry
+1 fl oz Lustau Amontillado Los Arcos Sherry
+1 fl oz Strucchi Rosso Vermouth
+1/12 fl oz Italian red bitter liqueur
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

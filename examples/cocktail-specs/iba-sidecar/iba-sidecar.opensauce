@@ -1,0 +1,42 @@
+::recipe
+name: Sidecar
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/sidecar/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, brandy, sour
+
+# Stable spec ID: iba-sidecar. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(brandy; cognac) 50 ml
+(orange liqueur; triple sec) 20 ml
+(lemon: juice, fresh) 20 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: IBA — Sidecar
+URL: https://iba-world.com/iba-cocktail/sidecar/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+50 ml Cognac
+20 ml triple sec
+20 ml lemon juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

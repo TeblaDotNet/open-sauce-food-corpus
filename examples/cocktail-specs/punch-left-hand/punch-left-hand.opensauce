@@ -1,0 +1,45 @@
+::recipe
+name: Left Hand
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/left-hand/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, bourbon, whiskey, aperitif, spirit-forward
+
+# Stable spec ID: punch-left-hand. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(bourbon) 1 1/2 oz
+(bitter aperitif @ Campari) 3/4 oz
+(vermouth; sweet red @ ~Carpano Antica Formula) 3/4 oz
+(bitters; mole) 2 dashes
+
+::equipment
+(mixing glass)
+(serving vessel) = (coupe) -OR- (cocktail glass)
+
+::instructions
+<stir, measured ingredients with ice in (mixing glass)>
+<strain, into a chilled (serving vessel)>
+<garnish, with a cherry>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Punch — Left Hand
+URL: https://punchdrink.com/recipes/left-hand/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 1/2 oz bourbon
+3/4 oz Campari
+3/4 oz sweet vermouth; Carpano Antica Formula preferred
+2 dashes mole bitters
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

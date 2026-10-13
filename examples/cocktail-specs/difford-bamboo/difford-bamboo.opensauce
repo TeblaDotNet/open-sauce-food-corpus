@@ -1,0 +1,53 @@
+::recipe
+name: Bamboo
+subtitle: Difford’s classic version
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/18976/bamboo-diffords-classic-recipe
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, sherry, fortified-wine, low-alcohol, aperitif
+
+# Stable spec ID: difford-bamboo. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(sherry; fino @ Lustau Jarana) 2 fl oz
+(vermouth; amber) 1/3 fl oz
+(vermouth; blanc @ Strucchi Bianco) 1/3 fl oz
+(bitters; orange @ Angostura) 2 dashes
+
+::equipment
+(mixing vessel) = (mixing glass) -OR- (cocktail shaker)
+(cocktail glass, Nick & Nora)
+
+::instructions
+[
+  <pour, measured ingredients repeatedly between mixing vessels from height with ice retained in one vessel; the source calls this throwing>
+]
+-OR-
+[
+  <stir, measured ingredients with ice in (mixing glass)>
+]
+<strain, into chilled (cocktail glass, Nick & Nora)>
+<express citrus oil, from orange zest over the drink>
+<garnish, with the zest>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The current page uses amber and blanc vermouth; do not silently replace them with dry vermouth. Throwing is a source-permitted method; stirring is the simpler alternative.
+
+::source
+<<<
+Source: Difford’s Guide — Bamboo (Difford’s classic recipe)
+URL: https://www.diffordsguide.com/cocktails/recipe/18976/bamboo-diffords-classic-recipe
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 fl oz Lustau Jarana Fino Sherry
+1/3 fl oz ambrato/ambre/amber vermouth
+1/3 fl oz Strucchi Bianco Vermouth
+2 dashes Orange Bitters by Angostura
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

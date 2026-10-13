@@ -1,0 +1,55 @@
+::recipe
+name: Mai Tai
+subtitle: Trader Vic style · Difford
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/1219/mai-tai-trader-vics
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, rum, tiki, sour
+
+# Stable spec ID: difford-mai-tai. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(rum; Caribbean blend, aged 6-10 years) 2 fl oz
+(orange liqueur; curaçao @ Ferrand Dry Curaçao) 1/2 fl oz
+(lime: juice, fresh) 3/4 fl oz
+(orgeat @ Monin Almond) 1/3 fl oz
+(simple syrup, 2:1 sugar to water; 65.0°Brix) 1/4 fl oz
+Optional [
+  (rum; blackstrap) 1/6 fl oz
+]
+
+::equipment
+(cocktail shaker)
+(rocks glass, double old-fashioned)
+
+::instructions
+<shake, all measured ingredients except the optional float rum with ice in (cocktail shaker)>
+<strain, into (rocks glass, double old-fashioned) filled with crushed ice>
+Optional [
+  (rum; blackstrap) <float, on top>
+]
+<garnish, with a spent lime half and mint sprigs and a fruit stick of pineapple cubes and a Luxardo maraschino cherry>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Current Difford version; no claim to reproduce the historical bottle.
+
+::source
+<<<
+Source: Difford’s Guide — Mai Tai (Trader Vic’s)
+URL: https://www.diffordsguide.com/cocktails/recipe/1219/mai-tai-trader-vics
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 fl oz Caribbean blended rum aged 6-10 years
+1/2 fl oz Ferrand Dry Curaçao
+3/4 fl oz lime juice
+1/3 fl oz Monin Almond Orgeat Syrup
+1/4 fl oz simple syrup 2:1 sugar to water; 65.0°Brix
+1/6 fl oz dark/black/blackstrap rum; optional
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

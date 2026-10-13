@@ -1,0 +1,45 @@
+::recipe
+name: French 75
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/french-75/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sparkling-wine, highball
+
+# Stable spec ID: iba-french-75. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 30 ml
+(lemon: juice, fresh) 15 ml
+(simple syrup) 15 ml
+(champagne) 60 ml
+
+::equipment
+(cocktail shaker)
+(wine glass, flute)
+
+::instructions
+<shake, gin and lemon juice and syrup with ice in (cocktail shaker)>
+<strain, into (wine glass, flute)>
+(champagne) <add> <stir, gently>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: IBA — French 75
+URL: https://iba-world.com/iba-cocktail/french-75/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+30 ml gin
+15 ml lemon juice
+15 ml simple syrup
+60 ml Champagne
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

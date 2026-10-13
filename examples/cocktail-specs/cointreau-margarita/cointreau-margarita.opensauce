@@ -1,0 +1,47 @@
+::recipe
+name: Margarita
+subtitle: Cointreau producer version
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.cointreau.com/us/en/cocktails/the-original-margarita
+source author: Cointreau
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, tequila, sour
+
+# Stable spec ID: cointreau-margarita. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(orange liqueur @ !Cointreau) 1 oz
+(tequila; blanco) 2 oz
+(lime: juice, fresh) 1 oz
+(salt) for rim
+
+::equipment
+(cocktail shaker)
+(rocks glass)
+
+::instructions
+<coat, glass rim with salt>
+<shake, liquid ingredients with ice in (cocktail shaker)>
+<strain, over ice in (rocks glass)>
+<garnish, with lime zest>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+For this producer-version reference OSF deliberately fixes Cointreau. Other orange liqueurs belong to a separately authored version; this does not claim all Margaritas need Cointreau.
+
+::source
+<<<
+Source: Cointreau — The Original Margarita
+URL: https://www.cointreau.com/us/en/cocktails/the-original-margarita
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 oz Cointreau
+2 oz blanco tequila
+1 oz lime juice
+for rim salt
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

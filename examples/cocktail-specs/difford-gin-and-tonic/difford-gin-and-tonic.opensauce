@@ -1,0 +1,40 @@
+::recipe
+name: Gin & Tonic
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/835/gin-and-tonic
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, highball
+
+# Stable spec ID: difford-gin-and-tonic. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin; London dry @ Hayman's) 1 2/3 fl oz
+(tonic water @ Thomas Henry) 4 fl oz
+
+::equipment
+(highball glass, Collins)
+
+::instructions
+<pour, measured ingredients into chilled (highball glass, Collins)>
+<fill, with ice>
+<garnish, with a lime wedge>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Difford’s Guide — Gin & Tonic
+URL: https://www.diffordsguide.com/cocktails/recipe/835/gin-and-tonic
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+1 2/3 fl oz Hayman’s London Dry Gin
+4 fl oz Thomas Henry Tonic Water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

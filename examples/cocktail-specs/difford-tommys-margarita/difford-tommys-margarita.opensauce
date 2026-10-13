@@ -1,0 +1,48 @@
+::recipe
+name: Tommy's Margarita
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.diffordsguide.com/cocktails/recipe/1975/tommys-margarita
+source author: Difford’s Guide
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, agave, tequila, sour, modern-classic
+
+# Stable spec ID: difford-tommys-margarita. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(tequila; reposado, 100% agave) 2 fl oz
+(lime: juice, fresh) 1 fl oz
+(agave syrup) 1/2 fl oz
+Optional [
+  (bitters @ Difford's Margarita Bitters) 4 drops
+]
+
+::equipment
+(cocktail shaker)
+(mesh strainer)
+(rocks glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<fine-strain, into a chilled (rocks glass, filled with ice)>
+<garnish, with a lime wedge>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+Bare named products record the source selection without inferring preference or exact-product dependency.
+
+::source
+<<<
+Source: Difford’s Guide — Tommy's Margarita
+URL: https://www.diffordsguide.com/cocktails/recipe/1975/tommys-margarita
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+2 fl oz 100% agave reposado tequila
+1 fl oz lime juice
+1/2 fl oz agave syrup
+4 drops Difford’s Margarita Bitters; optional
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

@@ -1,0 +1,42 @@
+::recipe
+name: White Lady
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/white-lady/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sour
+
+# Stable spec ID: iba-white-lady. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 40 ml
+(orange liqueur; triple sec) 30 ml
+(lemon: juice, fresh) 20 ml
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+This IBA version has no egg white; no foaming step has been added.
+
+::source
+<<<
+Source: IBA — White Lady
+URL: https://iba-world.com/iba-cocktail/white-lady/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+40 ml gin
+30 ml triple sec
+20 ml lemon juice
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

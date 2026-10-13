@@ -1,0 +1,41 @@
+::recipe
+name: Campari Spritz
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://www.campari.com/our-cocktails/campari-spritz/
+source author: Campari
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, aperitif, sparkling-wine
+
+# Stable spec ID: campari-spritz. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(wine; Prosecco) 9 cl
+(bitter aperitif @ Campari) 6 cl
+(soda water) 3 cl
+
+::equipment
+(wine glass)
+
+::instructions
+<pour, Prosecco then Campari then soda water into an ice-filled (wine glass)>
+<garnish, with a fresh orange slice>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF uses a roomy wine glass in place of the producer-branded spritz glass. The numeric source measure is retained even though its prose also calls soda a splash.
+
+::source
+<<<
+Source: Campari — Campari Spritz
+URL: https://www.campari.com/our-cocktails/campari-spritz/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+9 cl Prosecco DOC
+6 cl Campari
+3 cl soda water
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

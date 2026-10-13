@@ -1,0 +1,45 @@
+::recipe
+name: Clover Club
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://iba-world.com/iba-cocktail/clover-club/
+source author: IBA
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, gin, sour
+
+# Stable spec ID: iba-clover-club. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(gin) 45 ml
+(raspberry syrup) 15 ml
+(lemon: juice, fresh) 15 ml
+(egg: white) a few drops
+
+::equipment
+(cocktail shaker)
+(cocktail glass)
+
+::instructions
+<shake, measured ingredients with ice in (cocktail shaker)>
+<strain, into a chilled (cocktail glass)>
+<garnish, with fresh raspberries>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+The source’s imprecise egg-white quantity remains imprecise; this is not an instruction to use a whole egg white.
+
+::source
+<<<
+Source: IBA — Clover Club
+URL: https://iba-world.com/iba-cocktail/clover-club/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+45 ml gin
+15 ml raspberry syrup
+15 ml lemon juice
+a few drops egg white
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

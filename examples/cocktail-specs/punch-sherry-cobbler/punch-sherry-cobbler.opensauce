@@ -1,0 +1,46 @@
+::recipe
+name: Sherry Cobbler
+category: drink
+conversion stage: reworked
+curation origin: generated
+curation review: unchecked
+source: https://punchdrink.com/recipes/sherry-cobbler/
+source author: Punch
+source license: Factual formula only; no source prose or images reproduced. OSF encoding and independent method: CC BY 4.0.
+units: source
+tags: cocktail, sherry, fortified-wine, low-alcohol, classic
+
+# Stable spec ID: punch-sherry-cobbler. Source checked 2026-10-13. Machine generated; not human reviewed or taste-tested.
+
+::ingredients
+(sherry; amontillado) 3 1/2 oz
+(simple syrup) 1/2 oz
+(orange, sliced) 2-3 slices
+
+::equipment
+(muddler)
+(cocktail shaker)
+(highball glass, Collins)
+
+::instructions
+(orange) + (simple syrup) <muddle, in (cocktail shaker)>
+(sherry) <add, with ice> <shake>
+<strain, into (highball glass, Collins) filled with crushed ice>
+<garnish, with a lemon wheel and seasonal berries and mint>
+<serve, with a straw>
+
+::notes
+This records one source-specific version; no universal formula or automatic product substitution is implied.
+OSF uses the shaker for the muddling step to avoid transferring the mixture from the source mixing glass. Source formula and proportions remain unchanged.
+
+::source
+<<<
+Source: Punch — Sherry Cobbler
+URL: https://punchdrink.com/recipes/sherry-cobbler/
+Retrieved: 2026-10-13
+Factual formula labels and quantities:
+3 1/2 oz amontillado sherry
+1/2 oz simple syrup
+2-3 slices orange
+The method is independently paraphrased. Source photographs and article prose are not reproduced.
+>>>

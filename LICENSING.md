@@ -60,3 +60,7 @@ This project was extracted from core commit 04c3d1c44f05686bb16729fb926acdde86f4
 ## Cocktail Foundation v1
 
 `examples/cocktail-specs/` is separate from the public-domain import. Its source-specific formulas retain factual quantities and ingredient labels, not source articles or photographs. Methods and structural encodings are independently authored OSF text under the existing CC BY 4.0 scope. No licence to third-party prose or images is asserted. Per-spec provenance, retrieval dates and original factual formulas are in `source/cocktail-specs/provenance.json`. Reworked conversion status is distinct from human review: these encodings remain generated and unchecked.
+
+## Cocktail Foundation v2
+
+The next 50 specs use Punch, Difford’s Guide, IBA, bartender-authored and producer sources. The source-specific formula and retrieval record are retained in the same provenance file; no source article, image or long method passage is copied. Jeffrey Morgenthaler’s site declares CC BY-NC-ND 3.0 US: this tranche does not claim permission to adapt or republish that prose. Its methods are independently written from the factual formula and technique. OSF editorial product-strength decisions are recorded separately from source recommendations. The existing layered terms apply; these recipes are not classified as public-domain imports.
