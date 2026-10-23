@@ -12,7 +12,7 @@ contributions. These grants apply only to rights the contributors hold. The root
 | Authored specification, guides, root/docs Markdown, explanatory material, issue/PR templates and original screenshot contributions | [CC BY 4.0](LICENSES/CC-BY-4.0.txt), except separately identified source material and notices |
 | Open Sauce Food-authored structural encoding and annotations in `.opensauce`, including test fixtures | [CC BY 4.0](LICENSES/CC-BY-4.0.txt), to the extent copyright or related rights apply |
 | Imported source text, images, author records and source expression reproduced in recipes, fixtures, reports, screenshots or metadata | Upstream Public Domain Recipes public-domain / [Unlicense declaration](source/public-domain-recipes/UPSTREAM-LICENSE.md); provenance retained, not relicensed by this project |
-| Manrope and Fira Code font binaries | SIL OFL 1.1; existing [font credits and notices](../open-sauce-food-site/demo/fonts/README.md) |
+| Manrope and Fira Code font binaries | SIL OFL 1.1; existing [font credits and notices](../site/demo/fonts/README.md) |
 
 For CC BY material, credit **Tebla and Open Sauce Food contributors**, identify Open
 Sauce Food and the source/version you used, link the licence and indicate your changes.
@@ -28,7 +28,7 @@ code was positively identified as copied from WordPress core or Twenty Twenty-Fi
 GPL-2.0-or-later is used conservatively for this presentation layer. This does not
 automatically apply GPL to the independently scoped MIT parser/tooling. Source for
 the presentation is included in `demo/`; font terms remain separate. See
-[design provenance](../open-sauce-food-site/DEMO-DESIGN.md).
+[design provenance](../site/DEMO-DESIGN.md).
 
 ## Layered recipe and data terms
 

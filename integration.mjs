@@ -2,7 +2,7 @@ import { cp, mkdir, mkdtemp, readdir, readFile, writeFile } from 'node:fs/promis
 import { resolve, join } from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
-const project=resolve('.'), core=resolve(process.env.OSF_CORE ?? '../open-sauce-food'), corpus=resolve(process.env.OSF_CORPUS ?? '../open-sauce-food-corpus');
+const project=resolve('.'), core=resolve(process.env.OSF_CORE ?? '../core'), corpus=resolve(process.env.OSF_CORPUS ?? '../corpus');
 const role=JSON.parse(await readFile(join(project,'package.json'),'utf8')).name.endsWith('/site')?'site':'corpus';
 const command=process.argv[2]??'test';
 const allowed=['test','check','build','corpus','site:build','site:validate','browser','preview'];

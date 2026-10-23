@@ -2,7 +2,7 @@
 
 Extracted from core commit `04c3d1c44f05686bb16729fb926acdde86f43047`. Public corpus project, prepared locally without a remote. Recipes and provenance retain their original bytes and maturity.
 
-Run `pnpm install`, then `pnpm test`. Other commands are listed in package.json. Requires Node 24+. Set OSF_CORE and OSF_CORPUS to override the default sibling locations. Core never depends on this project.
+Run `pnpm install`, then `pnpm test`. Other commands are listed in package.json. Requires Node 24+. The default local layout is a parent folder containing `core/`, `corpus/` and `site/`. Commands use `../core` and `../corpus`; set `OSF_CORE` and `OSF_CORPUS` to override those paths. Core never depends on this project.
 
 Integration commands assemble fresh ignored .integration/run-* workspaces from current core src/knowledge/tools, corpus data and this project. These generated compatibility copies are not authoritative sources. Original historical paths and assertions remain intact. Each workspace records input hashes in integration-sources.json. Knowledge root callers can consume knowledge/ directly; root-level mirrors exist only for unchanged historical tests. No source/recipe transformations occur during assembly.
 
