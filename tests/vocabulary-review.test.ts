@@ -25,7 +25,7 @@ test('reviewed aliases and explicit plurals resolve uniquely without guessed mor
 });
 
 test('new concepts are generated and unchecked; all reference pages render', () => {
-  assert.equal(vocabulary.entries.length, baseline.entries.length + 24 - 2 - localRoles.entries.length + 12 + 2 + 23 + 20 + 14 + 30 + 21 + 23 + 23 + 23 /* Batch 4; Batch 3; Batch 2; Processes & Equipment v1; Cocktail Foundation v2; subsequent process tranche and cocktail foundation; duplicate merges, local roles, Process Model v1 techniques, Equipment Model v1 proofs and vocabulary tranche 1 */);
+  assert.equal(vocabulary.entries.length, baseline.entries.length + 24 - 2 - localRoles.entries.length + 12 + 2 + 23 + 20 + 14 + 30 + 21 + 23 + 23 + 23 + 23 /* Batch 5; Batch 4; Batch 3; Batch 2; Processes & Equipment v1; Cocktail Foundation v2; subsequent process tranche and cocktail foundation; duplicate merges, local roles, Process Model v1 techniques, Equipment Model v1 proofs and vocabulary tranche 1 */);
   for (const change of decisions.changes.filter((c: any) => c.action === 'new-concept')) {
     const entry = vocabulary.entries.find(e=>e.id===change.id&&e.kind===change.kind)!;
     assert.deepEqual(entry.curation,{origin:'generated',review:'unchecked'});
