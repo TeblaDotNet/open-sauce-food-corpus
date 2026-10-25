@@ -9,3 +9,7 @@ Integration commands assemble fresh ignored .integration/run-* workspaces from c
 The current core package remains private and does not publish knowledge data. This explicit local source integration contract is transitional; no npm/GitHub publication is implied. Run core validation separately. The application source links still use the historical public core paths; before public publication, supply a source-base pointing at the selected corpus host/revision. Until a corpus remote is approved, inspect local corpus files using their unchanged relative paths. Do not deploy this local restructure.
 
 Licensing: see LICENSING.md and LICENSES. Retained historical docs may describe pre-extraction paths; archive/docs preserves that context.
+
+## Canonical and provider validation
+
+Ordinary check/test/corpus commands use canonical Core vocabulary without Knowledge. For the retained article/reference assertions, explicitly set OSF_KNOWLEDGE and the expected OSF_CORE_REVISION, then run pnpm test:knowledge. This composes the validated provider in a disposable workspace; no recipe source is rewritten. Historical article assertions remain in tests/provider rather than being dropped from coverage.

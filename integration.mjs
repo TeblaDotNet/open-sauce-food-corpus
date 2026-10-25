@@ -1,10 +1,14 @@
+import {pathToFileURL} from 'node:url';
+import {parse} from 'yaml';
 import { cp, mkdir, mkdtemp, readdir, readFile, writeFile } from 'node:fs/promises';
 import { resolve, join } from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 const project=resolve('.'), core=resolve(process.env.OSF_CORE ?? '../core'), corpus=resolve(process.env.OSF_CORPUS ?? '../corpus');
 const role=JSON.parse(await readFile(join(project,'package.json'),'utf8')).name.endsWith('/site')?'site':'corpus';
-const command=process.argv[2]??'test';
+const requested=process.argv[2]??'test',providerMode=requested==='test:knowledge';
+const command=providerMode?'test':requested;
+if(providerMode&&!process.env.OSF_KNOWLEDGE)throw Error('test:knowledge requires explicit OSF_KNOWLEDGE');
 const allowed=['test','check','build','corpus','site:build','site:validate','browser','preview'];
 if(!allowed.includes(command))throw Error('Unsupported local validation command');
 await mkdir(join(project,'.integration'),{recursive:true});
@@ -13,6 +17,9 @@ const inventory=[];
 async function copy(from,to,label){
  const walk=async(src,dest)=>{await mkdir(dest,{recursive:true});for(const e of await readdir(src,{withFileTypes:true})){
   if(e.isSymbolicLink())throw Error('Unexpected source symlink');
+  if(src===from&&label==='corpus/tests'&&e.name==='provider')continue;
+  if(src===from&&label==='core/knowledge'&&['enrichment.yaml','resources.yaml'].includes(e.name))continue;
+  if(src===from&&label==='core/assets'&&e.name==='references')continue;
   const a=join(src,e.name),b=join(dest,e.name);if(e.isDirectory())await walk(a,b);else{const bytes=await readFile(a);await writeFile(b,bytes);inventory.push({source:label+'/'+a.slice(from.length+1).replaceAll('\\','/'),path:b.slice(workspace.length+1).replaceAll('\\','/'),sha256:createHash('sha256').update(bytes).digest('hex')});}
  }};await walk(from,to);
 }
@@ -23,6 +30,21 @@ await copy(join(core,'tools'),join(workspace,'scripts'),'core/tools');
 await copy(join(core,'knowledge'),join(workspace,'knowledge'),'core/knowledge');
 for(const kind of ['ingredients','equipment','processes'])await copy(join(core,'knowledge',kind),join(workspace,kind),'core/knowledge/'+kind);
 await copy(join(core,'assets'),join(workspace,'assets'),'core/assets');
+const canonicalApi=await import(pathToFileURL(join(core,'src/vocabulary/canonical.ts')).href);
+for(const domain of ['ingredients','processes','equipment']){
+ const index=parse(await readFile(join(core,'knowledge',domain,'index.yaml'),'utf8'));
+ for(const {file}of index.entries){const raw=parse(await readFile(join(core,'knowledge',domain,file),'utf8'));await writeFile(join(workspace,'knowledge',domain,file),JSON.stringify(canonicalApi.canonicalEntry(raw),null,2));}
+}
+if(providerMode){
+ const knowledge=resolve(process.env.OSF_KNOWLEDGE);
+ const build=await import(pathToFileURL(join(knowledge,'tools/build.mjs')).href),bundle=await build.build(knowledge);
+ const api=await import(pathToFileURL(join(core,'src/index.ts')).href),node=await import(pathToFileURL(join(core,'src/vocabulary/node.ts')).href);
+ const pin=JSON.parse(await readFile(join(knowledge,'validation/canonical-manifest.json'),'utf8'));
+ const v=await api.composeKnowledge(await node.loadCanonicalVocabulary(join(core,'knowledge')),{snapshot:bundle.snapshot,canonicalManifest:pin,compatibility:bundle.compatibility,taxonomy:bundle.taxonomy});
+ for(const e of v.entries){const domain=e.kind==='ingredient'?'ingredients':e.kind==='process'?'processes':'equipment';await writeFile(join(workspace,'knowledge',domain,e.id+'.yaml'),JSON.stringify(e));}
+ for(const [file,data]of [['enrichment.yaml',v.enrichments],['resources.yaml',v.resources],['taxonomy.json',v.taxonomy]])await writeFile(join(workspace,'knowledge',file),JSON.stringify(data));
+ await writeFile(join(workspace,'DERIVED-KNOWLEDGE.json'),JSON.stringify({editable:false,source:'Explicit Knowledge provider',revision:bundle.snapshot.provider.sourceRevision}));
+}
 await copy(join(corpus,'examples'),join(workspace,'examples'),'corpus/examples');
 await copy(join(corpus,'source'),join(workspace,'source'),'corpus/source');
 await copy(join(corpus,'vocabulary-raw'),join(workspace,'vocabulary-raw'),'corpus/vocabulary-raw');
@@ -31,6 +53,7 @@ for(const e of await readdir(corpus,{withFileTypes:true}))if(e.isFile()&&e.name.
 await copy(join(corpus,'tests/helpers'),join(workspace,'tests/helpers'),'corpus/tests/helpers');
 await copy(join(corpus,'tests/fixtures'),join(workspace,'tests/fixtures'),'corpus/tests/fixtures');
 await copy(join(project,'tests'),join(workspace,'tests'),role+'/tests');
+if(providerMode)await copy(join(project,'tests/provider'),join(workspace,'tests'),'corpus/tests/provider');
 await copy(join(project,'scripts'),join(workspace,'scripts'),role+'/scripts');
 await copy(join(project,'LICENSES'),join(workspace,'LICENSES'),role+'/LICENSES');
 for(const n of ['package.json','tsconfig.json','tsconfig.build.json','README.md','SPEC.md','LICENSING.md','LICENSE'])await cp(join(core,n),join(workspace,n));

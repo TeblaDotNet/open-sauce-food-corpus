@@ -11,7 +11,8 @@
     "test": "node integration.mjs test",
     "check": "node integration.mjs check",
     "build": "node integration.mjs build",
-    "corpus": "node integration.mjs corpus"
+    "corpus": "node integration.mjs corpus",
+    "test:knowledge": "node integration.mjs test:knowledge"
   },
   "dependencies": {
     "yaml": "^2.8.0"

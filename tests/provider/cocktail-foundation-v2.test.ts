@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';import test from 'node:test';import {readFile} from 'node:fs/promises';import {createHash} from 'node:crypto';
+import {parseRecipe,renderCode,semanticTokens,createReferencePage} from '../src/index.ts';import type {Node} from '../src/index.ts';import {loadVocabulary} from '../src/vocabulary/node.ts';
+const p=JSON.parse(await readFile('source/cocktail-specs/provenance.json','utf8'));const batch=p.specs.filter((s:{tranche?:string})=>s.tranche==='cocktail-foundation-v2');const v=await loadVocabulary('knowledge');
+test('v2 retains fifty unique source versions, exact source facts and generated review state',async()=>{
+ assert.equal(batch.length,50);assert.equal(new Set(p.specs.map((s:{id:string})=>s.id)).size,80);assert.equal(batch.filter((s:{publisher:string})=>s.publisher==='IBA').length,12);
+ for(const s of batch){const text=await readFile(s.repositoryPath,'utf8');assert.equal(createHash('sha256').update(text).digest('hex'),s.sha256,s.id);assert.ok(text.includes(s.url));assert.equal(s.retrieved,'2026-10-13');assert.ok(s.rights.method.includes('Independently'));for(const row of s.formula){assert.ok(text.includes(row.quantity+' '+row.sourceLabel),s.id);assert.ok(row.choices.length);}
+ const r=parseRecipe(text,{vocabulary:v});assert.deepEqual(r.diagnostics,[],s.id);assert.equal(r.conversionStage,'reworked');assert.deepEqual(r.curation,{origin:'generated',review:'unchecked'});const code=renderCode(r);assert.equal(renderCode(parseRecipe(code,{vocabulary:v})),code,s.id);
+ const walk=(nodes:Node[])=>{for(const n of nodes){if(n.kind==='statement')for(const t of semanticTokens(n.tokens)){const kind=t.kind==='thing'?t.thingKind:t.kind;if(t.kind==='thing')assert.ok(kind==='choice'||kind==='ingredient'||kind==='equipment',s.id+': unresolved '+t.raw);if(kind==='ingredient'||kind==='equipment'||kind==='process'){assert.ok(t.canonicalId,s.id+': '+t.raw);const page=createReferencePage(v,kind,t.canonicalId!);if(page)assert.equal(page.enrichment?.review_version,0.1,s.id+': '+t.raw);}}if('children'in n)walk(n.children);}};r.sections.forEach(s=>walk(s.children));
+ }
+});
+test('v2 stronger products have evidence, explicit exactness is editorial and alternatives survive',async()=>{
+ const all=(await Promise.all(batch.map((s:{repositoryPath:string})=>readFile(s.repositoryPath,'utf8')))).join('\n');assert.match(all,/@ ~/);assert.match(all,/@ !/);assert.match(all,/-OR-/);
+ let exact=0,preferred=0;for(const s of batch)for(const row of s.formula){for(const c of row.choices){if(c.authoredStrength==='exact'){exact++;assert.equal(c.strengthBasis,'osf-editorial');assert.ok(c.evidence.note.includes('OSF'));}if(c.authoredStrength==='approximate'){preferred++;assert.equal(c.strengthBasis,'source');assert.ok(c.evidence.note);}}if(row.specificity==='expression'){assert.ok(row.hierarchyEvidence);assert.ok(row.brandMaker);assert.ok(row.expression);}}
+ assert.equal(exact,2);assert.ok(preferred>=8);assert.equal(batch.filter((s:{title:string})=>s.title==='Margarita').length,2);assert.equal(batch.filter((s:{title:string})=>s.title==='Sidecar').length,2);
+});
