@@ -1,15 +1,27 @@
-# Open Sauce Food corpus
+# Open Sauce Food Corpus
 
-Extracted from core commit `04c3d1c44f05686bb16729fb926acdde86f43047`. Public corpus project, prepared locally without a remote. Recipes and provenance retain their original bytes and maturity.
+**Open Sauce Food — an open culinary encyclopaedia and recipe collection built using Sauce Code.**
 
-Run `pnpm install`, then `pnpm test`. Other commands are listed in package.json. Requires Node 24+. The default local layout is a parent folder containing `core/`, `corpus/` and `site/`. Commands use `../core` and `../corpus`; set `OSF_CORE` and `OSF_CORPUS` to override those paths. Core never depends on this project.
+Corpus owns the 490-recipe collection, cocktail specifications, source/provenance records, conversion and publication metadata, and corpus-wide regression tests. Recipes remain plain-text .opensauce files. Sauce Code Core owns their language and canonical identities; Knowledge owns optional encyclopaedia content. Generated/reworked conversion status is distinct from human review.
 
-Integration commands assemble fresh ignored .integration/run-* workspaces from current core src/knowledge/tools, corpus data and this project. These generated compatibility copies are not authoritative sources. Original historical paths and assertions remain intact. Each workspace records input hashes in integration-sources.json. Knowledge root callers can consume knowledge/ directly; root-level mirrors exist only for unchanged historical tests. No source/recipe transformations occur during assembly.
+## Local validation
 
-The current core package remains private and does not publish knowledge data. This explicit local source integration contract is transitional; no npm/GitHub publication is implied. Run core validation separately. The application source links still use the historical public core paths; before public publication, supply a source-base pointing at the selected corpus host/revision. Until a corpus remote is approved, inspect local corpus files using their unchanged relative paths. Do not deploy this local restructure.
+Use Node 24+ and pnpm. Install Core and Corpus dependencies with `pnpm install --frozen-lockfile`, then run from Corpus:
 
-Licensing: see LICENSING.md and LICENSES. Retained historical docs may describe pre-extraction paths; archive/docs preserves that context.
+```sh
+pnpm check
+pnpm test
+pnpm corpus
+```
 
-## Canonical and provider validation
+OSF_CORE and OSF_CORPUS override the sibling defaults. Ordinary commands use canonical Core without Knowledge. For retained provider assertions, explicitly set OSF_KNOWLEDGE and the exact OSF_CORE_REVISION and run `pnpm test:knowledge`. This also needs Knowledge's documented build/test prerequisites.
 
-Ordinary check/test/corpus commands use canonical Core vocabulary without Knowledge. For the retained article/reference assertions, explicitly set OSF_KNOWLEDGE and the expected OSF_CORE_REVISION, then run pnpm test:knowledge. This composes the validated provider in a disposable workspace; no recipe source is rewritten. Historical article assertions remain in tests/provider rather than being dropped from coverage.
+Commands create ignored .integration/run-* compatibility workspaces with input hashes. Historical Core-shaped imports run there; those copies are not recipe or vocabulary authorities. No recipe transformation happens during assembly. Core itself has no runtime Corpus dependency.
+
+## Contribution and provenance
+
+Compare conversions with retained sources; preserve amounts, alternatives, instructions and source credits. Do not silently infer missing cooking information or promote review status. Publication visibility is independent of parser validity.
+
+See [contribution/AI policy](../core/CONTRIBUTING.md), [setup matrix](../core/docs/ecosystem.md), [licensing](LICENSING.md), [data sources](archive/docs/DATA-SOURCES.md) and [exclusions](release-exclusions.json). Underlying recipes retain source-specific terms. Cocktail factual formulas and independently authored methods are not a licence to reproduce source articles or photographs.
+
+Historical extraction began at Core 04c3d1c44f05686bb16729fb926acdde86f43047; archived paths and old publication plans are historical evidence. Current local names are in the ecosystem guide; no future GitHub destination is asserted as live.

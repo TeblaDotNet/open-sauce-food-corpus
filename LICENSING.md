@@ -4,6 +4,16 @@ Copyright © 2026 Tebla and Open Sauce Food contributors, for their respective
 contributions. These grants apply only to rights the contributors hold. The root
 [LICENSE](LICENSE) is a scope pointer, not a blanket grant over third-party material.
 
+## Current repository scope
+
+Current Corpus paths: original integration.mjs, scripts/ and tests/ tooling is MIT; authored documentation and original recipe encoding/annotations retain CC BY 4.0 within rights held. Imported recipes, source evidence and images retain their source-specific terms. Project-owned structured reports retain the existing CC0 scope. Canonical vocabulary belongs to Core; article/photo enrichment to Knowledge; presentation/fonts to Site.
+
+This clarification changes no historical grant, copyright credit or third-party notice. [Knowledge rights findings](../knowledge/docs/rights.md) remain an unresolved publication gate for article prose; photographs have individual licences.
+
+## Retained original scope table (historical paths)
+
+The table below preserves the pre-split grants. Paths belonging to another repository are historical ownership references, not files supplied here.
+
 | Material / paths | Terms |
 |---|---|
 | Original parser, model, renderers, vocabulary/reference tooling in `src/`; TypeScript/JavaScript tooling in `scripts/`; test code in `tests/`; `demo/app.js`; build/package configuration and GitHub workflow configuration | [MIT](LICENSES/MIT.txt) |
@@ -16,8 +26,7 @@ contributions. These grants apply only to rights the contributors hold. The root
 
 For CC BY material, credit **Tebla and Open Sauce Food contributors**, identify Open
 Sauce Food and the source/version you used, link the licence and indicate your changes.
-Preserve supplied source-author credits independently. The final repository URL will
-be chosen before publication; none is invented here.
+Preserve supplied source-author credits independently. Identify the actual source revision used; planned repository renaming does not change these credits.
 
 ## Presentation provenance and GPL scope
 
@@ -27,7 +36,7 @@ predates the current Tebla Git history. No audited Open Sauce Food presentation
 code was positively identified as copied from WordPress core or Twenty Twenty-Five;
 GPL-2.0-or-later is used conservatively for this presentation layer. This does not
 automatically apply GPL to the independently scoped MIT parser/tooling. Source for
-the presentation is included in `demo/`; font terms remain separate. See
+the presentation is retained in the Site sibling under demo/; font terms remain separate. See
 [design provenance](../site/DEMO-DESIGN.md).
 
 ## Layered recipe and data terms
