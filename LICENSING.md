@@ -8,7 +8,7 @@ contributions. These grants apply only to rights the contributors hold. The root
 
 Current Corpus paths: original integration.mjs, scripts/ and tests/ tooling is MIT; authored documentation and original recipe encoding/annotations retain CC BY 4.0 within rights held. Imported recipes, source evidence and images retain their source-specific terms. Project-owned structured reports retain the existing CC0 scope. Canonical vocabulary belongs to Core; article/photo enrichment to Knowledge; presentation/fonts to Site.
 
-This clarification changes no historical grant, copyright credit or third-party notice. [Knowledge rights findings](../knowledge/docs/rights.md) describe scoped reuse grants and targeted publication-risk review; specific unresolved copying concerns require clearance or remediation. Photographs have individual licences.
+This clarification changes no historical grant, copyright credit or third-party notice. [Knowledge rights findings](https://github.com/TeblaDotNet/open-sauce-food-knowledge/blob/main/docs/rights.md) describe scoped reuse grants and targeted publication-risk review; specific unresolved copying concerns require clearance or remediation. Photographs have individual licences.
 
 ## Retained original scope table (historical paths)
 
@@ -22,7 +22,7 @@ The table below preserves the pre-split grants. Paths belonging to another repos
 | Authored specification, guides, root/docs Markdown, explanatory material, issue/PR templates and original screenshot contributions | [CC BY 4.0](LICENSES/CC-BY-4.0.txt), except separately identified source material and notices |
 | Open Sauce Food-authored structural encoding and annotations in `.opensauce`, including test fixtures | [CC BY 4.0](LICENSES/CC-BY-4.0.txt), to the extent copyright or related rights apply |
 | Imported source text, images, author records and source expression reproduced in recipes, fixtures, reports, screenshots or metadata | Upstream Public Domain Recipes public-domain / [Unlicense declaration](source/public-domain-recipes/UPSTREAM-LICENSE.md); provenance retained, not relicensed by this project |
-| Manrope and Fira Code font binaries | SIL OFL 1.1; existing [font credits and notices](../site/demo/fonts/README.md) |
+| Manrope and Fira Code font binaries | SIL OFL 1.1; existing font credits and notices (private contributor path: `../site/demo/fonts/README.md`) |
 
 For CC BY material, credit **Tebla and Open Sauce Food contributors**, identify Open
 Sauce Food and the source/version you used, link the licence and indicate your changes.
@@ -37,7 +37,7 @@ code was positively identified as copied from WordPress core or Twenty Twenty-Fi
 GPL-2.0-or-later is used conservatively for this presentation layer. This does not
 automatically apply GPL to the independently scoped MIT parser/tooling. Source for
 the presentation is retained in the Site sibling under demo/; font terms remain separate. See
-[design provenance](../site/DEMO-DESIGN.md).
+design provenance (private contributor path: `../site/DEMO-DESIGN.md`).
 
 ## Layered recipe and data terms
 

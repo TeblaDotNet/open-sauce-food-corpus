@@ -22,6 +22,6 @@ The commands create ignored `.integration/run-*` workspaces and record their inp
 
 Check converted recipes against their retained sources. Keep quantities, alternatives, instructions and credits intact; do not fill gaps by guessing. Mark human review only when it has actually happened. A recipe passing the parser is not automatically ready for publication.
 
-See [contribution/AI policy](../core/CONTRIBUTING.md), [setup matrix](../core/docs/ecosystem.md), [licensing](LICENSING.md), [data sources](archive/docs/DATA-SOURCES.md) and [exclusions](release-exclusions.json). Underlying recipes retain source-specific terms. Cocktail factual formulas and independently authored methods are not a licence to reproduce source articles or photographs.
+See [contribution/AI policy](https://github.com/TeblaDotNet/sauce-code/blob/main/CONTRIBUTING.md), [setup matrix](https://github.com/TeblaDotNet/sauce-code/blob/main/docs/ecosystem.md), [licensing](LICENSING.md), [data sources](archive/docs/DATA-SOURCES.md) and [exclusions](release-exclusions.json). Underlying recipes retain source-specific terms. Cocktail factual formulas and independently authored methods are not a licence to reproduce source articles or photographs.
 
-Historical extraction began at Core 04c3d1c44f05686bb16729fb926acdde86f43047; archived paths and old publication plans are historical evidence. Current local names are in the ecosystem guide; no future GitHub destination is asserted as live.
+Historical extraction began at Core 04c3d1c44f05686bb16729fb926acdde86f43047; archived paths and old publication plans are historical evidence. Current local directories and public GitHub destinations are listed in the ecosystem guide.
