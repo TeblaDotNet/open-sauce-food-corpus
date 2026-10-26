@@ -8,7 +8,7 @@ contributions. These grants apply only to rights the contributors hold. The root
 
 Current Corpus paths: original integration.mjs, scripts/ and tests/ tooling is MIT; authored documentation and original recipe encoding/annotations retain CC BY 4.0 within rights held. Imported recipes, source evidence and images retain their source-specific terms. Project-owned structured reports retain the existing CC0 scope. Canonical vocabulary belongs to Core; article/photo enrichment to Knowledge; presentation/fonts to Site.
 
-This clarification changes no historical grant, copyright credit or third-party notice. [Knowledge rights findings](../knowledge/docs/rights.md) remain an unresolved publication gate for article prose; photographs have individual licences.
+This clarification changes no historical grant, copyright credit or third-party notice. [Knowledge rights findings](../knowledge/docs/rights.md) describe scoped reuse grants and targeted publication-risk review; specific unresolved copying concerns require clearance or remediation. Photographs have individual licences.
 
 ## Retained original scope table (historical paths)
 
