@@ -1,12 +1,12 @@
 # Open Sauce Food Corpus
 
-This is Open Sauce Food's recipe collection: 410 recipes encoded from PublicDomainRecipes and 80 cocktail specifications. It also keeps the original sources, provenance, conversion status and tests for the collection. Recipes are plain-text `.opensauce` files.
+The recipe collection for [Open Sauce Food](https://tebla.net/opensaucefood/). It currently contains 410 recipes converted from PublicDomainRecipes and 80 cocktail specifications, all written in [Sauce Code](https://github.com/TeblaDotNet/sauce-code).
 
-Sauce Code defines the language and shared vocabulary. Open Sauce Food Knowledge supplies optional reference information. A recipe labelled “reworked” has not necessarily been reviewed by a person.
+Alongside the `.opensauce` files, this repository keeps the original sources, credits, conversion history and tests. A recipe that parses successfully still needs to be checked against its source before anyone treats the conversion as reviewed.
 
-## Running the checks
+## Work with the recipes
 
-Use Node 24+ and pnpm. Install Core and Corpus dependencies with `pnpm install --frozen-lockfile`, then run from Corpus:
+Use Node.js 24+ and pnpm. Install dependencies in this repository and in a sibling Sauce Code Core checkout, then run:
 
 ```sh
 pnpm check
@@ -14,14 +14,12 @@ pnpm test
 pnpm corpus
 ```
 
-OSF_CORE and OSF_CORPUS override the sibling defaults. Ordinary commands use canonical Core without Knowledge. For retained provider assertions, explicitly set OSF_KNOWLEDGE and the exact OSF_CORE_REVISION and run `pnpm test:knowledge`. This also needs Knowledge's documented build/test prerequisites.
+`OSF_CORE` and `OSF_CORPUS` can override the default sibling paths. The usual checks run against Core without needing Open Sauce Food Knowledge. Tests that combine the two use `OSF_KNOWLEDGE`, an exact `OSF_CORE_REVISION`, and `pnpm test:knowledge`; see the [developer setup map](https://github.com/TeblaDotNet/sauce-code/blob/main/docs/ecosystem.md).
 
-The commands create ignored `.integration/run-*` workspaces and record their input hashes. Some older tests still expect a Core-shaped directory layout; the workspace provides that layout without moving ownership of recipes or vocabulary. Assembly does not rewrite recipes, and Core does not need Corpus at runtime.
+Some tests still use generated `.integration/run-*` directories to reproduce an older Core layout. These are test files, not places to edit recipes.
 
-## Contributing recipes
+## Contribute a recipe or correction
 
-Check converted recipes against their retained sources. Keep quantities, alternatives, instructions and credits intact; do not fill gaps by guessing. Mark human review only when it has actually happened. A recipe passing the parser is not automatically ready for publication.
+Compare converted instructions with the retained original. Keep quantities, order, alternatives and attribution. If information is missing, flag it rather than inventing it. Human review and publication status are tracked separately from parse results.
 
-See [contribution/AI policy](https://github.com/TeblaDotNet/sauce-code/blob/main/CONTRIBUTING.md), [setup matrix](https://github.com/TeblaDotNet/sauce-code/blob/main/docs/ecosystem.md), [licensing](LICENSING.md), [data sources](archive/docs/DATA-SOURCES.md) and [exclusions](release-exclusions.json). Underlying recipes retain source-specific terms. Cocktail factual formulas and independently authored methods are not a licence to reproduce source articles or photographs.
-
-Historical extraction began at Core 04c3d1c44f05686bb16729fb926acdde86f43047; archived paths and old publication plans are historical evidence. Current local directories and public GitHub destinations are listed in the ecosystem guide.
+See [data sources](archive/docs/DATA-SOURCES.md), [excluded items](release-exclusions.json), [licensing](LICENSING.md) and [contributing](https://github.com/TeblaDotNet/sauce-code/blob/main/CONTRIBUTING.md). Recipes and source material have their own rights; this repository doesn't grant a blanket licence to reuse third-party writing or images.

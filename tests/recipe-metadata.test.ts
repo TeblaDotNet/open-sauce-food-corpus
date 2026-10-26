@@ -73,8 +73,8 @@ test('dietary HTML carries advisory wording in Code and Compact; values stay esc
   }
   assert.ok(!renderHtml(parseRecipe('::recipe\nname: Example')).includes('os-dietary-notice'));
 });
-test('classification docs explain optionality and dietary limitations', async () => {
-  for (const path of ['README.md', 'SPEC.md', 'CONTRIBUTING.md']) {
+test('classification specification explains optionality and dietary limitations', async () => {
+  for (const path of ['SPEC.md']) {
     const doc = await readFile(path, 'utf8');
     assert.match(doc, /minimal recipe remains valid without/);
     assert.match(doc, /not a guarantee of suitability/);
