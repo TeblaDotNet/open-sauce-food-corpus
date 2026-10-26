@@ -4,6 +4,8 @@ The recipe collection for [Open Sauce Food](https://tebla.net/opensaucefood/). I
 
 Alongside the `.opensauce` files, this repository keeps the original sources, credits, conversion history and tests. A recipe that parses successfully still needs to be checked against its source before anyone treats the conversion as reviewed.
 
+**Related repositories:** [Sauce Code Core](https://github.com/TeblaDotNet/sauce-code) · [Knowledge](https://github.com/TeblaDotNet/open-sauce-food-knowledge) · [VS Code](https://github.com/TeblaDotNet/sauce-code-vscode) · [Vim/Neovim](https://github.com/TeblaDotNet/sauce-code-vim)
+
 ## Work with the recipes
 
 Use Node.js 24+ and pnpm. Install dependencies in this repository and in a sibling Sauce Code Core checkout, then run:
